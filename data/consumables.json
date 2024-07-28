@@ -1,0 +1,2473 @@
+[
+	{
+		"name": "Advanced Neural Circuit",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Anode Ion Particle",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Artificial Biometal",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Balanced Plasma Battery",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Carbon Crystal",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Ceramic Composite",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Common Carbon Activator",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Complex Carbon Activator",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Compound Carbon Activator",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Compound Coating Material",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Conductive Metallic Foil",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Cooling Metallic Foil",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Crystal Biogel",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Data Processing Neural Circuit",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Deformed Biometal",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Divided Plasma Battery",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Encrypted Neural Circuit",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Energy Control Core",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Flectorite",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Fusion Plasma Battery",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Hardener",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Heat Plasma Battery",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Hellion",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "High Precision Exchange Components",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Highly Concentrated Energy Residue",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Inorganic Biogel",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Insulated Metallic Foil",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Liquid Metal",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Low Carbon Activator",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Macromolecule Biogel",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Metal Accelerant",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Mixed Energy Residue",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Monad Shard",
+		"type": "Basic Material",
+		"tier": "Standard"
+		
+	},
+	{
+		"name": "Monomolecular Extractor",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Multi Composite Receivers",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Murky Energy Residue",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Nano Compound",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Nanopolymers",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Negative Ion Particle",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Organic Biogel",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Polyatomic Ion Particle",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Positive Ion Particle",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Pure Energy Residue",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Quantum Crystal",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Repton",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Reverse Charging Coil",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Semi Permanent Plasma",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Shape Memory Alloy",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Silicon",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Solenoid",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Specialized Biometal",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Superalloy",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Superconductor Core",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Superfluid",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Synthesized Artificial Biometal",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Thermal Metallic Foil",
+		"type": "Basic Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Void Organism",
+		"type": "Basic Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Energy Activators",
+		"type": "Enhancement Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Crystallization Catalyst",
+		"type": "Enhancement Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Phase Exchanger",
+		"type": "Enhancement Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Adjustment Control Axis",
+		"type": "Enhancement Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Ion Accelerator",
+		"type": "Enhancement Material",
+		"tier": "Standard"
+	},
+	{
+		"name": "Precision Phase Exchanger",
+		"type": "Enhancement Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Fine Adjustment Control Axis",
+		"type": "Enhancement Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Precise Ion Accelerator",
+		"type": "Enhancement Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Afterglow Sword Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Afterglow Sword Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Afterglow Sword Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Afterglow Sword Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Afterglow Sword Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Afterglow Sword Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Afterglow Sword Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Ajax Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ajax Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Ajax Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Ajax Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Ajax Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Ajax Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Ajax Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Albion Cavalry Gun Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Albion Cavalry Gun Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Albion Cavalry Gun Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Albion Cavalry Gun Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Albion Cavalry Gun Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Albion Cavalry Gun Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Albion Cavalry Gun Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Blair Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Blair Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Blair Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Blair Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Blair Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Blair Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Blair Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Blue Beetle Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Blue Beetle Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Blue Beetle Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Blue Beetle Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Blue Beetle Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Blue Beetle Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Blue Beetle Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Bunny Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Bunny Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Bunny Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Bunny Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Bunny Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Bunny Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Bunny Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Clairvoyance Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Clairvoyance Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Clairvoyance Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Clairvoyance Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Clairvoyance Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Clairvoyance Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Clairvoyance Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Crystallization Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Divine Punishment Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Divine Punishment Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Divine Punishment Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Divine Punishment Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Divine Punishment Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Divine Punishment Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Divine Punishment Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Enduring Legacy Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Enduring Legacy Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Enduring Legacy Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Enduring Legacy Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Enduring Legacy Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Enduring Legacy Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Enduring Legacy Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Energy Activator Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Enzo Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Enzo Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Enzo Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Enzo Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Enzo Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Enzo Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Enzo Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Esiemo Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Esiemo Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Esiemo Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Esiemo Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Esiemo Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Esiemo Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Esiemo Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Executor Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Executor Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Executor Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Executor Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Executor Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Executor Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Executor Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Fallen Hope Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Fallen Hope Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Fallen Hope Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Fallen Hope Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Fallen Hope Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Fallen Hope Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Fallen Hope Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Freyna Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Freyna Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Freyna Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Freyna Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Freyna Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Freyna Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Freyna Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Gley Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Gley Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Gley Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Gley Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Gley Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Gley Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Gley Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Greg's Reversed Fate Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Greg's Reversed Fate Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Greg's Reversed Fate Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Greg's Reversed Fate Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Greg's Reversed Fate Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Greg's Reversed Fate Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Greg's Reversed Fate Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Jayber Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Jayber Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Jayber Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Jayber Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Jayber Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Jayber Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Jayber Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "King's Guard Lance Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "King's Guard Lance Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "King's Guard Lance Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "King's Guard Lance Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "King's Guard Lance Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "King's Guard Lance Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "King's Guard Lance Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Kyle Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Kyle Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Kyle Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Kyle Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Kyle Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Kyle Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Kyle Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Lepic Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Lepic Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Lepic Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Lepic Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Lepic Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Lepic Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Lepic Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Nazeistra's Devotion Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Nazeistra's Devotion Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Nazeistra's Devotion Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Nazeistra's Devotion Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Nazeistra's Devotion Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Nazeistra's Devotion Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Nazeistra's Devotion Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Perforator Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Perforator Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Perforator Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Perforator Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Perforator Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Perforator Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Perforator Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Piercing Light Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Piercing Light Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Piercing Light Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Piercing Light Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Piercing Light Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Piercing Light Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Piercing Light Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Python Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Python Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Python Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Python Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Python Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Python Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Python Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Restored Relic Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Restored Relic Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Restored Relic Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Restored Relic Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Restored Relic Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Restored Relic Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Restored Relic Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Secret Garden Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Secret Garden Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Secret Garden Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Secret Garden Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Secret Garden Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Secret Garden Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Secret Garden Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Sharen Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Sharen Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Sharen Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Sharen Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Sharen Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Sharen Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Sharen Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Smithereens Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Smithereens Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Smithereens Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Smithereens Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Smithereens Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Smithereens Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Smithereens Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "The Final Masterpiece Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "The Final Masterpiece Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "The Final Masterpiece Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "The Final Masterpiece Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "The Final Masterpiece Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "The Final Masterpiece Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "The Final Masterpiece Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "The Last Dagger Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "The Last Dagger Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "The Last Dagger Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "The Last Dagger Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "The Last Dagger Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "The Last Dagger Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "The Last Dagger Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Thunder Cage Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Thunder Cage Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Thunder Cage Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Thunder Cage Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Thunder Cage Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Thunder Cage Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Thunder Cage Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Ultimate Ajax Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Ajax Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Ajax Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Ajax Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Ajax Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Ajax Stabilizer",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Ajax Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Bunny Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Bunny Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Bunny Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Bunny Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Bunny Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Bunny Stabilizer",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Bunny Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Gley Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Gley Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Gley Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Gley Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Gley Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Gley Stabilizer",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Gley Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Lepic Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Lepic Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Lepic Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Lepic Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Lepic Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Lepic Stabilizer",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Lepic Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Viessa Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Viessa Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Viessa Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Viessa Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Viessa Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Viessa Stabilizer",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Ultimate Viessa Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Valby Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Valby Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Valby Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Valby Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Valby Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Valby Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Valby Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Viessa Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Viessa Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Viessa Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Viessa Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Viessa Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Viessa Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Viessa Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Wave Of Light Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Wave Of Light Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Wave Of Light Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Wave Of Light Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Wave Of Light Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Wave Of Light Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Wave Of Light Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Yujin Code",
+		"type": "Core Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Yujin Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Yujin Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Yujin Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Yujin Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Yujin Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Yujin Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Shape Stabilizer Form 1",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Shape Stabilizer Form 2",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Shape Stabilizer Form 3",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Shape Stabilizer Form 4",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Shape Stabilizer Form 5",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Shape Stabilizer Form 6",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Shape Stabilizer Form 7",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Shape Stabilizer Form 8",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: Bunny",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: Freyna",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 1",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 2",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 3",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 4",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 5",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 6",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 7",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 8",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 9",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 10",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 11",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 12",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 13",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 14",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 15",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 16",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 17",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 18",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 19",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 20",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 21",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 22",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 23",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 24",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 25",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 26",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 27",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 28",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 29",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 30",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 31",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 32",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 33",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 34",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 35",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 36",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 37",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 38",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 39",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 40",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 41",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 42",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 43",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 44",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 45",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 46",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 47",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 48",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 49",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 50",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 51",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 52",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 53",
+		"type": "Amorphous Material",
+		"tier": "Rare"
+	},
+	{
+		"name": "Amorphous Material Pattern: 54",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 55",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 56",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 57",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 58",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 59",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 60",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 61",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 62",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 63",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 64",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 65",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 66",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 67",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 68",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 69",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 70",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 71",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 72",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 73",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 74",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 75",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 76",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 77",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 78",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 79",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 80",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 81",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 82",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 83",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 84",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 85",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 86",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 87",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 88",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 89",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 90",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 91",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 92",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 93",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 94",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 95",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 96",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 97",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 98",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 99",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 100",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 101",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 102",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 103",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 104",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 105",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 106",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 107",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 108",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 109",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 110",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 111",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 112",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 113",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 114",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 115",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 116",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 117",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 118",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 119",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 120",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 121",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 122",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 123",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 124",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 125",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 126",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Amorphous Material Pattern: 127",
+		"type": "Amorphous Material",
+		"tier": "Ultimate"
+	},
+	{
+		"name": "Polymer Void Shard",
+		"type": "Miscellaneous",
+		"tier": "Standard"
+	},
+	{
+		"name": "Organic Void Shard",
+		"type": "Miscellaneous",
+		"tier": "Standard"
+	},
+	{
+		"name": "Monomer Void Shard",
+		"type": "Miscellaneous",
+		"tier": "Standard"
+	},
+	{
+		"name": "Inorganic Void Shard",
+		"type": "Miscellaneous",
+		"tier": "Standard"
+	},
+	{
+		"name": "Code Analyzer",
+		"type": "Miscellaneous",
+		"tier": "Standard"
+	},
+	{
+		"name": "Precision Code Analyzer",
+		"type": "Miscellaneous",
+		"tier": "Standard"
+	},
+	{
+		"name": "Ultra Precision Code Analyzer",
+		"type": "Miscellaneous",
+		"tier": "Rare"
+	},
+	{
+		"name": "Code Breaker",
+		"type": "Miscellaneous",
+		"tier": "Standard"
+	},
+	{
+		"name": "Precision Code Breaker",
+		"type": "Miscellaneous",
+		"tier": "Standard"
+	},
+	{
+		"name": "Ultra Precision Code Breaker",
+		"type": "Miscellaneous",
+		"tier": "Rare"
+	}
+]

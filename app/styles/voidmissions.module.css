@@ -1,0 +1,28 @@
+.main{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 50px 0;
+	gap: 50px;
+}
+.info_container{
+	display: flex;
+	background-color: rgb(40,49,62);
+	border: 1px solid gray;
+	border-radius: 15px;
+	padding: 0 40px;
+	max-width: 80%;
+}
+.info_content{
+	display: flex;
+	flex-direction: column;
+	padding-left: 15px;
+	gap: 5px;
+}
+.info_content li::marker {
+	color: #ff5733;
+}
+.grid_container{
+	width: 80%;
+}

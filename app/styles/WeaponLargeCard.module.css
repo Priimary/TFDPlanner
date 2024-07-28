@@ -1,0 +1,44 @@
+.card{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.card_header{
+	display: flex;
+	width: 100%;
+	align-items: center;
+	height: 50px;
+	padding: 10px;
+	box-sizing: border-box;
+	background-color: #15171c;
+}
+.weapon_tier{
+	display: flex;
+	width: 70px;
+}
+.weapon_type{
+	display: flex;
+	flex: 1;
+	justify-content: center;
+}
+.weapon_rounds_type{
+	display: flex;
+	width: 70px;
+	justify-content: flex-end;
+}
+.card_media{
+	width: 60%;
+}
+.card_content{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 10px;
+	padding-bottom: 0!important;
+	background-color: #242a39;
+}
+.weapon_name{
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 30px;
+}

@@ -1,0 +1,3582 @@
+[
+  {
+    "id": "Bunny",
+    "drop_location": "Kingston [N] - Slumber Valley",
+    "open_location": "Grave Walker",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Bunny Code",
+        "drop_rate": 1
+      }
+    ]
+  },
+  {
+    "id": "Freyna",
+    "drop_location": "Sterile Land [N] - Rockfall Outpost",
+    "open_location": "Sterile Land [N] - Rockfall Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Freyna Code",
+        "drop_rate": 1
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "drop_location": "Kingston [N] - Fallen Theatre Outpost",
+    "open_location": "Kingston [N] - Grand Square Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Lepic Stabilizer Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "The Final Masterpiece Nano Tube Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Piercing Light Nano Tube Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Nazeistra's Devotion Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "drop_location": "Kingston [N] - Magister Lab",
+    "open_location": "Grave Walker",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Afterglow Sword Polymer Syncytium Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Greg's Reversed Fate Synthetic Fiber Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Smithereens Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Gley Code",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "drop_location": "Kingston [N] - Slumber Valley",
+    "open_location": "Grave Walker",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Jayber Enhanced Cells Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Enzo Enhanced Cells Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Albion Cavalry Gun Nano Tube Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Nazeistra's Devotion Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "drop_location": "Kingston Defense",
+    "open_location": "Grave Walker",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Secret Garden Nano Tube Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Viessa Enhanced Cells Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Lepic Stabilizer Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Wave of Light Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "drop_location": "Kingston Defense",
+    "open_location": "Grave Walker",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Executor Nano Tube Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ajax Enhanced Cells Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Python Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "The Final Masterpiece Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "drop_location": "Sterile Land [N] - Rockfall Outpost",
+    "open_location": "Sterile Land [N] - Rockfall Void Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Ultimate Lepic Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Smithereens Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Restored Relic Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Valby Code",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "drop_location": "Sterile Land [N] - Repository Outpost",
+    "open_location": "Sterile Land [N] - Repository Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Kyle Code",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Python Nano Tube Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Nazeistra's Devotion Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Albion Cavalry Gun Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "drop_location": "Sterile Land [N] - Classified Area Outpost",
+    "open_location": "Sterile Land [N] - Restricted Zone Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "King's Guard Lance Polymer Syncytium Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Greg's Reversed Fate Polymer Syncytium Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Viessa Spiral Catalyst Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Piercing Light Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "drop_location": "Sterile Land [N] - The Forgottense",
+    "open_location": "Stunning Beauty",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Bunny Enhanced Cells Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "King's Guard Lance Synthetic Fiber Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Valby Spiral Catalyst Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Python Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "drop_location": "Sterile Land [N] - Unknown Laboratory",
+    "open_location": "Stunning Beauty",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Blue Beetle Polymer Syncytium Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Lepic Spiral Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Nazeistra's Devotion Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Divine Punishment Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "drop_location": "Sterile Land - Block Kuiper Mining",
+    "open_location": "Stunning Beauty",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Perforator Polymer Syncytium Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Divine Punishment Polymer Syncytium Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Enzo Spiral Catalyst Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "The Final Masterpiece Nano Tube Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "drop_location": "Sterile Land - Block Kuiper Mining",
+    "open_location": "Stunning Beauty",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Enduring Legacy Synthetic Fiber Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Lepic Enhanced Cells Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Greg's Reversed Fate Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Gley Enhanced Cells Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "drop_location": "Vespers [N] - Lumber Yard Outpost",
+    "open_location": "Vespers [N] - The Ruins Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Lepic Code",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Gley Stabilizer Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "King's Guard Lance Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "The Final Masterpiece Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "drop_location": "Vespers [N] - Lost Supply Depot Outpost",
+    "open_location": "Vespers [N] - Lost Supply Depot Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Perforator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Divine Punishment Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Viessa Stabilizer Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Smithereens Nano Tube Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "drop_location": "Vespers [N] - Moonlight Lake Outpost",
+    "open_location": "Vespers [N] - Moonlight Lake Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Esiemo Spiral Catalyst Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Restored Relic Polymer Syncytium Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Albion Cavalry Gun Nano Tube Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Nazeistra's Devotion Nano Tube Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "drop_location": "Vespers [N] - The Sepulcher",
+    "open_location": "Executioner [N]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Secret Garden Polymer Syncytium Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Wave of Light Synthetic Fiber Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Albion Cavalry Gun Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Valby Enhanced Cells Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "drop_location": "Vespers [N] - The Shelter",
+    "open_location": "Executioner [N]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Bunny Spiral Catalyst Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Kyle Stabilizer Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Nazeistra's Devotion Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Smithereens Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "drop_location": "Vespers - Neutralize Void Experiment",
+    "open_location": "Executioner [N]",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Perforator Synthetic Fiber Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Viessa Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "The Final Masterpiece Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Greg's Reversed Fate Nano Tube Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "drop_location": "Vespers - Neutralize Void Experiment",
+    "open_location": "Executioner [N]",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Ajax Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Piercing Light Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Blue Beetle Nano Tube Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Lepic Stabilizer Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "drop_location": "Echo Swamp [N] - Muskeg Swamp Outpost",
+    "open_location": "Echo Swamp [N] - Muskeg Swamp Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Executor Synthetic Fiber Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Restored Relic Synthetic Fiber Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Valby Stabilizer Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Albion Cavalry Gun Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "drop_location": "Echo Swamp [N] - Derelict Covert Outpost",
+    "open_location": "Echo Swamp [N] - Derelict Covert Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Lepic Code",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Piercing Light Synthetic Fiber Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Nazeistra's Devotion Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Enzo Spiral Catalyst Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "drop_location": "Echo Swamp [N] - Seed Vault",
+    "open_location": "Dead Bride",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Esiemo Enhanced Cells Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Divine Punishment Nano Tube Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Nazeistra's Devotion Nano Tube Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Smithereens Nano Tube Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "drop_location": "Echo Swamp [N] - The Chapel",
+    "open_location": "Dead Bride",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Blue Beetle Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Valby Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Restored Relic Nano Tube Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Greg's Reversed Fate Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "drop_location": "Echo Swamp - Defend Albion Resoruces",
+    "open_location": "Dead Bride",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Ultimate Bunny Stabilizer Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Viessa Stabilizer Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Smithereens Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Nazeistra's Devotion Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "drop_location": "Echo Swamp - Defend Albion Resoruces",
+    "open_location": "Dead Bride",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Python Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Blue Beetle Synthetic Fiber Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Enzo Code",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Nazeistra's Devotion Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "drop_location": "Agna Desert [N] - Vermilion Waste Outpost",
+    "open_location": "Agna Desert [N] - Vermilion Waste Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Ultimate Lepic Enhanced Cells Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Afterglow Sword Synthetic Fiber Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Blue Beetle Nano Tube Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Valby Spiral Catalyst Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "drop_location": "Agna Desert [N] - The Storage Outpost",
+    "open_location": "Agna Desert [N] - The Storage Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Perforator Synthetic Fiber Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Smithereens Polymer Syncytium Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Ajax Enhanced Cells Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Albion Cavalry Gun Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "drop_location": "Agna Desert [N] - Miragestone Outpost",
+    "open_location": "Agna Desert [N] - Miragestone Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Gley Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Greg's Reversed Fate Nano Tube Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Smithereens Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Enzo Enhanced Cells Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "drop_location": "Agna Desert [N] - The Asylum",
+    "open_location": "Devourer [N]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Secret Garden Synthetic Fiber Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Python Polymer Syncytium Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Valby Stabilizer Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Greg's Reversed Fate Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "drop_location": "Agna Desert [N] - Caligo Ossuary",
+    "open_location": "Devourer [N]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Clairvoyance Synthetic Fiber Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Viessa Code",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Albion Cavalry Gun Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "The Final Masterpiece Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "drop_location": "Agna Desert - Neutralize Void Experiment",
+    "open_location": "Devourer [N]",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Ajax Spiral Catalyst Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Executor Polymer Syncytium Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "The Final Masterpiece Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Albion Cavalry Gun Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "drop_location": "Agna Desert - Neutralize Void Experiment",
+    "open_location": "Devourer [N]",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Wave of Light Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Secret Garden Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Valby Code",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Restored Relic Nano Tube Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "drop_location": "White-night Gulch [N] - Mountaintops Outpost",
+    "open_location": "White-night Gulch [N] - Mountaintops Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Yujin Spiral Catalyst Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Restored Relic Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Valby Enhanced Cells Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Piercing Light Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "drop_location": "White-night Gulch [N] - Shpiment Base Outpost",
+    "open_location": "White-night Gulch [N] - Observatory Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Secret Garden Polymer Syncytium Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "The Final Masterpiece Polymer Syncytium Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Greg's Reversed Fate Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Viessa Enhanced Cells Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "drop_location": "White-night Gulch [N] - Hatchery Outpost",
+    "open_location": "White-night Gulch [N] - Hatchery Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Ajax Enhanced Cells Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Blue Beetle Synthetic Fiber Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Enzo Code",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "King's Guard Lance Nano Tube Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "drop_location": "White-night Gulch [N] - Mystery's End",
+    "open_location": "Pyromaniac [N]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Executor Nano Tube Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Valby Code",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Divine Punishment Nano Tube Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Smithereens Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "drop_location": "White-night Gulch [N] - Bio-Lab",
+    "open_location": "Pyromaniac [N]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Executor Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Albion Cavalry Gun Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Restored Relic Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Enzo Spiral Catalyst Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "drop_location": "White-night Gulch - Block Kuiper Mining",
+    "open_location": "Pyromaniac [N]",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Ultimate Viessa Code",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Perforator Nano Tube Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Divine Punishment Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Smithereens Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "drop_location": "White-night Gulch - Block Kuiper Mining",
+    "open_location": "Pyromaniac [N]",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Clairvoyance Synthetic Fiber Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Python Nano Tube Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Enzo Stabilizer Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Wave of Light Nano Tube Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "drop_location": "Hagios [N] - Dune Base Outpost",
+    "open_location": "Hagios [N] - Dune Base Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "King's Guard Lance Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Piercing Light Nano Tube Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Restored Relic Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Enzo Stabilizer Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "drop_location": "Hagios [N] - Corrupted Zone Outpost",
+    "open_location": "Hagios [N] - Corrupted Zone Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Kyle Enhanced Cells Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Clairvoyance Nano Tube Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Nazeistra's Devotion Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Restored Relic Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "drop_location": "Hagios [N] - Forward Base Outpost",
+    "open_location": "Hagios [N] - Fractured Monolith Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Blue Beetle Polymer Syncytium Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Albion Cavalry Gun Synthetic Fiber Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Valby Stabilizer Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "The Final Masterpiece Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "drop_location": "Hagios [N] - The Haven",
+    "open_location": "Swamp Walker [N]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Viessa Stabilizer Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Lepic Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Albion Cavalry Gun Nano Tube Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Restored Relic Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "drop_location": "Hagios [N] - Old Mystery",
+    "open_location": "Swamp Walker [N]",	
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Jayber Stabilizer Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Python Polymer Syncytium Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "The Final Masterpiece Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Greg's Reversed Fate Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "drop_location": "Hagios - Neutralize Void Experiment",
+    "open_location": "Swamp Walker [N]",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Yujin Enhanced Cells Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Jayber Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "King's Guard Lance Nano Tube Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Greg's Reversed Fate Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "drop_location": "Hagios - Neutralize Void Experiment",
+    "open_location": "Swamp Walker [N]",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Executor Synthetic Fiber Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Divine Punishment Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Restored Relic Nano Tube Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Viessa Spiral Catalyst Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "drop_location": "Fortress [N] - Frozen Valley Outpost",
+    "open_location": "Fortress [N] - Frozen Valley Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Jayber Code",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Smithereens Polymer Syncytium Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Gley Stabilizer Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Piercing Light Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "drop_location": "Fortress [N] - Fallen Ark Outpost",
+    "open_location": "Fortress [N] - Fallen Ark Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "King's Guard Lance Polymer Syncytium Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Divine Punishment Synthetic Fiber Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Wave of Light Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Valby Enhanced Cells Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "drop_location": "Fortress [N] - Defense Line Outpost",
+    "open_location": "Fortress [N] - Defense Line Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Perforator Polymer Syncytium Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Ajax Stabilizer Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Greg's Reversed Fate Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Restored Relic Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "drop_location": "Fortress [N] - Quarantine Zone",
+    "open_location": "Hanged Man",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Gley Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Enzo Enhanced Cells Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Nazeistra's Devotion Nano Tube Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "The Final Masterpiece Nano Tube Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "drop_location": "Fortress [N] - Heart of the Fortress",
+    "open_location": "Hanged Man",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Clairvoyance Polymer Syncytium Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Enzo Stabilizer Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Albion Cavalry Gun Polymer Syncytium Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Greg's Reversed Fate Nano Tube Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "drop_location": "Fortress - Defend Albion Resources",
+    "open_location": "Hanged Man",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Ultimate Bunny Code",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Smithereens Nano Tube Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Wave of Light Nano Tube Blueprint",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "The Final Masterpiece Synthetic Fiber Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "drop_location": "Fortress - Defend Albion Resources",
+    "open_location": "Hanged Man",
+	"drop_location_type": "Special Ops",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.03
+      },
+      {
+        "name": "Enduring Legacy Nano Tube Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Piercing Light Synthetic Fiber Blueprint",
+        "drop_rate": 0.15
+      },
+      {
+        "name": "Enzo Code",
+        "drop_rate": 0.38
+      },
+      {
+        "name": "Gley Enhanced Cells Blueprint",
+        "drop_rate": 0.38
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "drop_location": "Kingston [H] - Fallen Theatre Outpost",
+    "open_location": "Kingston [H] - Grand Square Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Esiemo Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Kyle Enhanced Cells Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Python Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Secret Garden Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "drop_location": "Kingston [H] - Fallen Theatre Outpost",
+    "open_location": "Kingston [H] - Grand Square Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Kyle Spiral Catalyst Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Jayber Enhanced Cells Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Executor Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Afterglow Sword Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "drop_location": "Kingston [H] - Magister Lab",
+    "open_location": "Executioner [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Viessa Enhanced Cells Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Afterglow Sword Nano Tube Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Lepic Stabilizer Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Smithereens Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "drop_location": "Kingston [H] - Magister Lab",
+    "open_location": "Executioner [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ultimate Ajax Enhanced Cells Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Yujin Spiral Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "King's Guard Lance Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Clairvoyance Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "drop_location": "Kingston [H] - Slumber Valley",
+    "open_location": "Executioner [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Gley Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Clairvoyance Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Kyle Stabilizer Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Piercing Light Nano Tube Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "drop_location": "Kingston [H] - Slumber Valley",
+    "open_location": "Executioner [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Enduring Legacy Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Ultimate Lepic Stabilizer Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Python Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Esiemo Enhanced Cells Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "drop_location": "Sterile Land [H] - Rockfall Outpost",
+    "open_location": "Sterile Land [H] - Rockfall Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Gley Enhanced Cells Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Perforator Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Ajax Enhanced Cells Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Clairvoyance Nano Tube Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "drop_location": "Sterile Land [H] - Rockfall Outpost",
+    "open_location": "Sterile Land [H] - Rockfall Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ultimate Lepic Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Esiemo Spiral Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Secret Garden Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Nazeistra's Devotion Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "drop_location": "Sterile Land [H] - The Repository Outpost",
+    "open_location": "Sterile Land [H] - The Repository Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Ajax Stabilizer Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Restored Relic Nano Tube Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Afterglow Sword Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Jayber Stabilizer Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "drop_location": "Sterile Land [H] - The Repository Outpost",
+    "open_location": "Sterile Land [H] - The Repository Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Valby Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Kyle Enhanced Cells Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Wave of Light Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Python Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "drop_location": "Sterile Land [H] - Classified Area Outpost",
+    "open_location": "Sterile Land [H] - Restricted Zone Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Yujin Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Greg's Reversed Fate Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "King's Guard Lance Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Lepic Enhanced Cells Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "drop_location": "Sterile Land [H] - Classified Area Outpost",
+    "open_location": "Sterile Land [H] - Restricted Zone Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Yujin Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Jayber Code",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Perforator Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Enduring Legacy Nano Tube Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "drop_location": "Sterile Land [H] - The Forgottense",
+    "open_location": "Dead Bride [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Ajax Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Afterglow Sword Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Gley Enhanced Cells Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Albion Cavalry Gun Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "drop_location": "Sterile Land [H] - The Forgottense",
+    "open_location": "Dead Bride [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Esiemo Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Ajax Spiral Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Enduring Legacy Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Executor Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "drop_location": "Sterile Land [H] - Unknown Laboratory",
+    "open_location": "Dead Bride [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Gley Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "The Final Masterpiece Synthetic Fiber Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Wave of Light Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Viessa Enhanced Cells Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "drop_location": "Sterile Land [H] - Unknown Laboratory",
+    "open_location": "Dead Bride [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ultimate Lepic Spiral Catalyst Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Gley Code",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Perforator Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Blue Beetle Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "drop_location": "Vespers [H] - The Lumber Yard Outpost",
+    "open_location": "Vespers [H] - The Ruins Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Viessa Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ajax Spiral Catalyst Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Blue Beetle Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Executor Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "drop_location": "Vespers [H] - The Lumber Yard Outpost",
+    "open_location": "Vespers [H] - The Ruins Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Yujin Spiral Catalyst Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Jayber Spiral Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Afterglow Sword Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Python Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "drop_location": "Vespers [H] - Lost Supply Depot Outpost",
+    "open_location": "Vespers [H] - Lost Supply Depot Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Gley Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Lepic Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Wave of Light Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Greg's Reversed Fate Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "drop_location": "Vespers [H] - Lost Supply Depot Outpost",
+    "open_location": "Vespers [H] - Lost Supply Depot Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ultimate Bunny Enhanced Cells Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Kyle Code",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Divine Punishment Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Perforator Nano Tube Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "drop_location": "Vespers [H] - Moonlight Lake Outpost",
+    "open_location": "Vespers [H] - Moonlight Lake Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Esiemo Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Secret Garden Nano Tube Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Ultimate Lepic Enhanced Cells Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Piercing Light Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "drop_location": "Vespers [H] - Moonlight Lake Outpost",
+    "open_location": "Vespers [H] - Moonlight Lake Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ultimate Viessa Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Ajax Code",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Nazeistra's Devotion Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "King's Guard Lance Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "drop_location": "Vespers [H] - The Sepulcher",
+    "open_location": "Devourer [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Gley Stabilizer Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Enduring legacy Polymer Syncytium Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Wave of Light Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Kyle Stabilizer Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "drop_location": "Vespers [H] - The Sepulcher",
+    "open_location": "Devourer [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Esiemo Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Ultimate Lepic Enhanced Cells Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Executor Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Blue Beetle Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "drop_location": "Vespers [H] - The Shelter",
+    "open_location": "Devourer [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Ajax Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Smithereens Polymer Syncytium Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Gley Spiral Catalyst Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Enduring Legacy Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "drop_location": "Vespers [H] - The Shelter",
+    "open_location": "Devourer [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Yujin Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Afterglow Sword Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Lepic Spiral Catalyst Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Albion Cavalry Gun Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "drop_location": "Echo Swamp [H] - Muskeg Swamp Outpost",
+    "open_location": "Echo Swamp [H] - Muskeg Swamp Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Yujin Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Perforator Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Lepic Enhanced Cells Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Executor Nano Tube Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "drop_location": "Echo Swamp [H] - Muskeg Swamp Outpost",
+    "open_location": "Echo Swamp [H] - Muskeg Swamp Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Esiemo Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Afterglow Sword Nano Tube Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Enzo Stabilizer Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "King's Guard Lance Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "drop_location": "Echo Swamp [H] - Derelict Covert Outpost",
+    "open_location": "Echo Swamp [H] - Derelict Covert Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Bunny Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Kyle Enhanced Cells Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Secret Garden Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Executor Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "drop_location": "Echo Swamp [H] - Derelict Covert Outpost",
+    "open_location": "Echo Swamp [H] - Derelict Covert Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Viessa Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Enduring Legacy Polymer Syncytium Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Gley Stabilizer Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Albion Cavalry Gun Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "drop_location": "Echo Swamp [H] - Seed Vault",
+    "open_location": "Pyromaniac [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Gley Enhanced Cells Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Clairvoyance Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Viessa Spiral Catalyst Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Divine Punishment Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "drop_location": "Echo Swamp [H] - Seed Vault",
+    "open_location": "Pyromaniac [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ultimate Lepic Spiral Catalyst Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Yujin Enhanced Cells Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Secret Garden Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Smithereens Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "drop_location": "Echo Swamp [H] - The Chapel",
+    "open_location": "Pyromaniac [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Viessa Enhanced Cells Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Valby Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Blue Beetle Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Restored Relic Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "drop_location": "Echo Swamp [H] - The Chapel",
+    "open_location": "Pyromaniac [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Kyle Spiral Catalyst Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Ultimate Bunny Spiral Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Wave of Light Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Enduring Legacy Nano Tube Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "drop_location": "Agna Desert [H] - Vermilion Waste Outpost",
+    "open_location": "Agna Desert [H] - Vermilion Waste Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Ajax Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Secret Garden Nano Tube Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Ajax Stabilizer Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Python Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "drop_location": "Agna Desert [H] - Vermilion Waste Outpost",
+    "open_location": "Agna Desert [H] - Vermilion Waste Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ultimate Lepic Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Jayber Spiral Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Afterglow Sword Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Divine Punishment Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "drop_location": "Agna Desert [H] - The Storage Outpost",
+    "open_location": "Agna Desert [H] - The Storage Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Esiemo Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Yujin Enhanced Cells Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Executor Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Kings' Guard Lance Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "drop_location": "Agna Desert [H] - The Storage Outpost",
+    "open_location": "Agna Desert [H] - The Storage Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ultimate Viessa Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Jayber Enhanced Cells Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Perforator Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Piercing Light Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "drop_location": "Agna Desert [H] - Miragestone Outpost",
+    "open_location": "Agna Desert [H] - Miragestone Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Gley Stabilizer Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Jayber Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Blue Beetle Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Clairvoyance Nano Tube Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "drop_location": "Agna Desert [H] - Miragestone Outpost",
+    "open_location": "Agna Desert [H] - Miragestone Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Enzo Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Gley Code",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Smithereens Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Wave of Light Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "drop_location": "Agna Desert [H] - The Asylum",
+    "open_location": "Swamp Walker [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Ajax Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Afterglow Sword Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Lepic Spiral Catalyst Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Blue Beetle Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "drop_location": "Agna Desert [H] - The Asylum",
+    "open_location": "Swamp Walker [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Yujin Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Viessa Code",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Clairvoyance Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Divine Punishment Nano Tube Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "drop_location": "Agna Desert [H] - Caligo Ossuary",
+    "open_location": "Swamp Walker [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Gley Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ajax Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Python Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "The Final Masterpiece Nano Tube Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "drop_location": "Agna Desert [H] - Caligo Ossuary",
+    "open_location": "Swamp Walker [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Enduring Legacy Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Enzo Enhanced Cells Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "King's Guard Lance Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Viessa Enhanced Cells Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "drop_location": "White-night Gulch [H] - The Mountaintops Outpost",
+    "open_location": "White-night Gulch [H] - The Mountaintops Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Ajax Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Lepic Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Wave of Light Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "King's Guard Lance Nano Tube Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "drop_location": "White-night Gulch [H] - The Mountaintops Outpost",
+    "open_location": "White-night Gulch [H] - The Mountaintops Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ultimate Bunny Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Clairvoyance Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Secret Garden Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Gley Spiral Catalyst Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "drop_location": "White-night Gulch [H] - Shipment  Base Outpost",
+    "open_location": "White-night Gulch [H] - Observatory Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Yujin Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Jayber Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Afterglow Sword Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Executor Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "drop_location": "White-night Gulch [H] - Shipment  Base Outpost",
+    "open_location": "White-night Gulch [H] - Observatory Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Enduring Legacy Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Kyle Code",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Jayber Stabilizer Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Perforator Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "drop_location": "White-night Gulch [H] - Hatchery Outpost",
+    "open_location": "White-night Gulch [H] - Hatchery Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Gley Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Viessa Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Python Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Piercing Light Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "drop_location": "White-night Gulch [H] - Hatchery Outpost",
+    "open_location": "White-night Gulch [H] - Hatchery Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Esiemo Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Ajax Code",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Blue Beetle Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Divine Punishment Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "drop_location": "Hagios [H] - The Haven",
+    "open_location": "Obstructer [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Gley Stabilizer Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Enduring legacy Polymer Syncytium Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Executor Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Esiemo Enhanced Cells Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "drop_location": "Hagios [H] - The Haven",
+    "open_location": "Obstructer [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Kyle Spiral Catalyst Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Ultimate Lepic Stabilizer Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Greg's Reversed Fate Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Python Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "drop_location": "Hagios [H] - Old Mystery",
+    "open_location": "Obstructer [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Bunny Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Lepic Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Piercing Light Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Clairvoyance Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "drop_location": "Hagios [H] - Old Mystery",
+    "open_location": "Obstructer [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ultimate Viessa Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Afterglow Sword Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Ajax Stabilizer Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Albion Cavalry Gun Nano Tube Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "drop_location": "Hagios [H] - Dune Base Outpost",
+    "open_location": "Hagios [H] - Dune Base Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Viessa Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Secret Garden Nano Tube Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Lepic Enhanced Cells Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Nazeistra's Devotion Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "drop_location": "Hagios [H] - Dune Base Outpost",
+    "open_location": "Hagios [H] - Dune Base Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Kyle Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Esiemo Spiral Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Piercing Light Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "King's Guard Lance Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "drop_location": "Hagios [H] - Corrupted Zone Outpost",
+    "open_location": "Hagios [H] - Corrupted Zone Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Esiemo Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Enzo Spiral Catalyst Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Clairvoyance Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Restored Relic Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "drop_location": "Hagios [H] - Corrupted Zone Outpost",
+    "open_location": "Hagios [H] - Corrupted Zone Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Yujin Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Afterglow Sword Nano Tube Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Jayber Stabilizer Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Enduring Legacy Nano Tube Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "drop_location": "Hagios [H] - Forward Base Outpost",
+    "open_location": "Hagios [H] - Fractured Monolith Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Ajax Stabilizer Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Valby Spiral Catalyst Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "The Final Masterpiece Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Secret Garden Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "drop_location": "Hagios [H] - Forward Base Outpost",
+    "open_location": "Hagios [H] - Fractured Monolith Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ultimate Bunny Enhanced Cells Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Clairvoyance Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Perforator Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Ajax Stabilizer Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "drop_location": "White-night Gulch [H] - Mystery's End",
+    "open_location": "Frost Walker [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Viessa Enhanced Cells Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Yujin Enhanced Cells Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Secret Garden Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Greg's Reversed Fate Nano Tube Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "drop_location": "White-night Gulch [H] - Mystery's End",
+    "open_location": "Frost Walker [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Viessa Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Enduring Legacy Polymer Syncytium Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Gley Stabilizer Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Wave of Light Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "drop_location": "White-night Gulch [H] - Bio-Lab",
+    "open_location": "Frost Walker [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Ajax Stabilizer Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Jayber Spiral Catalyst Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Divine Punishment Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Clairvoyance Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "drop_location": "White-night Gulch [H] - Bio-Lab",
+    "open_location": "Frost Walker [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ultimate Bunny Stabilizer Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Viessa Spiral Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "The Final Masterpiece Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "King's Guard Lance Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "drop_location": "Fortress [H] - Frozen Valley Outpost",
+    "open_location": "Fortress [H] - Frozen Valley Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Viessa Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Valby Enhanced Cells Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Piercing Light Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Nazeistra's Devotion Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "drop_location": "Fortress [H] - Frozen Valley Outpost",
+    "open_location": "Fortress [H] - Frozen Valley Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Enduring Legacy Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Jabyer Enhanced Cells Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Blue Beetle Nano Tube Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Ajax Enhanced Cells Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "drop_location": "Fortress [H] - Converter Facility Outpost",
+    "open_location": "Fortress [H] - Fallen Ark Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Yujin Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Wave of Light Synthetic Fiber Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Gley Enhanced Cells Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Secret Garden Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "drop_location": "Fortress [H] - Converter Facility Outpost",
+    "open_location": "Fortress [H] - Fallen Ark Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ultimate Ajax Enhanced Cells Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Esiemo Enhanced Cells Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Clairvoyance Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Executor Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "drop_location": "Fortress [H] - Defense Line Outpost",
+    "open_location": "Fortress [H] - Defense Line Void Reactor",
+	"drop_location_type": "Outpost",
+    "rewards": [
+      {
+        "name": "Ultimate Gley Enhanced Cells Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Perforator Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Afterglow Sword Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Lepic Stabilizer Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "drop_location": "Fortress [H] - Defense Line Outpost",
+    "open_location": "Fortress [H] - Defense Line Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Kyle Spiral Catalyst Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Ultimate Bunny Spiral Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Python Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Divine Punishment Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "drop_location": "Fortress [H] - Quarantine Zone",
+    "open_location": "Molten Fortress [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimate Ajax Spiral Catalyst Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Gley Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Restored Relic Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Perforator Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "drop_location": "Fortress [H] - Quarantine Zone",
+    "open_location": "Molten Fortress [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ultimate Viessa Code",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Yujin Spiral Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Piercing Light Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Wave of Light Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "drop_location": "Fortress [H] - Heart of the Fortress",
+    "open_location": "Molten Fortress [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Ultimat Gley Code",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Ajax Spiral Catalyst Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Crystallization Catalyst Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Divine Punishment Polymer Syncytium Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Enduring Legacy Synthetic Fiber Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "drop_location": "Fortress [H] - Heart of the Fortress",
+    "open_location": "Molten Fortress [H]",
+	"drop_location_type": "Dungeon",
+    "rewards": [
+      {
+        "name": "Energy Activator Blueprint",
+        "drop_rate": 0.06
+      },
+      {
+        "name": "Esiemo Spiral Catalyst Blueprint",
+        "drop_rate": 0.1
+      },
+      {
+        "name": "Afterglow Sword Nano Tube Blueprint",
+        "drop_rate": 0.2
+      },
+      {
+        "name": "Kyle Stabilizer Blueprint",
+        "drop_rate": 0.32
+      },
+      {
+        "name": "Blue Beetle Blueprint",
+        "drop_rate": 0.32
+      }
+    ]
+  }
+]

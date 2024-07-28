@@ -1,0 +1,14 @@
+.text{
+	color: rgb(199,165,56);
+	font-size: 26px;
+	text-decoration: none;
+	font-family: "Goldman", sans-serif;
+	font-weight: 700;
+  	font-style: normal;
+}
+.container{
+	display: flex;
+	text-decoration: none;
+	align-items: center;
+	width: 100%;
+}

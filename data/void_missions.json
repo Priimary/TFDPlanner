@@ -1,0 +1,1708 @@
+[
+  {
+    "location": "Sterile Land - Rockfall",
+    "type": "Fragment",
+    "element": "Electric",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 6
+      },
+      {
+        "name": "polymer",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "location": "Agna Desert - The Mining Site",
+    "type": "Fragment",
+    "element": "Electric",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 7
+      },
+      {
+        "name": "polymer",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "location": "Sterile Land - Rockfall",
+    "type": "Reactor",
+    "element": "Elite",
+    "difficulty": "Normal",
+    "bonus": "Electric Transition (Bunny)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 12
+      },
+      {
+        "name": "polymer",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "Agna Desert - Miragestone",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Normal",
+    "bonus": "Power Unit Change (Lepic)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 12
+      },
+      {
+        "name": "polymer",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "location": "Sterile Land - Rockfall",
+    "type": "Fragment",
+    "element": "Electric",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 19
+      },
+      {
+        "name": "polymer",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "location": "Agna Desert - The Mining Site",
+    "type": "Fragment",
+    "element": "Electric",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 20
+      },
+      {
+        "name": "polymer",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "Sterile Land - Rockfall",
+    "type": "Reactor",
+    "element": "Elite",
+    "difficulty": "Hard",
+    "bonus": "Electric Transition (Bunny)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 38
+      },
+      {
+        "name": "polymer",
+        "value": 7
+      }
+    ]
+  },
+  {
+    "location": "Agna Desert - Miragestone",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Hard",
+    "bonus": "Power Unit Change (Lepic)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 39
+      },
+      {
+        "name": "polymer",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "location": "Sterile Land - Repository",
+    "type": "Fragment",
+    "element": "Electric",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 6
+      },
+      {
+        "name": "inorganic",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "location": "Fortress - Fallen Ark",
+    "type": "Fragment",
+    "element": "Electric",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 7
+      },
+      {
+        "name": "inorganic",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "location": "Sterile Land - Repository",
+    "type": "Reactor",
+    "element": "Elite",
+    "difficulty": "Normal",
+    "bonus": "Cold Snap Watch (Viessa)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 11
+      },
+      {
+        "name": "inorganic",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "location": "Fortress - Fallen Ark",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Normal",
+    "bonus": "Backdraft (Blair)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 14
+      },
+      {
+        "name": "inorganic",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "location": "Fortress - Fallen Ark",
+    "type": "Fragment",
+    "element": "Electric",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 17
+      },
+      {
+        "name": "inorganic",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "location": "Fortress - Fallen Ark",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Hard",
+    "bonus": "Backdraft (Blair",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 34
+      },
+      {
+        "name": "inorganic",
+        "value": 11
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - Observatory",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Normal",
+    "bonus": "Electric Transition (Bunny)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 13
+      },
+      {
+        "name": "organic",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "location": "Sterile Land - Repository",
+    "type": "Fragment",
+    "element": "Electric",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 19
+      },
+      {
+        "name": "organic",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "location": "Sterile Land - Repository",
+    "type": "Reactor",
+    "element": "Elite",
+    "difficulty": "Hard",
+    "bonus": "Cold Snap Watch (Viessa)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 37
+      },
+      {
+        "name": "organic",
+        "value": 8
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - Observatory",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Hard",
+    "bonus": "Electric Transition (Bunny)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 37
+      },
+      {
+        "name": "organic",
+        "value": 8
+      }
+    ]
+  },
+  {
+    "location": "Vespers - The Ruins",
+    "type": "Fragment",
+    "element": "Chill",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 2
+      },
+      {
+        "name": "polymer",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - Observatory",
+    "type": "Fragment",
+    "element": "Chill",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 2
+      },
+      {
+        "name": "polymer",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "location": "Fortress - Defense Line",
+    "type": "Fragment",
+    "element": "Chill",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 1
+      },
+      {
+        "name": "polymer",
+        "value": 7
+      }
+    ]
+  },
+  {
+    "location": "Vespers - The Ruins",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Normal",
+    "bonus": "Cold-Bloodedness (Viessa)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 4
+      },
+      {
+        "name": "polymer",
+        "value": 11
+      }
+    ]
+  },
+  {
+    "location": "Fortress - Defense Line",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Normal",
+    "bonus": "Toxic Stimulation (Freyna)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 2
+      },
+      {
+        "name": "polymer",
+        "value": 13
+      }
+    ]
+  },
+  {
+    "location": "Vespers - The Ruins",
+    "type": "Fragment",
+    "element": "Chill",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 6
+      },
+      {
+        "name": "polymer",
+        "value": 17
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - Observatory",
+    "type": "Fragment",
+    "element": "Chill",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 4
+      },
+      {
+        "name": "polymer",
+        "value": 19
+      }
+    ]
+  },
+  {
+    "location": "Fortress - Defense Line",
+    "type": "Fragment",
+    "element": "Chill",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 3
+      },
+      {
+        "name": "polymer",
+        "value": 20
+      }
+    ]
+  },
+  {
+    "location": "Vespers - The Ruins",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Hard",
+    "bonus": "Cold-Bloodedness (Viessa)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 11
+      },
+      {
+        "name": "polymer",
+        "value": 34
+      }
+    ]
+  },
+  {
+    "location": "Fortress - Defense Line",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Hard",
+    "bonus": "Toxic Stimulation (Freyna)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 6
+      },
+      {
+        "name": "polymer",
+        "value": 39
+      }
+    ]
+  },
+  {
+    "location": "Vespers - Lost Supply Depot",
+    "type": "Fragment",
+    "element": "Fire",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 6
+      },
+      {
+        "name": "organic",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "location": "Fortress - Frozen Valley",
+    "type": "Fragment",
+    "element": "Chill",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 6
+      },
+      {
+        "name": "organic",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "location": "Sterile Land - Restricted Zone",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Normal",
+    "bonus": "Regenerative Braking (Lepic)",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 13
+      },
+      {
+        "name": "organic",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "location": "Vespers - Lost Supply Depot",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Normal",
+    "bonus": "Void Explosion (Ajax)",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 12
+      },
+      {
+        "name": "organic",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "Fortress - Frozen Valley",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Normal",
+    "bonus": "Supply Moisture (Valby)",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 12
+      },
+      {
+        "name": "organic",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "Vespers - Lost Supply Depot",
+    "type": "Fragment",
+    "element": "Fire",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 19
+      },
+      {
+        "name": "organic",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "location": "Fortress - Frozen Valley",
+    "type": "Fragment",
+    "element": "Chill",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 19
+      },
+      {
+        "name": "organic",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "location": "Sterile Land - Restricted Zone",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Hard",
+    "bonus": "Regenerative Braking (Lepic)",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 38
+      },
+      {
+        "name": "organic",
+        "value": 7
+      }
+    ]
+  },
+  {
+    "location": "Vespers - Lost Supply Depot",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Hard",
+    "bonus": "Void Explosion (Ajax)",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 38
+      },
+      {
+        "name": "organic",
+        "value": 7
+      }
+    ]
+  },
+  {
+    "location": "Fortress - Frozen Valley",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Hard",
+    "bonus": "Supply Moisture (Valby)",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 37
+      },
+      {
+        "name": "organic",
+        "value": 8
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - The Mountaintops",
+    "type": "Fragment",
+    "element": "Toxic",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 2
+      },
+      {
+        "name": "inorganic",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "location": "Echo Swamp - Muskeg Swamp",
+    "type": "Fragment",
+    "element": "Toxic",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 2
+      },
+      {
+        "name": "inorganic",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - The Mountaintops",
+    "type": "Reactor",
+    "element": "Elite",
+    "difficulty": "Normal",
+    "bonus": "Toxic Stimulation (Freyna)",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 4
+      },
+      {
+        "name": "inorganic",
+        "value": 11
+      }
+    ]
+  },
+  {
+    "location": "Hagios - Fractured Monolith",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Normal",
+    "bonus": "Nerve Infiltration (Lepic)",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 4
+      },
+      {
+        "name": "inorganic",
+        "value": 11
+      }
+    ]
+  },
+  {
+    "location": "Echo Swamp - Abandoned Zone",
+    "type": "Fragment",
+    "element": "Toxic",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 6
+      },
+      {
+        "name": "inorganic",
+        "value": 17
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - The Mountaintops",
+    "type": "Fragment",
+    "element": "Toxic",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 7
+      },
+      {
+        "name": "inorganic",
+        "value": 16
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - The Mountaintops",
+    "type": "Reactor",
+    "element": "Elite",
+    "difficulty": "Hard",
+    "bonus": "Toxic Stimulation (Freyna)",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 14
+      },
+      {
+        "name": "inorganic",
+        "value": 31
+      }
+    ]
+  },
+  {
+    "location": "Hagios - Fractured Monolith",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Hard",
+    "bonus": "Nerve Infiltration (Lepic)",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 9
+      },
+      {
+        "name": "inorganic",
+        "value": 36
+      }
+    ]
+  },
+  {
+    "location": "Echo Swamp - Derelict Cover",
+    "type": "Fragment",
+    "element": "Toxic",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 7
+      },
+      {
+        "name": "organic",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - Shipment Base",
+    "type": "Fragment",
+    "element": "Toxic",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 6
+      },
+      {
+        "name": "organic",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "location": "Kingston - Grand Square",
+    "type": "Reactor",
+    "element": "Elite",
+    "difficulty": "Normal",
+    "bonus": "None",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 12
+      },
+      {
+        "name": "organic",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "Echo Swamp - Derelict Cover",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Normal",
+    "bonus": "Void Explosion  (Ajax)",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 13
+      },
+      {
+        "name": "organic",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - Hatchery",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Normal",
+    "bonus": "Backdraft (Blair)",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 12
+      },
+      {
+        "name": "organic",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "Echo Swamp - Derelict Cover",
+    "type": "Fragment",
+    "element": "Toxic",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 20
+      },
+      {
+        "name": "organic",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - Shipment Base",
+    "type": "Fragment",
+    "element": "Toxic",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 20
+      },
+      {
+        "name": "organic",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "Kingston - Grand Square",
+    "type": "Reactor",
+    "element": "Elite",
+    "difficulty": "Hard",
+    "bonus": "Matrix Recomputation (Ajax)",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 36
+      },
+      {
+        "name": "organic",
+        "value": 9
+      }
+    ]
+  },
+  {
+    "location": "Echo Swamp - Derelict Cover",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Hard",
+    "bonus": "Void Explosion (Ajax)",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 39
+      },
+      {
+        "name": "organic",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - Hatchery",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Hard",
+    "bonus": "Backdraft (Blair)",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 40
+      },
+      {
+        "name": "organic",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "location": "Echo Swamp - Abandoned Zone",
+    "type": "Fragment",
+    "element": "Fire",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 2
+      },
+      {
+        "name": "organic",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "location": "Hagios - Dune Base",
+    "type": "Fragment",
+    "element": "Fire",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 2
+      },
+      {
+        "name": "organic",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "location": "Echo Swamp - Muskeg Swamp",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Normal",
+    "bonus": "Cold-Bloodedness (Viessa)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 4
+      },
+      {
+        "name": "organic",
+        "value": 11
+      }
+    ]
+  },
+  {
+    "location": "Hagios - Dune Base",
+    "type": "Reactor",
+    "element": "Elite",
+    "difficulty": "Normal",
+    "bonus": "Battlesuit Melting Rounds (Sharen)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 4
+      },
+      {
+        "name": "organic",
+        "value": 11
+      }
+    ]
+  },
+  {
+    "location": "Echo Swamp - Muskeg Swamp",
+    "type": "Fragment",
+    "element": "Fire",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 5
+      },
+      {
+        "name": "organic",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "location": "Agna Desert - The Storage",
+    "type": "Fragment",
+    "element": "Fire",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 4
+      },
+      {
+        "name": "organic",
+        "value": 19
+      }
+    ]
+  },
+  {
+    "location": "Hagios - Dune Base",
+    "type": "Fragment",
+    "element": "Fire",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 6
+      },
+      {
+        "name": "organic",
+        "value": 17
+      }
+    ]
+  },
+  {
+    "location": "Echo Swamp - Muskeg Swamp",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Hard",
+    "bonus": "Cold-Bloodedness (Viessa)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 10
+      },
+      {
+        "name": "organic",
+        "value": 35
+      }
+    ]
+  },
+  {
+    "location": "Hagios - Dune Base",
+    "type": "Reactor",
+    "element": "Elite",
+    "difficulty": "Hard",
+    "bonus": "Battlesuit Melting Rounds (Sharen)",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 11
+      },
+      {
+        "name": "organic",
+        "value": 34
+      }
+    ]
+  },
+  {
+    "location": "Agna Desert - The Storage",
+    "type": "Fragment",
+    "element": "Fire",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 2
+      },
+      {
+        "name": "organic",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "location": "Vespers - Moonlight Lake",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Normal",
+    "bonus": "Nerve Infiltration (Lepic)",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 2
+      },
+      {
+        "name": "organic",
+        "value": 13
+      }
+    ]
+  },
+  {
+    "location": "Agna Desert - The Storage",
+    "type": "Reactor",
+    "element": "Elite",
+    "difficulty": "Normal",
+    "bonus": "Battlesuit Melting Rounds (Sharen)",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 4
+      },
+      {
+        "name": "organic",
+        "value": 11
+      }
+    ]
+  },
+  {
+    "location": "Agna Desert - The Storage",
+    "type": "Reactor",
+    "element": "Elite",
+    "difficulty": "Hard",
+    "bonus": "Battlesuit Melting Rounds (Sharen)",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 7
+      },
+      {
+        "name": "organic",
+        "value": 38
+      }
+    ]
+  },
+  {
+    "location": "Vespers - Moonlight Lake",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Hard",
+    "bonus": "Nerve Infiltration (Lepic)",
+    "materials": [
+      {
+        "name": "polymer",
+        "value": 9
+      },
+      {
+        "name": "organic",
+        "value": 36
+      }
+    ]
+  },
+  {
+    "location": "Agna Desert - Vermillion Waste",
+    "type": "Fragment",
+    "element": "Electric",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 2
+      },
+      {
+        "name": "organic",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - Hatchery",
+    "type": "Fragment",
+    "element": "Fire",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 2
+      },
+      {
+        "name": "organic",
+        "value": 6
+      }
+    ]
+  },
+  {
+    "location": "Hagios - The Corrupted Zone",
+    "type": "Fragment",
+    "element": "Fire",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 1
+      },
+      {
+        "name": "organic",
+        "value": 7
+      }
+    ]
+  },
+  {
+    "location": "Agna Desert - Vermillion Waste",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Normal",
+    "bonus": "Glacial Cloud (Viessa)",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 3
+      },
+      {
+        "name": "organic",
+        "value": 12
+      }
+    ]
+  },
+  {
+    "location": "Hagios - The Corrupted Zone",
+    "type": "Reactor",
+    "element": "Elite",
+    "difficulty": "Normal",
+    "bonus": "Supply Moisture (Valby)",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 1
+      },
+      {
+        "name": "organic",
+        "value": 14
+      }
+    ]
+  },
+  {
+    "location": "Agna Desert - Vermillion Waste",
+    "type": "Fragment",
+    "element": "Electric",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 3
+      },
+      {
+        "name": "organic",
+        "value": 20
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - Hatchery",
+    "type": "Fragment",
+    "element": "Fire",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 4
+      },
+      {
+        "name": "organic",
+        "value": 19
+      }
+    ]
+  },
+  {
+    "location": "Hagios - The Corrupted Zone",
+    "type": "Fragment",
+    "element": "Fire",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 5
+      },
+      {
+        "name": "organic",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "location": "Agna Desert - Vermillion Waste",
+    "type": "Reactor",
+    "element": "Boss",
+    "difficulty": "Hard",
+    "bonus": "Glacial Cloud (Viessa)",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 5
+      },
+      {
+        "name": "organic",
+        "value": 40
+      }
+    ]
+  },
+  {
+    "location": "Hagios - The Corrupted Zone",
+    "type": "Reactor",
+    "element": "Elite",
+    "difficulty": "Hard",
+    "bonus": "Supply Moisture (Valby)",
+    "materials": [
+      {
+        "name": "inorganic",
+        "value": 10
+      },
+      {
+        "name": "organic",
+        "value": 35
+      }
+    ]
+  },
+  {
+    "location": "Sterile Land - Ironworks",
+    "type": "Fragment",
+    "element": "Chill",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 1
+      },
+      {
+        "name": "polymer",
+        "value": 1
+      },
+      {
+        "name": "inorganic",
+        "value": 1
+      },
+      {
+        "name": "organic",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "location": "Sterile Land - Restricted Zone",
+    "type": "Fragment",
+    "element": "Fire",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 1
+      },
+      {
+        "name": "polymer",
+        "value": 1
+      },
+      {
+        "name": "inorganic",
+        "value": 1
+      },
+      {
+        "name": "organic",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "location": "Kingston - Grand Square",
+    "type": "Fragment",
+    "element": "Non-Attribute",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 1
+      },
+      {
+        "name": "polymer",
+        "value": 1
+      },
+      {
+        "name": "inorganic",
+        "value": 1
+      },
+      {
+        "name": "organic",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "location": "Vespers - Moonlight Lake",
+    "type": "Fragment",
+    "element": "Non-Attribute",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 1
+      },
+      {
+        "name": "polymer",
+        "value": 1
+      },
+      {
+        "name": "inorganic",
+        "value": 1
+      },
+      {
+        "name": "organic",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "location": "Vespers - Timberfall",
+    "type": "Fragment",
+    "element": "Non-Attribute",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 1
+      },
+      {
+        "name": "polymer",
+        "value": 1
+      },
+      {
+        "name": "inorganic",
+        "value": 1
+      },
+      {
+        "name": "organic",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "location": "Agna Desert - Miragestone",
+    "type": "Fragment",
+    "element": "Non-Attribute",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 1
+      },
+      {
+        "name": "polymer",
+        "value": 1
+      },
+      {
+        "name": "inorganic",
+        "value": 1
+      },
+      {
+        "name": "organic",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - Moongrave Basin",
+    "type": "Fragment",
+    "element": "Non-Attribute",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 1
+      },
+      {
+        "name": "polymer",
+        "value": 1
+      },
+      {
+        "name": "inorganic",
+        "value": 1
+      },
+      {
+        "name": "organic",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "location": "Hagios - Fractured Monolith",
+    "type": "Fragment",
+    "element": "Non-Attribute",
+    "difficulty": "Normal",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 1
+      },
+      {
+        "name": "polymer",
+        "value": 1
+      },
+      {
+        "name": "inorganic",
+        "value": 1
+      },
+      {
+        "name": "organic",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "location": "Kingston - Grand Square",
+    "type": "Fragment",
+    "element": "Non-Attribute",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 3
+      },
+      {
+        "name": "polymer",
+        "value": 3
+      },
+      {
+        "name": "inorganic",
+        "value": 3
+      },
+      {
+        "name": "organic",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "Sterile Land - Ironworks",
+    "type": "Fragment",
+    "element": "Chill",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 3
+      },
+      {
+        "name": "polymer",
+        "value": 3
+      },
+      {
+        "name": "inorganic",
+        "value": 3
+      },
+      {
+        "name": "organic",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "Sterile Land - Restricted Zone",
+    "type": "Fragment",
+    "element": "Fire",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 3
+      },
+      {
+        "name": "polymer",
+        "value": 3
+      },
+      {
+        "name": "inorganic",
+        "value": 3
+      },
+      {
+        "name": "organic",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "Vespers - Moonlight Lake",
+    "type": "Fragment",
+    "element": "Non-Attribute",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 3
+      },
+      {
+        "name": "polymer",
+        "value": 3
+      },
+      {
+        "name": "inorganic",
+        "value": 3
+      },
+      {
+        "name": "organic",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "Vespers - Timberfall",
+    "type": "Fragment",
+    "element": "Non-Attribute",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 3
+      },
+      {
+        "name": "polymer",
+        "value": 3
+      },
+      {
+        "name": "inorganic",
+        "value": 3
+      },
+      {
+        "name": "organic",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "Agna Desert - Miragestone",
+    "type": "Fragment",
+    "element": "Non-Attribute",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 3
+      },
+      {
+        "name": "polymer",
+        "value": 3
+      },
+      {
+        "name": "inorganic",
+        "value": 3
+      },
+      {
+        "name": "organic",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "White-night Gulch - Moongrave Basin",
+    "type": "Fragment",
+    "element": "Non-Attribute",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 3
+      },
+      {
+        "name": "polymer",
+        "value": 3
+      },
+      {
+        "name": "inorganic",
+        "value": 3
+      },
+      {
+        "name": "organic",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "location": "Hagios - Fractured Monolith",
+    "type": "Fragment",
+    "element": "Non-Attribute",
+    "difficulty": "Hard",
+    "materials": [
+      {
+        "name": "monomer",
+        "value": 3
+      },
+      {
+        "name": "polymer",
+        "value": 3
+      },
+      {
+        "name": "inorganic",
+        "value": 3
+      },
+      {
+        "name": "organic",
+        "value": 3
+      }
+    ]
+  }
+]

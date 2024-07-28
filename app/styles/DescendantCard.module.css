@@ -1,0 +1,25 @@
+.card{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #6c768e;
+	border-radius: 10%;
+}
+.card_content{
+	width: 100%;
+	padding: 5px 0 5px 0!important;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	background-color: #15171c;
+	text-transform: uppercase;
+	overflow: hidden;
+}
+.card_text{
+	font-size: 14px;
+	font-weight: bold;
+}

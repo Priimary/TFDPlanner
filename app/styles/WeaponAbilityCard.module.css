@@ -1,0 +1,26 @@
+.card{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 0;
+	width: 100%;
+}
+.card_header{
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+.card_content{
+	display: flex;
+	flex-direction: column;
+	background-color: #242a39;
+}
+.ability_name{
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+.ability_description{
+	font-size: 16px;
+	margin: 0;
+}

@@ -1,0 +1,1629 @@
+[
+  {
+    "name": "Ajax Code",
+    "amorphous": 19,
+    "drop_location": "Vespers - Neutralize Void Experiment",
+    "open_location": "Executioner [N]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ajax Code",
+    "amorphous": 75,
+    "drop_location": "Vespers [H] - Moonlight Lake Outpost",
+    "open_location": "Vespers [H] - Moonlight Lake Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Ajax Code",
+    "amorphous": 96,
+    "drop_location": "Agna Desert [H] - Caligo Ossuary",
+    "open_location": "Swamp Walker [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ajax Code",
+    "amorphous": 103,
+    "drop_location": "White-night Gulch [H] - Hatchery Outpost",
+    "open_location": "White-night Gulch [H] - Hatchery Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Ajax Enhanced Cells Blueprint",
+    "amorphous": 5,
+    "drop_location": "Kingston Defense",
+    "open_location": "Grave Walker",
+    "drop_rate": 0.15
+  },
+  {
+    "name": "Ajax Enhanced Cells Blueprint",
+    "amorphous": 27,
+    "drop_location": "Agna Desert [N] - The Storage Outpost",
+    "open_location": "Agna Desert [N] - The Storage Void Reactor",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Ajax Enhanced Cells Blueprint",
+    "amorphous": 60,
+    "drop_location": "Sterile Land [H] - Rockfall Outpost",
+    "open_location": "Sterile Land [H] - Rockfall Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Ajax Enhanced Cells Blueprint",
+    "amorphous": 119,
+    "drop_location": "Fortress [H] - Frozen Valley Outpost",
+    "open_location": "Fortress [H] - Frozen Valley Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Ajax Stabilizer Blueprint",
+    "amorphous": 49,
+    "drop_location": "Fortress [N] - Defense Line Outpost",
+    "open_location": "Fortress [N] - Defense Line Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ajax Stabilizer Blueprint",
+    "amorphous": 88,
+    "drop_location": "Agna Desert [H] - Vermilion Waste Outpost",
+    "open_location": "Agna Desert [H] - Vermilion Waste Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Ajax Stabilizer Blueprint",
+    "amorphous": 107,
+    "drop_location": "Hagios [H] - Old Mystery",
+    "open_location": "Obstructer [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Ajax Stabilizer Blueprint",
+    "amorphous": 113,
+    "drop_location": "Hagios [H] - Forward Base Outpost",
+    "open_location": "Hagios [H] - Fractured Monolith Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Ajax Spiral Catalyst Blueprint",
+    "amorphous": 31,
+    "drop_location": "Agna Desert - Neutralize Void Experiment",
+    "open_location": "Devourer [N]",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Ajax Spiral Catalyst Blueprint",
+    "amorphous": 67,
+    "drop_location": "Sterile Land [H] - The Forgottense",
+    "open_location": "Dead Bride [H]",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Ajax Spiral Catalyst Blueprint",
+    "amorphous": 70,
+    "drop_location": "Vespers [H] - The Lumber Yard Outpost",
+    "open_location": "Vespers [H] - The Ruins Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ajax Spiral Catalyst Blueprint",
+    "amorphous": 126,
+    "drop_location": "Fortress [H] - Heart of the Fortress",
+    "open_location": "Molten Fortress [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ultimate Ajax Code",
+    "amorphous": 66,
+    "drop_location": "Sterile Land [H] - The Forgottense",
+    "open_location": "Dead Bride [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Ajax Code",
+    "amorphous": 78,
+    "drop_location": "Vespers [H] - The Shelter",
+    "open_location": "Devourer [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Ajax Code",
+    "amorphous": 88,
+    "drop_location": "Agna Desert [H] - Vermilion Waste Outpost",
+    "open_location": "Agna Desert [H] - Vermilion Waste Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Ajax Enhanced Cells Blueprint",
+    "amorphous": 35,
+    "drop_location": "White-night Gulch [N] - Hatchery Outpost",
+    "open_location": "White-night Gulch [N] - Hatchery Void Reactor",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Ultimate Ajax Enhanced Cells Blueprint",
+    "amorphous": 57,
+    "drop_location": "Kingston [H] - Magister Lab",
+    "open_location": "Executioner [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ultimate Ajax Enhanced Cells Blueprint",
+    "amorphous": 121,
+    "drop_location": "Fortress [H] - Converter Facility Outpost",
+    "open_location": "Fortress [H] - Fallen Ark Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ultimate Ajax Stabilizer Blueprint",
+    "amorphous": 62,
+    "drop_location": "Sterile Land [H] - The Repository Outpost",
+    "open_location": "Sterile Land [H] - The Repository Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Ajax Stabilizer Blueprint",
+    "amorphous": 112,
+    "drop_location": "Hagios [H] - Forward Base Outpost",
+    "open_location": "Hagios [H] - Fractured Monolith Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Ajax Stabilizer Blueprint",
+    "amorphous": 116,
+    "drop_location": "White-night Gulch [H] - Bio-Lab",
+    "open_location": "Frost Walker [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Ajax Spiral Catalyst Blueprint",
+    "amorphous": 94,
+    "drop_location": "Agna Desert [H] - The Asylum",
+    "open_location": "Swamp Walker [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Ajax Spiral Catalyst Blueprint",
+    "amorphous": 98,
+    "drop_location": "White-night Gulch [H] - The Mountaintops Outpost",
+    "open_location": "White-night Gulch [H] - The Mountaintops Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Ajax Spiral Catalyst Blueprint",
+    "amorphous": 124,
+    "drop_location": "Fortress [H] - Quarantine Zone",
+    "open_location": "Molten Fortress [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Blair Code",
+    "amorphous": "N/A",
+    "drop_location": "Hagios [N] - Old Mystery",
+    "open_location": "N/A",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Blair Enhanced Cells Blueprint",
+    "amorphous": "N/A",
+    "drop_location": "White-night Gulch [N] - Mystery's End",
+    "open_location": "N/A",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Blair Stabilizer Blueprint",
+    "amorphous": "N/A",
+    "drop_location": "White-night Gulch [N] - Bio-Lab",
+    "open_location": "N/A",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Blair Spiral Catalyst Blueprint",
+    "amorphous": "N/A",
+    "drop_location": "Hagios [N] - The Haven",
+    "open_location": "N/A",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Bunny Code",
+    "amorphous": "Bunny",
+    "drop_location": "Kingston [N] - Slumber Valley",
+    "open_location": "Grave Walker",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Bunny Enhanced Cells Blueprint",
+    "amorphous": "N/A",
+    "drop_location": "Kingston [N] - Vulgus Field Generator",
+    "open_location": "N/A",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Bunny Stabilizer Blueprint",
+    "amorphous": "N/A",
+    "drop_location": "Kingston [N] - Magister Lab",
+    "open_location": "N/A",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Bunny Spiral Catalyst Blueprint",
+    "amorphous": "N/A",
+    "drop_location": "Kingston [N] - Vulgus Data Transmitter",
+    "open_location": "N/A",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Ultimate Bunny Code",
+    "amorphous": 52,
+    "drop_location": "Fortress - Defend Albion Resources",
+    "open_location": "Hanged Man",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Ultimate Bunny Code",
+    "amorphous": 82,
+    "drop_location": "Echo Swamp [H] - Derelict Covert Outpost",
+    "open_location": "Echo Swamp [H] - Derelict Covert Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Bunny Code",
+    "amorphous": 106,
+    "drop_location": "Hagios [H] - Old Mystery",
+    "open_location": "Obstructer [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Bunny Enhanced Cells Blueprint",
+    "amorphous": 9,
+    "drop_location": "Sterile Land [N] - The Forgottense",
+    "open_location": "Stunning Beauty",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Ultimate Bunny Enhanced Cells Blueprint",
+    "amorphous": 73,
+    "drop_location": "Vespers [H] - Lost Supply Depot Outpost",
+    "open_location": "Vespers [H] - Lost Supply Depot Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ultimate Bunny Enhanced Cells Blueprint",
+    "amorphous": 113,
+    "drop_location": "Hagios [H] - Forward Base Outpost",
+    "open_location": "Hagios [H] - Fractured Monolith Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ultimate Bunny Stabilizer Blueprint",
+    "amorphous": 24,
+    "drop_location": "Echo Swamp - Defend Albion Resoruces",
+    "open_location": "Dead Bride",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Ultimate Bunny Stabilizer Blueprint",
+    "amorphous": 99,
+    "drop_location": "White-night Gulch [H] - The Mountaintops Outpost",
+    "open_location": "White-night Gulch [H] - The Mountaintops Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ultimate Bunny Stabilizer Blueprint",
+    "amorphous": 117,
+    "drop_location": "White-night Gulch [H] - Bio-Lab",
+    "open_location": "Frost Walker [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ultimate Bunny Spiral Catalyst Blueprint",
+    "amorphous": 17,
+    "drop_location": "Vespers [N] - The Shelter",
+    "open_location": "Executioner [N]",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Ultimate Bunny Spiral Catalyst Blueprint",
+    "amorphous": 87,
+    "drop_location": "Echo Swamp [H] - The Chapel",
+    "open_location": "Pyromaniac [H]",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Ultimate Bunny Spiral Catalyst Blueprint",
+    "amorphous": 123,
+    "drop_location": "Fortress [H] - Defense Line Outpost",
+    "open_location": "Fortress [H] - Defense Line Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Enzo Code",
+    "amorphous": 25,
+    "drop_location": "Echo Swamp - Defend Albion Resoruces",
+    "open_location": "Dead Bride",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Enzo Code",
+    "amorphous": 35,
+    "drop_location": "White-night Gulch [N] - Hatchery Outpost",
+    "open_location": "White-night Gulch [N] - Hatchery Void Reactor",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Enzo Code",
+    "amorphous": 53,
+    "drop_location": "Fortress - Defend Albion Resources",
+    "open_location": "Hanged Man",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Enzo Code",
+    "amorphous": 93,
+    "drop_location": "Agna Desert [H] - Miragestone Outpost",
+    "open_location": "Agna Desert [H] - Miragestone Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Enzo Enhanced Cells Blueprint",
+    "amorphous": 3,
+    "drop_location": "Kingston [N] - Slumber Valley",
+    "open_location": "Grave Walker",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Enzo Enhanced Cells Blueprint",
+    "amorphous": 28,
+    "drop_location": "Agna Desert [N] - Miragestone Outpost",
+    "open_location": "Agna Desert [N] - Miragestone Void Reactor",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Enzo Enhanced Cells Blueprint",
+    "amorphous": 50,
+    "drop_location": "Fortress [N] - Quarantine Zone",
+    "open_location": "Hanged Man",
+    "drop_rate": 0.15
+  },
+  {
+    "name": "Enzo Enhanced Cells Blueprint",
+    "amorphous": 97,
+    "drop_location": "Agna Desert [H] - Caligo Ossuary",
+    "open_location": "Swamp Walker [H]",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Enzo Stabilizer Blueprint",
+    "amorphous": 39,
+    "drop_location": "White-night Gulch - Block Kuiper Mining",
+    "open_location": "Pyromaniac [N]",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Enzo Stabilizer Blueprint",
+    "amorphous": 40,
+    "drop_location": "Hagios [N] - Dune Base Outpost",
+    "open_location": "Hagios [N] -Dune Base Void Reactor",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Enzo Stabilizer Blueprint",
+    "amorphous": 51,
+    "drop_location": "Fortress [N] - Heart of the Fortress",
+    "open_location": "Hanged Man",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Enzo Stabilizer Blueprint",
+    "amorphous": 81,
+    "drop_location": "Echo Swamp [H] - Muskeg Swamp Outpost",
+    "open_location": "Echo Swamp [H] - Muskeg Swamp Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Enzo Spiral Catalyst Blueprint",
+    "amorphous": 11,
+    "drop_location": "Sterile Land - Block Kuiper Mining",
+    "open_location": "Stunning Beauty",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Enzo Spiral Catalyst Blueprint",
+    "amorphous": 21,
+    "drop_location": "Echo Swamp [N] - Derelict Covert Outpost",
+    "open_location": "Echo Swamp [N] - Derelict Covert Void Reactor",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Enzo Spiral Catalyst Blueprint",
+    "amorphous": 37,
+    "drop_location": "White-night Gulch [N] - Bio-Lab",
+    "open_location": "Pyromaniac [N]",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Enzo Spiral Catalyst Blueprint",
+    "amorphous": 110,
+    "drop_location": "Hagios [H] - Corrupted Zone Outpost",
+    "open_location": "Hagios [H] - Corrupted Zone Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Esiemo Code",
+    "amorphous": 54,
+    "drop_location": "Kingston [H] - Fallen Theatre Outpost",
+    "open_location": "Kingston [H] - Grand Square Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Esiemo Code",
+    "amorphous": 74,
+    "drop_location": "Vespers [H] - Moonlight Lake Outpost",
+    "open_location": "Vespers [H] - Moonlight Lake Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Esiemo Code",
+    "amorphous": 90,
+    "drop_location": "Agna Desert [H] - The Storage Outpost",
+    "open_location": "Agna Desert [H] - The Storage Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Esiemo Code",
+    "amorphous": 110,
+    "drop_location": "Hagios [H] - Corrupted Zone Outpost",
+    "open_location": "Hagios [H] - Corrupted Zone Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Esiemo Enhanced Cells Blueprint",
+    "amorphous": 22,
+    "drop_location": "Echo Swamp [N] - Seed Vault",
+    "open_location": "Dead Bride",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Esiemo Enhanced Cells Blueprint",
+    "amorphous": 59,
+    "drop_location": "Kingston [H] - Slumber Valley",
+    "open_location": "Executioner [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Esiemo Enhanced Cells Blueprint",
+    "amorphous": 104,
+    "drop_location": "Hagios [H] - The Haven",
+    "open_location": "Obstructer [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Esiemo Enhanced Cells Blueprint",
+    "amorphous": 121,
+    "drop_location": "Fortress [H] - Converter Facility Outpost",
+    "open_location": "Fortress [H] - Fallen Ark Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Esiemo Stabilizer Blueprint",
+    "amorphous": 67,
+    "drop_location": "Sterile Land [H] - The Forgottense",
+    "open_location": "Dead Bride [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Esiemo Stabilizer Blueprint",
+    "amorphous": 77,
+    "drop_location": "Vespers [H] - The Sepulcher",
+    "open_location": "Devourer [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Esiemo Stabilizer Blueprint",
+    "amorphous": 81,
+    "drop_location": "Echo Swamp [H] - Muskeg Swamp Outpost",
+    "open_location": "Echo Swamp [H] - Muskeg Swamp Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Esiemo Stabilizer Blueprint",
+    "amorphous": 103,
+    "drop_location": "White-night Gulch [H] - Hatchery Outpost",
+    "open_location": "White-night Gulch [H] - Hatchery Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Esiemo Spiral Catalyst Blueprint",
+    "amorphous": 15,
+    "drop_location": "Vespers [N] - Moonlight Lake Outpost",
+    "open_location": "Vespers [N] - Moonlight Lake Void Reactor",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Esiemo Spiral Catalyst Blueprint",
+    "amorphous": 61,
+    "drop_location": "Sterile Land [H] - Rockfall Outpost",
+    "open_location": "Sterile Land [H] - Rockfall Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Esiemo Spiral Catalyst Blueprint",
+    "amorphous": 109,
+    "drop_location": "Hagios [H] - Dune Base Outpost",
+    "open_location": "Hagios [H] - Dune Base Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Esiemo Spiral Catalyst Blueprint",
+    "amorphous": 127,
+    "drop_location": "Fortress [H] - Heart of the Fortress",
+    "open_location": "Molten Fortress [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Freyna Code",
+    "amorphous": "Freyna",
+    "drop_location": "Sterile Land [N] - Rockfall Outpost",
+    "open_location": "Sterile Land [N] - Rockfall Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Freyna Enhanced Cells Blueprint",
+    "amorphous": "N/A",
+    "drop_location": "Vespers [N] - The Shelter (Rockfall)",
+    "open_location": "N/A",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Freyna Stabilizer Blueprint",
+    "amorphous": "N/A",
+    "drop_location": "Vespers [N] - Ruins Path (Lumber Yard)",
+    "open_location": "N/A",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Freyna Spiral Catalyst Blueprint",
+    "amorphous": "N/A",
+    "drop_location": "Vespers [N] - Ruins Underground Entrance (Ruins)",
+    "open_location": "N/A",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Gley Code",
+    "amorphous": 2,
+    "drop_location": "Kingston [N] - Magister Lab",
+    "open_location": "Grave Walker",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Gley Code",
+    "amorphous": 69,
+    "drop_location": "Sterile Land [H] - Unknown Laboratory",
+    "open_location": "Dead Bride [H]",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Gley Code",
+    "amorphous": 93,
+    "drop_location": "Agna Desert [H] - Miragestone Outpost",
+    "open_location": "Agna Desert [H] - Miragestone Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Gley Code",
+    "amorphous": 124,
+    "drop_location": "Fortress [H] - Quarantine Zone",
+    "open_location": "Molten Fortress [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Gley Enhanced Cells Blueprint",
+    "amorphous": 12,
+    "drop_location": "Sterile Land - Block Kuiper Mining",
+    "open_location": "Stunning Beauty",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Gley Enhanced Cells Blueprint",
+    "amorphous": 53,
+    "drop_location": "Fortress - Defend Albion Resources",
+    "open_location": "Hanged Man",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Gley Enhanced Cells Blueprint",
+    "amorphous": 66,
+    "drop_location": "Sterile Land [H] - The Forgottense",
+    "open_location": "Dead Bride [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Gley Enhanced Cells Blueprint",
+    "amorphous": 120,
+    "drop_location": "Fortress [H] - Converter Facility Outpost",
+    "open_location": "Fortress [H] - Fallen Ark Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Gley Stabilizer Blueprint",
+    "amorphous": 13,
+    "drop_location": "Vespers [N] - Lumber Yard Outpost",
+    "open_location": "Vespers [N] - The Ruins Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Gley Stabilizer Blueprint",
+    "amorphous": 47,
+    "drop_location": "Fortress [N] - Frozen Valley Outpost",
+    "open_location": "Fortress [N] - Frozen Valley Void Reactor",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Gley Stabilizer Blueprint",
+    "amorphous": 83,
+    "drop_location": "Echo Swamp [H] - Derelict Covert Outpost",
+    "open_location": "Echo Swamp [H] - Derelict Covert Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Gley Stabilizer Blueprint",
+    "amorphous": 115,
+    "drop_location": "White-night Gulch [H] - Mystery's End",
+    "open_location": "Frost Walker [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Gley Spiral Catalyst Blueprint",
+    "amorphous": 28,
+    "drop_location": "Agna Desert [N] - Miragestone Outpost",
+    "open_location": "Agna Desert [N] - Miragestone Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Gley Spiral Catalyst Blueprint",
+    "amorphous": 50,
+    "drop_location": "Fortress [N] - Quarantine Zone",
+    "open_location": "Hanged Man",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Gley Spiral Catalyst Blueprint",
+    "amorphous": 78,
+    "drop_location": "Vespers [H] - The Shelter",
+    "open_location": "Devourer [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Gley Spiral Catalyst Blueprint",
+    "amorphous": 99,
+    "drop_location": "White-night Gulch [H] - The Mountaintops Outpost",
+    "open_location": "White-night Gulch [H] - The Mountaintops Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Ultimate Gley Code",
+    "amorphous": 58,
+    "drop_location": "Kingston [H] - Slumber Valley",
+    "open_location": "Executioner [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Gley Code",
+    "amorphous": 68,
+    "drop_location": "Sterile Land [H] - Unknown Laboratory",
+    "open_location": "Dead Bride [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Gley Enhanced Cells Blueprint",
+    "amorphous": 60,
+    "drop_location": "Sterile Land [H] - Rockfall Outpost",
+    "open_location": "Sterile Land [H] - Rockfall Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Gley Enhanced Cells Blueprint",
+    "amorphous": 84,
+    "drop_location": "Echo Swamp [H] - Seed Vault",
+    "open_location": "Pyromaniac [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Gley Enhanced Cells Blueprint",
+    "amorphous": 122,
+    "drop_location": "Fortress [H] - Defense Line Outpost",
+    "open_location": "Fortress [H] - Defense Line Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Gley Stabilizer Blueprint",
+    "amorphous": 76,
+    "drop_location": "Vespers [H] - The Sepulcher",
+    "open_location": "Devourer [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Gley Stabilizer Blueprint",
+    "amorphous": 92,
+    "drop_location": "Agna Desert [H] - Miragestone Outpost",
+    "open_location": "Agna Desert [H] - Miragestone Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Gley Stabilizer Blueprint",
+    "amorphous": 104,
+    "drop_location": "Hagios [H] - The Haven",
+    "open_location": "Obstructer [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Gley Spiral Catalyst Blueprint",
+    "amorphous": 72,
+    "drop_location": "Vespers [H] - Lost Supply Depot Outpost",
+    "open_location": "Vespers [H] - Lost Supply Depot Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Gley Spiral Catalyst Blueprint",
+    "amorphous": 96,
+    "drop_location": "Agna Desert [H] - Caligo Ossuary",
+    "open_location": "Swamp Walker [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Gley Spiral Catalyst Blueprint",
+    "amorphous": 102,
+    "drop_location": "White-night Gulch [H] - Hatchery Outpost",
+    "open_location": "White-night Gulch [H] - Hatchery Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Jayber Code",
+    "amorphous": 47,
+    "drop_location": "Fortress [N] - Frozen Valley Outpost",
+    "open_location": "Fortress [N] - Frozen Valley Void Reactor",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Jayber Code",
+    "amorphous": 65,
+    "drop_location": "Sterile Land [H] - Classified Area Outpost",
+    "open_location": "Sterile Land [H] - Restricted Zone Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Jayber Code",
+    "amorphous": 92,
+    "drop_location": "Agna Desert [H] - Miragestone Outpost",
+    "open_location": "Agna Desert [H] - Miragestone Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Jayber Code",
+    "amorphous": 100,
+    "drop_location": "White-night Gulch [H] - Shipment  Base Outpost",
+    "open_location": "White-night Gulch [H] - Observatory Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Jayber Enhanced Cells Blueprint",
+    "amorphous": 3,
+    "drop_location": "Kingston [N] - Slumber Valley",
+    "open_location": "Grave Walker",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Jayber Enhanced Cells Blueprint",
+    "amorphous": 55,
+    "drop_location": "Kingston [H] - Fallen Theatre Outpost",
+    "open_location": "Kingston [H] - Grand Square Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Jayber Enhanced Cells Blueprint",
+    "amorphous": 91,
+    "drop_location": "Agna Desert [H] - The Storage Outpost",
+    "open_location": "Agna Desert [H] - The Storage Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Jayber Stabilizer Blueprint",
+    "amorphous": 44,
+    "drop_location": "Hagios [N] - Old Mystery",
+    "open_location": "Swamp Walker [N]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Jayber Stabilizer Blueprint",
+    "amorphous": 62,
+    "drop_location": "Sterile Land [H] - The Repository Outpost",
+    "open_location": "Sterile Land [H] - The Repository Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Jayber Stabilizer Blueprint",
+    "amorphous": 101,
+    "drop_location": "White-night Gulch [H] - Shipment  Base Outpost",
+    "open_location": "White-night Gulch [H] - Observatory Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Jayber Stabilizer Blueprint",
+    "amorphous": 111,
+    "drop_location": "Hagios [H] - Corrupted Zone Outpost",
+    "open_location": "Hagios [H] - Corrupted Zone Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Jayber Spiral Catalyst Blueprint",
+    "amorphous": 45,
+    "drop_location": "Hagios - Neutralize Void Experiment",
+    "open_location": "Swamp Walker [N]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Jayber Spiral Catalyst Blueprint",
+    "amorphous": 71,
+    "drop_location": "Vespers [H] - The Lumber Yard Outpost",
+    "open_location": "Vespers [H] - The Ruins Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Jayber Spiral Catalyst Blueprint",
+    "amorphous": 89,
+    "drop_location": "Agna Desert [H] - Vermilion Waste Outpost",
+    "open_location": "Agna Desert [H] - Vermilion Waste Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Jayber Spiral Catalyst Blueprint",
+    "amorphous": 116,
+    "drop_location": "White-night Gulch [H] - Bio-Lab",
+    "open_location": "Frost Walker [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Kyle Code",
+    "amorphous": 7,
+    "drop_location": "Sterile Land [N] - Repository Outpost",
+    "open_location": "Sterile Land [N] - Repository Reactor",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Kyle Code",
+    "amorphous": 73,
+    "drop_location": "Vespers [H] - Lost Supply Depot Outpost",
+    "open_location": "Vespers [H] - Lost Supply Depot Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Kyle Code",
+    "amorphous": 101,
+    "drop_location": "White-night Gulch [H] - Shipment  Base Outpost",
+    "open_location": "White-night Gulch [H] - Observatory Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Kyle Code",
+    "amorphous": 109,
+    "drop_location": "Hagios [H] - Dune Base Outpost",
+    "open_location": "Hagios [H] - Dune Base Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Kyle Enhanced Cells Blueprint",
+    "amorphous": 41,
+    "drop_location": "Hagios [N] - Corrupted Zone Outpost",
+    "open_location": "Hagios [N] - Corrupted Zone Void Reactor",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Kyle Enhanced Cells Blueprint",
+    "amorphous": 54,
+    "drop_location": "Kingston [H] - Fallen Theatre Outpost",
+    "open_location": "Kingston [H] - Grand Square Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Kyle Enhanced Cells Blueprint",
+    "amorphous": 63,
+    "drop_location": "Sterile Land [H] - The Repository Outpost",
+    "open_location": "Sterile Land [H] - The Repository Void Reactor",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Kyle Enhanced Cells Blueprint",
+    "amorphous": 82,
+    "drop_location": "Echo Swamp [H] - Derelict Covert Outpost",
+    "open_location": "Echo Swamp [H] - Derelict Covert Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Kyle Stabilizer Blueprint",
+    "amorphous": 17,
+    "drop_location": "Vespers [N] - The Shelter",
+    "open_location": "Executioner [N]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Kyle Stabilizer Blueprint",
+    "amorphous": 58,
+    "drop_location": "Kingston [H] - Slumber Valley",
+    "open_location": "Executioner [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Kyle Stabilizer Blueprint",
+    "amorphous": 76,
+    "drop_location": "Vespers [H] - The Sepulcher",
+    "open_location": "Devourer [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Kyle Stabilizer Blueprint",
+    "amorphous": 127,
+    "drop_location": "Fortress [H] - Heart of the Fortress",
+    "open_location": "Molten Fortress [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Kyle Spiral Catalyst Blueprint",
+    "amorphous": 55,
+    "drop_location": "Kingston [H] - Fallen Theatre Outpost",
+    "open_location": "Kingston [H] - Grand Square Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Kyle Spiral Catalyst Blueprint",
+    "amorphous": 87,
+    "drop_location": "Echo Swamp [H] - The Chapel",
+    "open_location": "Pyromaniac [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Kyle Spiral Catalyst Blueprint",
+    "amorphous": 105,
+    "drop_location": "Hagios [H] - The Haven",
+    "open_location": "Obstructer [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Kyle Spiral Catalyst Blueprint",
+    "amorphous": 123,
+    "drop_location": "Fortress [H] - Defense Line Outpost",
+    "open_location": "Fortress [H] - Defense Line Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Lepic Code",
+    "amorphous": 13,
+    "drop_location": "Vespers [N] - Lumber Yard Outpost",
+    "open_location": "Vespers [N] - The Ruins Void Reactor",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Lepic Code",
+    "amorphous": 72,
+    "drop_location": "Vespers [H] - Lost Supply Depot Outpost",
+    "open_location": "Vespers [H] - Lost Supply Depot Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Lepic Code",
+    "amorphous": 98,
+    "drop_location": "White-night Gulch [H] - The Mountaintops Outpost",
+    "open_location": "White-night Gulch [H] - The Mountaintops Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Lepic Code",
+    "amorphous": 106,
+    "drop_location": "Hagios [H] - Old Mystery",
+    "open_location": "Obstructer [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Lepic Enhanced Cells Blueprint",
+    "amorphous": 12,
+    "drop_location": "Sterile Land - Block Kuiper Mining",
+    "open_location": "Stunning Beauty",
+    "drop_rate": 0.15
+  },
+  {
+    "name": "Lepic Enhanced Cells Blueprint",
+    "amorphous": 64,
+    "drop_location": "Sterile Land [H] - Classified Area Outpost",
+    "open_location": "Sterile Land [H] - Restricted Zone Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Lepic Enhanced Cells Blueprint",
+    "amorphous": 80,
+    "drop_location": "Echo Swamp [H] - Muskeg Swamp Outpost",
+    "open_location": "Echo Swamp [H] - Muskeg Swamp Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Lepic Enhanced Cells Blueprint",
+    "amorphous": 108,
+    "drop_location": "Hagios [H] - Dune Base Outpost",
+    "open_location": "Hagios [H] - Dune Base Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Lepic Stabilizer Blueprint",
+    "amorphous": 4,
+    "drop_location": "Kingston Defense",
+    "open_location": "Grave Walker",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Lepic Stabilizer Blueprint",
+    "amorphous": 19,
+    "drop_location": "Vespers - Neutralize Void Experiment",
+    "open_location": "Executioner [N]",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Lepic Stabilizer Blueprint",
+    "amorphous": 56,
+    "drop_location": "Kingston [H] - Magister Lab",
+    "open_location": "Executioner [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Lepic Stabilizer Blueprint",
+    "amorphous": 122,
+    "drop_location": "Fortress [H] - Defense Line Outpost",
+    "open_location": "Fortress [H] - Defense Line Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Lepic Spiral Catalyst Blueprint",
+    "amorphous": 10,
+    "drop_location": "Sterile Land [N] - Unknown Laboratory",
+    "open_location": "Stunning Beauty",
+    "drop_rate": 0.15
+  },
+  {
+    "name": "Lepic Spiral Catalyst Blueprint",
+    "amorphous": 43,
+    "drop_location": "Hagios [N] - The Haven",
+    "open_location": "Swamp Walker [N]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Lepic Spiral Catalyst Blueprint",
+    "amorphous": 79,
+    "drop_location": "Vespers [H] - The Shelter",
+    "open_location": "Devourer [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Lepic Spiral Catalyst Blueprint",
+    "amorphous": 94,
+    "drop_location": "Agna Desert [H] - The Asylum",
+    "open_location": "Swamp Walker [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Ultimate Lepic Code",
+    "amorphous": 21,
+    "drop_location": "Echo Swamp [N] - Derelict Covert Outpost",
+    "open_location": "Echo Swamp [N] - Derelict Covert Void Reactor",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Ultimate Lepic Code",
+    "amorphous": 61,
+    "drop_location": "Sterile Land [H] - Rockfall Outpost",
+    "open_location": "Sterile Land [H] - Rockfall Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ultimate Lepic Code",
+    "amorphous": 89,
+    "drop_location": "Agna Desert [H] - Vermilion Waste Outpost",
+    "open_location": "Agna Desert [H] - Vermilion Waste Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ultimate Lepic Enhanced Cells Blueprint",
+    "amorphous": 26,
+    "drop_location": "Agna Desert [N] - Vermilion Waste Outpost",
+    "open_location": "Agna Desert [N] - Vermilion Waste Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Lepic Enhanced Cells Blueprint",
+    "amorphous": 74,
+    "drop_location": "Vespers [H] - Moonlight Lake Outpost",
+    "open_location": "Vespers [H] - Moonlight Lake Void Reactor",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Ultimate Lepic Enhanced Cells Blueprint",
+    "amorphous": 77,
+    "drop_location": "Vespers [H] - The Sepulcher",
+    "open_location": "Devourer [H]",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Ultimate Lepic Stabilizer Blueprint",
+    "amorphous": 1,
+    "drop_location": "Kingston [N] - Fallen Theatre Outpost",
+    "open_location": "Kingston [N] - Grand Square Reactor",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Ultimate Lepic Stabilizer Blueprint",
+    "amorphous": 59,
+    "drop_location": "Kingston [H] - Slumber Valley",
+    "open_location": "Executioner [H]",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Ultimate Lepic Stabilizer Blueprint",
+    "amorphous": 105,
+    "drop_location": "Hagios [H] - The Haven",
+    "open_location": "Obstructer [H]",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Ultimate Lepic Spiral Catalyst Blueprint",
+    "amorphous": 6,
+    "drop_location": "Sterile Land [N] - Rockfall Outpost",
+    "open_location": "Sterile Land [N] - Rockfall Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Lepic Spiral Catalyst Blueprint",
+    "amorphous": 69,
+    "drop_location": "Sterile Land [H] - Unknown Laboratory",
+    "open_location": "Dead Bride [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ultimate Lepic Spiral Catalyst Blueprint",
+    "amorphous": 85,
+    "drop_location": "Echo Swamp [H] - Seed Vault",
+    "open_location": "Pyromaniac [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Sharen Code",
+    "amorphous": "N/A",
+    "drop_location": "Agna Desert [N] - Caligo Ossuary",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Sharen Enhanced Cells Blueprint",
+    "amorphous": "N/A",
+    "drop_location": "Echo Swamp [N] - Seed Vault",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Sharen Stabilizer Blueprint",
+    "amorphous": "N/A",
+    "drop_location": "Echo Swamp [N] - The Chapel",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Sharen  Spiral Catalyst Blueprint",
+    "amorphous": "N/A",
+    "drop_location": "Agna Desert [N] - The Asylum",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Valby Code",
+    "amorphous": 6,
+    "drop_location": "Sterile Land [N] - Rockfall Outpost",
+    "open_location": "Sterile Land [N] - Rockfall Void Reactor",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Valby Code",
+    "amorphous": 32,
+    "drop_location": "Agna Desert - Neutralize Void Experiment",
+    "open_location": "Devourer [N]",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Valby Code",
+    "amorphous": 36,
+    "drop_location": "White-night Gulch [N] - Mystery's End",
+    "open_location": "Pyromaniac [N]",
+    "drop_rate": 0.15
+  },
+  {
+    "name": "Valby Code",
+    "amorphous": 63,
+    "drop_location": "Sterile Land [H] - The Repository Outpost",
+    "open_location": "Sterile Land [H] - The Repository Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Valby Enhanced Cells Blueprint",
+    "amorphous": 16,
+    "drop_location": "Vespers [N] - The Sepulcher",
+    "open_location": "Executioner [N]",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Valby Enhanced Cells Blueprint",
+    "amorphous": 33,
+    "drop_location": "White-night Gulch [N] - Mountaintops Outpost",
+    "open_location": "White-night Gulch [N] - Mountaintops Void Reactor",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Valby Enhanced Cells Blueprint",
+    "amorphous": 48,
+    "drop_location": "Fortress [N] - Fallen Ark Outpost",
+    "open_location": "Fortress [N] - Fallen Ark Void Reactor",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Valby Enhanced Cells Blueprint",
+    "amorphous": 118,
+    "drop_location": "Fortress [H] - Frozen Valley Outpost",
+    "open_location": "Fortress [H] - Frozen Valley Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Valby Stabilizer Blueprint",
+    "amorphous": 20,
+    "drop_location": "Echo Swamp [N] - Muskeg Swamp Outpost",
+    "open_location": "Echo Swamp [N] - Muskeg Swamp Void Reactor",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Valby Stabilizer Blueprint",
+    "amorphous": 29,
+    "drop_location": "Agna Desert [N] - The Asylum",
+    "open_location": "Devourer [N]",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Valby Stabilizer Blueprint",
+    "amorphous": 42,
+    "drop_location": "Hagios [N] - Forward Base Outpost",
+    "open_location": "Hagios [N] - Fractured Monolith Void Reactor",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Valby Stabilizer Blueprint",
+    "amorphous": 86,
+    "drop_location": "Echo Swamp [H] - The Chapel",
+    "open_location": "Pyromaniac [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Valby Spiral Catalyst Blueprint",
+    "amorphous": 9,
+    "drop_location": "Sterile Land [N] - The Forgottense",
+    "open_location": "Stunning Beauty",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Valby Spiral Catalyst Blueprint",
+    "amorphous": 23,
+    "drop_location": "Echo Swamp [N] - The Chapel",
+    "open_location": "Dead Bride",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Valby Spiral Catalyst Blueprint",
+    "amorphous": 26,
+    "drop_location": "Agna Desert [N] - Vermilion Waste Outpost",
+    "open_location": "Agna Desert [N] - Vermilion Waste Void Reactor",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Valby Spiral Catalyst Blueprint",
+    "amorphous": 112,
+    "drop_location": "Hagios [H] - Forward Base Outpost",
+    "open_location": "Hagios [H] - Fractured Monolith Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Viessa Code",
+    "amorphous": 18,
+    "drop_location": "Vespers - Neutralize Void Experiment",
+    "open_location": "Executioner [N]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Viessa Code",
+    "amorphous": 30,
+    "drop_location": "Agna Desert [N] - Caligo Ossuary",
+    "open_location": "Devourer [N]",
+    "drop_rate": 0.15
+  },
+  {
+    "name": "Viessa Code",
+    "amorphous": 83,
+    "drop_location": "Echo Swamp [H] - Derelict Covert Outpost",
+    "open_location": "Echo Swamp [H] - Derelict Covert Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Viessa Code",
+    "amorphous": 95,
+    "drop_location": "Agna Desert [H] - The Asylum",
+    "open_location": "Swamp Walker [H]",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Viessa Enhanced Cells Blueprint",
+    "amorphous": 4,
+    "drop_location": "Kingston Defense",
+    "open_location": "Grave Walker",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Viessa Enhanced Cells Blueprint",
+    "amorphous": 34,
+    "drop_location": "White-night Gulch [N] - Shpiment Base Outpost",
+    "open_location": "White-night Gulch [N] - Observatory Void Reactor",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Viessa Enhanced Cells Blueprint",
+    "amorphous": 68,
+    "drop_location": "Sterile Land [H] - Unknown Laboratory",
+    "open_location": "Dead Bride [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Viessa Enhanced Cells Blueprint",
+    "amorphous": 97,
+    "drop_location": "Agna Desert [H] - Caligo Ossuary",
+    "open_location": "Swamp Walker [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Viessa Stabilizer Blueprint",
+    "amorphous": 14,
+    "drop_location": "Vespers [N] - Lost Supply Depot Outpost",
+    "open_location": "Vespers [N] - Lost Supply Depot Void Recator",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Viessa Stabilizer Blueprint",
+    "amorphous": 24,
+    "drop_location": "Echo Swamp - Defend Albion Resoruces",
+    "open_location": "Dead Bride",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Viessa Stabilizer Blueprint",
+    "amorphous": 102,
+    "drop_location": "White-night Gulch [H] - Hatchery Outpost",
+    "open_location": "White-night Gulch [H] - Hatchery Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Viessa Stabilizer Blueprint",
+    "amorphous": 115,
+    "drop_location": "White-night Gulch [H] - Mystery's End",
+    "open_location": "Frost Walker [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Viessa Spiral Catalyst Blueprint",
+    "amorphous": 8,
+    "drop_location": "Sterile Land [N] - Classified Area Outpost",
+    "open_location": "Sterile Land [N] - Restricted Zone Reactor",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Viessa Spiral Catalyst Blueprint",
+    "amorphous": 46,
+    "drop_location": "Hagios - Neutralize Void Experiment",
+    "open_location": "Swamp Walker [N]",
+    "drop_rate": 0.38
+  },
+  {
+    "name": "Viessa Spiral Catalyst Blueprint",
+    "amorphous": 84,
+    "drop_location": "Echo Swamp [H] - Seed Vault",
+    "open_location": "Pyromaniac [H]",
+    "drop_rate": 0.32
+  },
+  {
+    "name": "Viessa Spiral Catalyst Blueprint",
+    "amorphous": 117,
+    "drop_location": "White-night Gulch [H] - Bio-Lab",
+    "open_location": "Frost Walker [H]",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Ultimate Viessa Code",
+    "amorphous": 38,
+    "drop_location": "White-night Gulch - Block Kuiper Mining",
+    "open_location": "Pyromaniac [N]",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Ultimate Viessa Code",
+    "amorphous": 75,
+    "drop_location": "Vespers [H] - Moonlight Lake Outpost",
+    "open_location": "Vespers [H] - Moonlight Lake Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ultimate Viessa Code",
+    "amorphous": 125,
+    "drop_location": "Fortress [H] - Quarantine Zone",
+    "open_location": "Molten Fortress [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ultimate Viessa Enhanced Cells Blueprint",
+    "amorphous": 56,
+    "drop_location": "Kingston [H] - Magister Lab",
+    "open_location": "Executioner [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Viessa Enhanced Cells Blueprint",
+    "amorphous": 86,
+    "drop_location": "Echo Swamp [H] - The Chapel",
+    "open_location": "Pyromaniac [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Viessa Enhanced Cells Blueprint",
+    "amorphous": 114,
+    "drop_location": "White-night Gulch [H] - Mystery's End",
+    "open_location": "Frost Walker [H]",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Viessa Stabilizer Blueprint",
+    "amorphous": 43,
+    "drop_location": "Hagios [N] - The Haven",
+    "open_location": "Swamp Walker [N]",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Ultimate Viessa Stabilizer Blueprint",
+    "amorphous": 107,
+    "drop_location": "Hagios [H] - Old Mystery",
+    "open_location": "Obstructer [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Ultimate Viessa Spiral Catalyst Blueprint",
+    "amorphous": 70,
+    "drop_location": "Vespers [H] - The Lumber Yard Outpost",
+    "open_location": "Vespers [H] - The Ruins Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Viessa Spiral Catalyst Blueprint",
+    "amorphous": 108,
+    "drop_location": "Hagios [H] - Dune Base Outpost",
+    "open_location": "Hagios [H] - Dune Base Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Ultimate Viessa Spiral Catalyst Blueprint",
+    "amorphous": 118,
+    "drop_location": "Fortress [H] - Frozen Valley Outpost",
+    "open_location": "Fortress [H] - Frozen Valley Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Yujin Code",
+    "amorphous": 64,
+    "drop_location": "Sterile Land [H] - Classified Area Outpost",
+    "open_location": "Sterile Land [H] - Restricted Zone Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Yujin Code",
+    "amorphous": 80,
+    "drop_location": "Echo Swamp [H] - Muskeg Swamp Outpost",
+    "open_location": "Echo Swamp [H] - Muskeg Swamp Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Yujin Code",
+    "amorphous": 100,
+    "drop_location": "White-night Gulch [H] - Shipment  Base Outpost",
+    "open_location": "White-night Gulch [H] - Observatory Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Yujin Code",
+    "amorphous": 120,
+    "drop_location": "Fortress [H] - Converter Facility Outpost",
+    "open_location": "Fortress [H] - Fallen Ark Void Reactor",
+    "drop_rate": 0.06
+  },
+  {
+    "name": "Yujin Enhanced Cells Blueprint",
+    "amorphous": 45,
+    "drop_location": "Hagios - Neutralize Void Experiment",
+    "open_location": "Swamp Walker [N]",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Yujin Enhanced Cells Blueprint",
+    "amorphous": 85,
+    "drop_location": "Echo Swamp [H] - Seed Vault",
+    "open_location": "Pyromaniac [H]",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Yujin Enhanced Cells Blueprint",
+    "amorphous": 90,
+    "drop_location": "Agna Desert [H] - The Storage Outpost",
+    "open_location": "Agna Desert [H] - The Storage Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Yujin Enhanced Cells Blueprint",
+    "amorphous": 114,
+    "drop_location": "White-night Gulch [H] - Mystery's End",
+    "open_location": "Frost Walker [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Yujin Stabilizer Blueprint",
+    "amorphous": 65,
+    "drop_location": "Sterile Land [H] - Classified Area Outpost",
+    "open_location": "Sterile Land [H] - Restricted Zone Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Yujin Stabilizer Blueprint",
+    "amorphous": 79,
+    "drop_location": "Vespers [H] - The Shelter",
+    "open_location": "Devourer [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Yujin Stabilizer Blueprint",
+    "amorphous": 95,
+    "drop_location": "Agna Desert [H] - The Asylum",
+    "open_location": "Swamp Walker [H]",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Yujin Stabilizer Blueprint",
+    "amorphous": 111,
+    "drop_location": "Hagios [H] - Corrupted Zone Outpost",
+    "open_location": "Hagios [H] - Corrupted Zone Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Yujin Spiral Catalyst Blueprint",
+    "amorphous": 33,
+    "drop_location": "White-night Gulch [N] - Mountaintops Outpost",
+    "open_location": "White-night Gulch [N] - Mountaintops Void Reactor",
+    "drop_rate": 0.03
+  },
+  {
+    "name": "Yujin Spiral Catalyst Blueprint",
+    "amorphous": 57,
+    "drop_location": "Kingston [H] - Magister Lab",
+    "open_location": "Executioner [H]",
+    "drop_rate": 0.2
+  },
+  {
+    "name": "Yujin Spiral Catalyst Blueprint",
+    "amorphous": 71,
+    "drop_location": "Vespers [H] - The Lumber Yard Outpost",
+    "open_location": "Vespers [H] - The Ruins Void Reactor",
+    "drop_rate": 0.1
+  },
+  {
+    "name": "Yujin Spiral Catalyst Blueprint",
+    "amorphous": 125,
+    "drop_location": "Fortress [H] - Quarantine Zone",
+    "open_location": "Molten Fortress [H]",
+    "drop_rate": 0.2
+  }
+]

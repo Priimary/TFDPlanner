@@ -1,0 +1,17 @@
+.main{
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	gap: 30px;
+}
+.filters_container{
+	display: flex;
+	align-items: center;
+	gap: 30px;
+}
+.grid_container{
+	width: 80%;
+}
