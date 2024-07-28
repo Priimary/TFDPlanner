@@ -25,7 +25,9 @@ const RootLayout: React.FC<RootLayoutProps> = ({ children }) => {
             <body>
 				<ThemeProvider theme={theme}>
                 	<Header />
-					{children}
+					<main style={{flex: '1'}}>
+						{children}
+					</main>
 					<Footer />
 				</ThemeProvider>
             </body>

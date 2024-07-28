@@ -15,7 +15,7 @@ const RoadmapCard: React.FC = () => {
 
     return (
         <>
-            <Card className={styles.card} style={{ maxWidth: '600px', margin: 'auto' }}>
+            <Card className={styles.card}>
 				<Box className={styles.card_header}>
 					<Typography sx={{color: 'tertiary.dark', fontWeight: 'bold', fontSize: '18px', textTransform: 'uppercase'}}>
                         ROADMAP

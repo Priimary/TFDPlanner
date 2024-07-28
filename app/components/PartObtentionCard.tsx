@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import {
     Card,
+	Box,
     CardHeader,
     CardContent,
     Collapse,
@@ -103,6 +104,9 @@ const PartObtentionCard: React.FC<{ name: string, type: string}> = ({ name, type
 
     const handlePartChange = (event: SelectChangeEvent<string>) => {
         setSelectedPart(event.target.value);
+		if(!isOpen){
+			setIsOpen(true)
+		}
     };
 
     const handleDialogOpen = (drop_location?: string, open_location?: string) => {
@@ -130,39 +134,39 @@ const PartObtentionCard: React.FC<{ name: string, type: string}> = ({ name, type
             <Card sx={{width: '100%'}}>
                 <CardHeader
                     title={
-                        <FormControl fullWidth>
-                            <InputLabel sx={{ color: 'primary.dark' }}>Weapon Part</InputLabel>
-                            <Select
-                                value={selectedPart}
-                                onChange={handlePartChange}
-                                inputProps={{ 'aria-label': 'Weapon Part' }}
-                                label="Weapon Part"
-                                renderValue={(value) => (
-                                    <Typography variant="h6">
-                                        {value}
-                                    </Typography>
-                                )}
-                                sx={{
-                                    height: 40,
-                                    color: 'white',
-                                    '.MuiOutlinedInput-notchedOutline': {
-                                        borderColor: 'primary.dark',
-                                    },
-                                    '&:hover .MuiOutlinedInput-notchedOutline': {
-                                        borderColor: 'primary.dark',
-                                    },
-                                    '.MuiSvgIcon-root': {
-                                        color: 'primary.dark',
-                                    },
-                                }}
-                            >
-                                {partOptions.map((option, index) => (
-                                    <MenuItem key={index} value={option}>
-                                        {option}
-                                    </MenuItem>
-                                ))}
-                            </Select>
-                        </FormControl>
+						<FormControl fullWidth>
+							<InputLabel sx={{ color: 'primary.dark', textTransform: 'capitalize'}}>Part Name</InputLabel>
+							<Select
+								value={selectedPart}
+								onChange={handlePartChange}
+								inputProps={{ 'aria-label': 'Part Name' }}
+								label="Part Name"
+								renderValue={(value) => (
+									<Typography variant="h6">
+										{value}
+									</Typography>
+								)}
+								sx={{
+									height: 40,
+									color: 'white',
+									'.MuiOutlinedInput-notchedOutline': {
+										borderColor: 'primary.dark',
+									},
+									'&:hover .MuiOutlinedInput-notchedOutline': {
+										borderColor: 'primary.dark',
+									},
+									'.MuiSvgIcon-root': {
+										color: 'primary.dark',
+									},
+								}}
+							>
+								{partOptions.map((option, index) => (
+									<MenuItem key={index} value={option}>
+										{option}
+									</MenuItem>
+								))}
+							</Select>
+						</FormControl>
                     }
                     avatar={
                         selectedPart && (
@@ -181,8 +185,9 @@ const PartObtentionCard: React.FC<{ name: string, type: string}> = ({ name, type
                             onClick={handleExpandClick}
                             aria-expanded={isOpen}
                             aria-label="show more"
+							
                         >
-                            <ExpandMoreIcon />
+                            <ExpandMoreIcon sx={{fontSize: 36}}/>
                         </ExpandMore>
                     }
                     sx={{

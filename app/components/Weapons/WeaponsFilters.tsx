@@ -105,7 +105,7 @@ const WeaponsFilters: React.FC<WeaponsFiltersProps> = ({ onFilterChange }) => {
 					<Select
 						value={selectedWeaponsType}
 						onChange={handleTypeChange}
-						label="Weapon Type"
+						label="Type"
 						sx={{
                             height: 40,
                             color: 'white',

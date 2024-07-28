@@ -28,7 +28,7 @@ const WeaponLargeCard: React.FC<WeaponLargeCardProps> = ({item}) => {
 				</Box>
 				<Box className={styles.weapon_rounds_type} >
 					<Image 
-						src={`/images/rounds_types/${item.weapon_rounds_type.replace(' ', '_')}.png`}
+						src={`/images/rounds_types/${item.weapon_rounds_type.replace(/ /g, '_').replace(/-/g, '_').toLowerCase()}.png`}
                         alt={item.weapon_rounds_type}
 						width={28}
 						height={28}
