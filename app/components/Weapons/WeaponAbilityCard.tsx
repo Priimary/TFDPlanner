@@ -1,6 +1,7 @@
 import React from 'react';
 import {Typography, Card, CardContent } from '@mui/material';
 import styles from '../../styles/WeaponAbilityCard.module.css';  // Ensure this file exists and styles are updated
+import Image from 'next/image';
 
 interface WeaponAbilityCardProps {
     ability: {
@@ -28,10 +29,12 @@ const WeaponAbilityCard: React.FC<WeaponAbilityCardProps> = ({ ability }) => {
 			>
 				<div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flex: '0 0 auto', width: '10%'}}>
 					{ability.weapon_perk_ability_image_url && (
-						<img
+						<Image
 							src={ability.weapon_perk_ability_image_url}
 							alt={ability.weapon_perk_ability_name}
-							style={{ height: '30px' }}
+							width={30}
+							height={30}
+							quality={100}
 						/>
 					)}
 				</div>

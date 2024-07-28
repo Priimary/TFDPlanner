@@ -14,7 +14,7 @@ const ConsumablesGrid: React.FC<ConsumablesGridProps> = ({ items }) => {
 		<Box sx={{display: 'flex', justifyContent: 'center', width: '100%'}}>
 			<Grid container spacing={4} sx={{justifyContent: 'center', width: '80%',}}>
 				{items.map((item, index) => (
-					<Grid item xs={12} sm={6} md={4} lg={3} key={index}>
+					<Grid item xs={10} sm={6} md={4} lg={3} key={index}>
 						<Link href={`/consumables/${item.name.toLowerCase().replace(/ /g,'_').replace(/'/,'_')}`} style={{textDecoration: 'none'}}>
 							<ConsumableCard index={index} item={item}/>
 						</Link>

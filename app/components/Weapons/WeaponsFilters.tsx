@@ -2,6 +2,7 @@
 import React, { useState } from 'react';
 import { Box, IconButton, FormControl, InputLabel, MenuItem, Select, SelectChangeEvent } from '@mui/material';
 import { getTierColor, filterTiers, weaponTypes, weaponsRoundsTypes} from '../../utils/globalVariables';
+import Image from 'next/image';
 
 interface WeaponsFiltersProps {
     onFilterChange: (filters: any) => void;
@@ -59,14 +60,12 @@ const WeaponsFilters: React.FC<WeaponsFiltersProps> = ({ onFilterChange }) => {
                             border: "1px solid #42a5f5",
                         }}
                     >
-                        <img
+                        <Image
                             src={`/images/rounds_types/${weapons_rounds_type.replace(' ', '_')}.png`}
                             alt={weapons_rounds_type}
-                            style={{
-                                width: 26,
-                                height: 26,
-                                objectFit: 'contain',
-                            }}
+							width={26}
+							height={26}
+							quality={100}
                         />
                     </IconButton>
                 ))}

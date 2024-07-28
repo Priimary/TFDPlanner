@@ -20,6 +20,7 @@ import amorphousData from '../../data/amorphous.json';
 import voidMissionsData from '../../data/void_missions.json';
 import AmorphousDialog from './Amorphous/AmorphousDialog';
 import AmorphousCard from './Amorphous/AmorphousCard';
+import Image from 'next/image';
 
 interface ExpandMoreProps {
     expand?: boolean;
@@ -165,10 +166,12 @@ const PartObtentionCard: React.FC<{ name: string, type: string}> = ({ name, type
                     }
                     avatar={
                         selectedPart && (
-                            <img
+                            <Image
                                 src={`/images/core_material/${selectedPart.replace(/ /g, '_').replace(/'/g, '_').toLowerCase()}.png`}
                                 alt={selectedPart}
-                                style={{width: '60px'}}
+								width={60}
+								height={60}
+								quality={100}
                             />
                         )
                     }

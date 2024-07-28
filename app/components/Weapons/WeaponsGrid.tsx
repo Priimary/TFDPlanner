@@ -14,7 +14,7 @@ const WeaponsGrid: React.FC<WeaponsGridProps> = ({ items }) => {
 		<Box>
 			<Grid container spacing={4}>
 				{items.map((item, index) => (
-					<Grid item xs={12} sm={6} md={4} lg={2.4} key={index}>
+					<Grid item xs={6} sm={6} md={4} lg={2.4} key={index}>
 						<Link href={`/weapons/${item.weapon_id}`} style={{textDecoration: 'none'}}>
 							<WeaponCard item={item} />
 						</Link>

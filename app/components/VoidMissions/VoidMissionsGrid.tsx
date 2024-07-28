@@ -22,47 +22,41 @@ const VoidMissionsGrid: React.FC<VoidMissionsGridProps> = ({ data }) => {
 			},
 			children: [
 				{ field: 'location', headerName: 'Location', width: 250, flex:0},
-				{ field: 'type', headerName: 'Type'},
+				{ field: 'type', headerName: 'Type', flex: 1, minWidth: 100},
 				{
 					field: 'element',
 					headerName: 'Element',
+					minWidth: 100,
+					flex: 1,
 					cellStyle: (params: CellClassParams) => ({
 						color: getElementTextColor(params.value)
 					})
 				},
-				{ field: 'difficulty', headerName: 'Difficulty'},
-				{ field: 'bonus', headerName: 'Bonus', width: 200, flex: 0 },
+				{ field: 'difficulty', headerName: 'Difficulty', flex: 1, minWidth: 100},
+				{ field: 'bonus', headerName: 'Bonus', width: 200, flex: 0},
 				{ 
 					field: 'monomer', 
 					headerName: 'Monomer', 
-					/*floatingFilterComponent: NumberFloatingFilterComponent,
-					floatingFilterComponentParams: {
-						api: () => gridRef.current.api,
-					},*/
+					flex: 1,
+					minWidth: 100
 				},
 				{ 
 					field: 'polymer', 
 					headerName: 'Polymer', 
-					/*floatingFilterComponent: NumberFloatingFilterComponent,
-					floatingFilterComponentParams: {
-						api: () => gridRef.current.api,
-					},*/
+					flex: 1,
+					minWidth: 100
 				},
 				{ 
 					field: 'organic',
 					headerName: 'Organic', 
-					/*floatingFilterComponent: NumberFloatingFilterComponent,
-					floatingFilterComponentParams: {
-						api: () => gridRef.current.api,
-					},*/
+					flex: 1,
+					minWidth: 100
 				},
 				{ 
 					field: 'inorganic', 
 					headerName: 'Inorganic',
-					/*floatingFilterComponent: NumberFloatingFilterComponent,
-					floatingFilterComponentParams: {
-						api: () => gridRef.current.api,
-					},*/
+					flex: 1,
+					minWidth: 100
 				}
 			]
 		}	

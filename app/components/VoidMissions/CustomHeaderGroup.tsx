@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Button, Menu, MenuList, ListSubheader, MenuItem } from '@mui/material';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
+import Image from 'next/image';
 
 const CustomHeaderGroup: React.FC = (props: any) => {
     const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
@@ -73,10 +74,12 @@ const CustomHeaderGroup: React.FC = (props: any) => {
                     {presets.map((preset, index) => (
                         <div key={index} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                             <ListSubheader style={{display: 'flex', alignItems: 'center', backgroundColor: "#182230" }}>
-                                <img
+                                <Image
                                     src={`/images/elements/${preset.name}.png`}
                                     alt={preset.name}
-                                    style={{ width: '30px', height: '30px'}}
+									width={30}
+									height={30}
+									quality={100}
                                 />
                             </ListSubheader>
                             {preset.options.map((option, idx) => (

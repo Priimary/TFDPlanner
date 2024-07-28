@@ -2,6 +2,7 @@
 import React, { useState } from 'react';
 import { Box, IconButton, FormControl, InputLabel, MenuItem, Select, SelectChangeEvent } from '@mui/material';
 import { getTierColor } from '../../utils/globalVariables';
+import Image from 'next/image';
 
 interface DescendantsFiltersProps {
     onFilterChange: (filters: any) => void;
@@ -43,14 +44,12 @@ const DescendantsFilters: React.FC<DescendantsFiltersProps> = ({ onFilterChange 
                             border: "1px solid #42a5f5",
                         }}
                     >
-                        <img
+                        <Image
                             src={`/images/elements/${element}.png`}
                             alt={element}
-                            style={{
-                                width: 26,
-                                height: 26,
-                                objectFit: 'contain',
-                            }}
+							width={26}
+							height={26}
+							quality={100}
                         />
                     </IconButton>
                 ))}

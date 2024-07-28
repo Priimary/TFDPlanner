@@ -2,6 +2,7 @@ import React from 'react';
 import { Card, CardContent, Typography, CardMedia, Box} from '@mui/material';
 import { getTierColor } from '../../utils/globalVariables';
 import styles from '../../styles/ConsumableLargeCard.module.css';
+import Image from 'next/image';
 
 interface ConsumableLargeCardProps {
 	item: {
@@ -25,10 +26,12 @@ const ConsumableLargeCard: React.FC<ConsumableLargeCardProps> = ({item}) => {
 					<Typography sx={{color: 'tertiary.dark', fontWeight: 'bold'}}>{item.type}</Typography>
 				</Box>
 				<Box className={styles.weapon_rounds_type} >
-					<img 
+					<Image 
 						src={`/images/consumables_type_icons/${item.type.replace(' ', '_').toLowerCase()}.png`}
                         alt={item.type}
-						style={{width: '28px'}}
+						width={28}
+						height={28}
+						quality={100}
 					/>
 				</Box>
 			</Box>

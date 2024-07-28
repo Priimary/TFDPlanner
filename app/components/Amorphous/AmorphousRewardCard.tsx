@@ -2,6 +2,7 @@ import React from 'react';
 import { Card, CardContent, CardActions, Typography, Grid } from '@mui/material';
 import { Reward } from '../../interfaces/interfaces';
 import styles from '../../styles/AmorphousRewardCard.module.css';
+import Image from 'next/image';
 
 interface AmorphousRewardCardProps {
     reward: Reward;
@@ -20,10 +21,13 @@ const AmorphousRewardCard: React.FC<AmorphousRewardCardProps> = ({ reward, isSel
                     </Typography>
                 </div>
                 <CardContent>
-                    <img
+                    <Image
                         src={`/images/core_material/${reward.name.replace(/ /g, '_').replace(/'/g, '_').toLowerCase()}.png`}
                         alt={reward.name}
                         className={styles.rewardImage}
+						width={60}
+						height={60}
+						quality={100}
                     />
                 </CardContent>
                 <CardActions className={styles.rewardCardActions}>

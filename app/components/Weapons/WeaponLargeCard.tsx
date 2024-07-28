@@ -2,6 +2,7 @@ import React from 'react';
 import { Card, CardContent, Typography, CardMedia, Box} from '@mui/material';
 import { getTierColor } from '../../utils/globalVariables';
 import styles from '../../styles/WeaponLargeCard.module.css';
+import Image from 'next/image'
 
 interface WeaponLargeCardProps {
 	item: {
@@ -26,10 +27,12 @@ const WeaponLargeCard: React.FC<WeaponLargeCardProps> = ({item}) => {
 					<Typography sx={{color: 'tertiary.dark', fontWeight: 'bold'}}>{item.weapon_type}</Typography>
 				</Box>
 				<Box className={styles.weapon_rounds_type} >
-					<img 
+					<Image 
 						src={`/images/rounds_types/${item.weapon_rounds_type.replace(' ', '_')}.png`}
                         alt={item.weapon_rounds_type}
-						style={{width: '28px'}}
+						width={28}
+						height={28}
+						quality={100}
 					/>
 				</Box>
 			</Box>

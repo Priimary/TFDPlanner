@@ -42,8 +42,8 @@ const VoidMissionsPage: React.FC = () => {
         <div className={styles.main}>
 			<div className={styles.info_container} style={{backgroundColor: '#15171c'}}>
 				<ul className={styles.info_content}>
-					<li><Typography sx={{color: 'tertiary.dark'}}>Some missions takes longer than others, don't check only the one with the best raw income.</Typography></li>
-					<li><Typography sx={{color: 'tertiary.dark'}}>Void Shard's types are gated by Element, check out another element for a possible better income.</Typography></li>
+					<li><Typography sx={{color: 'tertiary.dark'}}>Missions with the best raw income aren&apos;t necessarily the most efficient.</Typography></li>
+					<li><Typography sx={{color: 'tertiary.dark'}}>Void Shards types are gated by Element, check out another element for a possible better income.</Typography></li>
 					<li><Typography sx={{color: 'tertiary.dark'}}>Fragment type missions in Hard difficulty rewards you with 3x more shards, always try to farm in this difficulty.</Typography></li>
 					<li><Typography sx={{color: 'tertiary.dark'}}>Basic filter presets are available to make your life easier, remember to check out other elements.</Typography></li>
 				</ul>

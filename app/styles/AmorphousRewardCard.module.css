@@ -88,10 +88,6 @@
 .rewardCardActions{
 	justify-content: center;
 }
-.rewardImage {
-    width: 60px;
-    height: auto;
-}
 
 .rewardDropRate {
     font-weight: bold;

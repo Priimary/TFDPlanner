@@ -2,6 +2,7 @@ import React from 'react';
 import { Box, Typography, Card, CardContent } from '@mui/material';
 import { Skill } from '../../interfaces/interfaces';
 import styles from '../../styles/DescendantSkillCard.module.css';
+import Image from 'next/image';
 
 
 interface DescendantSkillCardProps {
@@ -23,10 +24,12 @@ const DescendantSkillCard: React.FC<DescendantSkillCardProps> = ({ skills }) => 
 					>
 						<div style={{ display: 'flex', alignItems: 'center', flex: '0 0 auto' }}>
 							{skills && (
-								<img
+								<Image
 									src={skill.skill_image_url}
 									alt={skill.skill_name}
-									style={{ height: '40px' }}
+									width={40}
+									height={40}
+									quality={100}
 								/>
 							)}
 						</div>
@@ -38,10 +41,12 @@ const DescendantSkillCard: React.FC<DescendantSkillCardProps> = ({ skills }) => 
 						</div>
 
 						<div style={{ display: 'flex', justifyContent: 'center', flex: '0 0 auto', width: '40px'}}>
-							<img 
+							<Image
 								src={`/images/elements/${skill.element_type.toLowerCase()}.png`}
 								alt={skill.element_type}
-								style={{width: '80%'}}
+								width={30}
+								height={30}
+								quality={100}
 							/>
 						</div>
 					</div>

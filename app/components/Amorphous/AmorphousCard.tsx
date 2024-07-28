@@ -2,6 +2,7 @@ import React from 'react';
 import { Card, CardContent, CardActions, Typography, Grid, Button } from '@mui/material';
 import { Reward, VoidMaterial } from '../../interfaces/interfaces';
 import AmorphousRewardCard from './AmorphousRewardCard';
+import Image from 'next/image';
 
 interface AmorphousCardProps {
     amorphous: {
@@ -23,10 +24,13 @@ const AmorphousCard: React.FC<AmorphousCardProps> = ({ amorphous, selectedPart, 
                 <div>
                     <Typography color='tertiary.dark' sx={{fontSize:'20px', fontWeight: 'bold', position: 'relative', textTransform: 'uppercase'}}>
                         Amorphous {amorphous.id}
-                        <img
-                            src={`/images/amorphous_material/amorphous_material_pattern__${amorphous.id}.png`} 
+                        <Image
+                            src={`/images/amorphous_material/amorphous_material_pattern__${typeof amorphous.id === 'string' ? amorphous.id.toLowerCase() : amorphous.id}.png`} 
                             alt={`amorphous ${amorphous.id}`}
-                            style={{position: 'absolute', top: '-25%', left:'-30%', width: '45px'}}
+							width={45}
+							height={45}
+							quality={100}
+                            style={{position: 'absolute', top: '-25%', left:'-30%'}}
                         />
                     </Typography>
                 </div>
