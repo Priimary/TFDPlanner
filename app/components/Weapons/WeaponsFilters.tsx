@@ -61,7 +61,7 @@ const WeaponsFilters: React.FC<WeaponsFiltersProps> = ({ onFilterChange }) => {
                         }}
                     >
                         <Image
-                            src={`/images/rounds_types/${weapons_rounds_type.replace(' ', '_')}.png`}
+                            src={`/images/rounds_types/${weapons_rounds_type.toLowerCase().replace(/ /g, '_').replace(/-/g, '_')}.png`}
                             alt={weapons_rounds_type}
 							width={26}
 							height={26}

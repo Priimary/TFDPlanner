@@ -10,7 +10,13 @@ interface RootLayoutProps {
 }
 export const metadata = {
 	title: 'TFD Planner',
-	description: 'Everything you need to know about the game The First Descendant made by Nexon'
+	description: 'Everything you need to know about the game The First Descendant made by Nexon',
+	icons: {
+		icon: '/favicon.png'
+	},
+	verification: {
+		google: "vfJ-Ksmzv2WzYQ361gV6vHZcH9GZSoqHhctdy7EN-IY"
+	}
 }
 
 const RootLayout: React.FC<RootLayoutProps> = ({ children }) => {
