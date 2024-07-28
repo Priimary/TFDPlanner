@@ -9,8 +9,8 @@ interface RootLayoutProps {
 	children: React.ReactNode;
 }
 export const metadata = {
-	title: 'TFD Planner',
-	description: 'Everything you need to know about the game The First Descendant made by Nexon',
+	title: 'The First Descendant Planner & Database - Plan your build and the resources you want in TFD',
+	description: "TFD Planner provides an extensive Database for The First Descendant, including Descendants and Weapons builders, Void Shards planners, and Resources trackers. Get the most out of your game with tools designed to streamline your strategy and enhance your gaming experience.",
 	icons: {
 		icon: '/favicon.png'
 	},
