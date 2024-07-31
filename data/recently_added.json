@@ -4,15 +4,18 @@
 		"news": [
 			{
 				"name": "Ultimate Valby",
-				"image_url": "/images/valby_ultimate.png"
+				"image_url": "/images/valby_ultimate.png",
+				"link_url": "/descendants/101000022"
 			},
 			{
 				"name": "Luna",
-				"image_url": "/images/luna.png"
+				"image_url": "/images/luna.png",
+				"link_url": "/descendants/101000018"
 			},
 			{
 				"name": "Peace Maker",
-				"image_url": "/images/peace_maker.png"
+				"image_url": "/images/peace_maker.png",
+				"link_url": "/weapons/211023003"
 			}
 		]
 	}
