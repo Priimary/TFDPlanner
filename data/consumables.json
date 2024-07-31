@@ -2083,6 +2083,132 @@
 		"description": "A research blueprint that contains the structural formula to craft Yujin's stabilizer. The basic materials needed for research must be obtained separately."
 	},
 	{
+		"name": "Luna Code",
+		"type": "Core Material",
+		"tier": "Ultimate",
+		"description": "A code that contains the Arche expression formula for Luna. The basic materials needed for research must be obtained separately."
+	},
+	{
+		"name": "Luna Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Rare",
+		"description": "Luna's Spiral Catalyst. This catalyst can maximize Luna's Arche response."
+	},
+	{
+		"name": "Luna Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Rare",
+		"description": "A research blueprint that contains the structural formula to craft Luna's catalyst. The basic materials needed for research must be obtained separately."
+	},
+	{
+		"name": "Luna Stabilizer",
+		"type": "Core Material",
+		"tier": "Rare",
+		"description": "A mechanism used to stabilize Luna's Arche. It has been engraved in a specific way to respond to Luna's Arche."
+	},
+	{
+		"name": "Luna Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Rare",
+		"description": "A research blueprint that contains the structural formula to craft Luna's stabilizer. The basic materials needed for research must be obtained separately."
+	},
+	{
+		"name": "Luna Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Rare",
+		"description": "Enhanced Cells designed to fit Luna's Arche, which will replace the current cells upon injection."
+	},
+	{
+		"name": "Luna Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Rare",
+		"description": "A research blueprint that contains the structural formula to craft Luna's enhanced cells. The basic materials needed for research must be obtained separately."
+	},
+	{
+		"name": "Ultimate Valby Code",
+		"type": "Core Material",
+		"tier": "Ultimate",
+		"description": "A code that contains the Arche expression formula for Ultimate Valby. The basic materials needed for research must be obtained separately."
+	},
+	{
+		"name": "Ultimate Valby Spiral Catalyst",
+		"type": "Core Material",
+		"tier": "Ultimate",
+		"description": "Ultimate Valby's spiral catalyst. This catalyst can maximize Ultimate Valby's Arche response."
+	},
+	{
+		"name": "Ultimate Valby Spiral Catalyst Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate",
+		"description": "A research blueprint that contains the structural formula to craft Ultimate Valby's catalyst. The basic materials needed for research must be obtained separately."
+	},
+	{
+		"name": "Ultimate Valby Enhanced Cells",
+		"type": "Core Material",
+		"tier": "Ultimate",
+		"description": "Enhanced Cells designed to fit Ultimate Valby's Arche, which will replace the current cells upon injection."
+	},
+	{
+		"name": "Ultimate Valby Enhanced Cells Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate",
+		"description": "A research blueprint that contains the structural formula to craft Ultimate Valby's enhanced cells. The basic materials needed for research must be obtained separately."
+	},
+	{
+		"name": "Ultimate Valby Stabilizer",
+		"type": "Core Material",
+		"tier": "Ultimate",
+		"description": "A mechanism used to stabilize Ultimate Valby's Arche. It has been engraved in a specific way to respond to Ultimate Valby's Arche."
+	},
+	{
+		"name": "Ultimate Valby Stabilizer Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate",
+		"description": "A research blueprint that contains the structural formula to craft Ultimate Valby's stabilizer. The basic materials needed for research must be obtained separately."
+	},
+	{
+		"name": "Peace Maker Blueprint",
+		"type": "Core Material",
+		"tier": "Ultimate",
+		"description": "A research blueprint needed to craft Peace Maker. The materials needed for research must be obtained separately."
+	},
+	{
+		"name": "Peace Maker Nano Tube",
+		"type": "Core Material",
+		"tier": "Rare",
+		"description": "The Nano Tube needed to research Peace Maker. This carbon structure is needed to craft Peace Maker."
+	},
+	{
+		"name": "Peace Maker Nano Tube Blueprint",
+		"type": "Core Material",
+		"tier": "Rare",
+		"description": "A blueprint needed to research the Nano Tube of Peace Maker. The materials needed for research must be obtained separately."
+	},
+	{
+		"name": "Peace Maker Synthetic Fiber",
+		"type": "Core Material",
+		"tier": "Rare",
+		"description": "The Synthetic Fiber needed to research Peace Maker. This Optical Fiber is needed to craft Peace Maker."
+	},
+	{
+		"name": "Peace Maker Synthetic Fiber Blueprint",
+		"type": "Core Material",
+		"tier": "Rare",
+		"description": "A blueprint needed to research the Synthetic Fiber of Peace Maker. The materials needed for research must be obtained separately."
+	},
+	{
+		"name": "Peace Maker Polymer Syncytium",
+		"type": "Core Material",
+		"tier": "Rare",
+		"description": "The Polymer Syncytium needed to research Peace Maker. It contains the molecular structure needed to craft Peace Maker."
+	},
+	{
+		"name": "Peace Maker Polymer Syncytium Blueprint",
+		"type": "Core Material",
+		"tier": "Rare",
+		"description": "A blueprint needed to research the Polymer Syncytium of Peace Maker. The materials needed for research must be obtained separately."
+	},
+	{
 		"name": "Shape Stabilizer Form 1",
 		"type": "Amorphous Material",
 		"tier": "Ultimate",

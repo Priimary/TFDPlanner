@@ -2149,7 +2149,7 @@
         "drop_rate": 0.06
       },
       {
-        "name": "Enduring legacy Polymer Syncytium Blueprint",
+        "name": "Enduring Legacy Polymer Syncytium Blueprint",
         "drop_rate": 0.1
       },
       {
@@ -2938,7 +2938,7 @@
         "drop_rate": 0.06
       },
       {
-        "name": "Enduring legacy Polymer Syncytium Blueprint",
+        "name": "Enduring Legacy Polymer Syncytium Blueprint",
         "drop_rate": 0.1
       },
       {
@@ -3602,5 +3602,678 @@
         "drop_rate": 0.32
       }
     ]
+  },
+  {
+	"id": "11 - Mutant AA",
+	"drop_location": "Sterile Land - Block Kuiper Mining",
+	"open_location": "Stunning Beauty [N]",
+	"drop_location_type": "Special Ops",
+	"rewards": [
+		{
+			"name": "Ultimate Valby Enhanced Cells Blueprint",
+			"drop_rate": 0.03 
+		},
+		{
+			"name": "Divine Punishment Polymer Syncytium Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Crystallization Catalyst Blueprint",
+			"drop_rate": 0.15
+		},
+		{
+			"name": "Enzo Spiral Catalyst Blueprint",
+			"drop_rate": 0.38
+		},
+		{
+			"name": "The Final Masterpiece Nano Tube Blueprint",
+			"drop_rate": 0.38
+		}
+	]
+  },
+  {
+	"id": "15 - Mutant AA",
+	"drop_location": "Vespers [N] - Moonlight Lake Outpost",
+	"open_location": "Vespers [N] - Moonlight Lake Void Reactor",
+	"drop_location_type": "Outpost",
+	"rewards": [
+		{
+			"name": "Esiemo Spiral Catalyst Blueprint",
+			"drop_rate": 0.03
+		},
+		{
+			"name": "Restored Relic Polymer Syncytium Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Crystallization Catalyst Blueprint",
+			"drop_rate": 0.15
+		},
+		{
+			"name": "Luna Spiral Catalyst Blueprint",
+			"drop_rate": 0.38
+		},
+		{
+			"name": "Nazeistra's Devotion Nano Tube Blueprint",
+			"drop_rate": 0.38
+		}
+	]
+  },
+  {
+	"id": "17 - Mutant AA",
+	"drop_location": "Vespers [N] - The Shelter",
+	"open_location": "Executioner [N]",
+	"drop_location_type": "Dungeon",
+	"rewards": [
+		{
+			"name": "Ultimate Bunny Spiral Catalyst Blueprint",
+			"drop_rate": 0.03
+		},
+		{
+			"name": "Kyle Stabilizer Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Crystallization Catalyst Blueprint",
+			"drop_rate": 0.15
+		},
+		{
+			"name": "Luna Enhanced Cells Blueprint",
+			"drop_rate": 0.38
+		},
+		{
+			"name": "Smithereens Blueprint",
+			"drop_rate": 0.38
+		}
+	]
+  },
+  {
+	"id": "20 - Mutant AA",
+	"drop_location": "Echo Swamp [N] - Muskeg Swamp Outpost",
+	"open_location": "Echo Swamp [H] - Muskeg Swamp Void Reactor",
+	"drop_location_type": "Outpost",
+	"rewards": [
+		{
+			"name": "Energy Activator Blueprint",
+			"drop_rate": 0.03
+		},
+		{
+			"name": "Luna Stabilizer Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Restored Relic Synthetic Fiber Blueprint",
+			"drop_rate": 0.15
+		},
+		{
+			"name": "Valby Stabilizer Blueprint",
+			"drop_rate": 0.38
+		},
+		{
+			"name": "Albion Cavalry Gun Synthetic Fiber Blueprint",
+			"drop_rate": 0.38
+		}
+	]
+  },
+  {
+	"id": "23 - Mutant AA",
+	"drop_location": "Echo Swamp [N] - The Chapel",
+	"open_location": "Dead Bride [N]",
+	"drop_location_type": "Dungeon",
+	"rewards": [
+		{
+			"name": "Blue Beetle Blueprint",
+			"drop_rate": 0.03
+		},
+		{
+			"name": "Ultimate Valby Spiral Catalyst Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Crystallization Catalyst Blueprint",
+			"drop_rate": 0.15
+		},
+		{
+			"name": "Restored Relic Nano Tube Blueprint",
+			"drop_rate": 0.38
+		},
+		{
+			"name": "Greg's Reversed Fate Synthetic Fiber Blueprint",
+			"drop_rate": 0.38
+		}
+	]
+  },
+  {
+	"id": "27 - Mutant AA",
+	"drop_location": "Agna Desert [N] - The Storage Outpost",
+	"open_location": "Agna Desert [N] - The Storage Void Reactor",
+	"drop_location_type": "Outpost",
+	"rewards": [
+		{
+			"name": "Luna Code",
+			"drop_rate": 0.03
+		},
+		{
+			"name": "Smithereens Polymer Syncytium Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Crystallization Catalyst Blueprint",
+			"drop_rate": 0.15
+		},
+		{
+			"name": "Ajax Enhanced Cells Blueprint",
+			"drop_rate": 0.38
+		},
+		{
+			"name": "Albion Cavalry Gun Polymer Syncytium Blueprint",
+			"drop_rate": 0.38
+		}
+	]
+  },
+  {
+	"id": "30 - Mutant AA",
+	"drop_location": "Agna Desert [N] - Caligo Ossuary",
+	"open_location": "Devourer [N]",
+	"drop_location_type": "Dungeon",
+	"rewards": [
+		{
+			"name": "Energy Activator Blueprint",
+			"drop_rate": 0.03
+		},
+		{
+			"name": "Ultimate Valby Stabilizer Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Viessa Code",
+			"drop_rate": 0.15
+		},
+		{
+			"name": "Albion Cavalry Gun Synthetic Fiber Blueprint",
+			"drop_rate": 0.38
+		},
+		{
+			"name": "The Final Masterpiece Blueprint",
+			"drop_rate": 0.38
+		}
+	]
+  },
+  {
+	"id": "38 - Mutant AA",
+	"drop_location": "White-night Gulch - Block Kuiper Mining",
+	"open_location": "Pyromaniac [N]",
+	"drop_location_type": "Special Ops",
+	"rewards": [
+		{
+			"name": "Ultimate Viessa Code",
+			"drop_rate": 0.03
+		},
+		{
+			"name": "Perforator Nano Tube Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Crystallization Catalyst Blueprint",
+			"drop_rate": 0.15
+		},
+		{
+			"name": "Divine Punishment Polymer Syncytium Blueprint",
+			"drop_rate": 0.38
+		},
+		{
+			"name": "Luna Enhanced Cells Blueprint",
+			"drop_rate": 0.38
+		}
+	]
+  },
+  {
+	"id": "44 - Mutant AA",
+	"drop_location": "Hagios [N] - Old Mystery",
+	"open_location": "Swamp Walker [N]",
+	"drop_location_type": "Dungeon",
+	"rewards": [
+		{
+			"name": "Energy Activator Blueprint",
+			"drop_rate": 0.03
+		},
+		{
+			"name": "Ultimate Valby Enhanced Cells Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Python Polymer Syncytium Blueprint",
+			"drop_rate": 0.15
+		},
+		{
+			"name": "The Final Masterpiece Polymer Syncytium Blueprint",
+			"drop_rate": 0.38
+		},
+		{
+			"name": "Greg's Reversed Fate Blueprint",
+			"drop_rate": 0.38
+		}
+	]
+  },
+  {
+	"id": "49 - Mutant AA",
+	"drop_location": "Fortress [N] - Defense Line Outpost",
+	"open_location": "Fortress [N] - Defense Line Void Reactor",
+	"drop_location_type": "Outpost",
+	"rewards": [
+		{
+			"name": "Perforator Polymer Syncytium Blueprint",
+			"drop_rate": 0.03
+		},
+		{
+			"name": "Ajax Stabilizer Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Crystallization Catalyst Blueprint",
+			"drop_rate": 0.15
+		},
+		{
+			"name": "Greg's Reversed Fate Blueprint",
+			"drop_rate": 0.38
+		},
+		{
+			"name": "Luna Spiral Catalyst Blueprint",
+			"drop_rate": 0.38
+		}
+	]
+  },
+  {
+	"id": "52 - Mutant AA",
+	"drop_location": "Fortress - Defend Albion Resources",
+	"open_location": "Hanged Man [N]",
+	"drop_location_type": "Special Ops",
+	"rewards": [
+		{
+			"name": "Ultimate Bunny Code",
+			"drop_rate": 0.03
+		},
+		{
+			"name": "Ultimate Valby Spiral Catalyst Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Crystallization Catalyst Blueprint",
+			"drop_rate": 0.15
+		},
+		{
+			"name": "Wave of Light Nano Tube Blueprint",
+			"drop_rate": 0.38
+		},
+		{
+			"name": "The Final Masterpiece Synthetic Fiber Blueprint",
+			"drop_rate": 0.38
+		}
+	]
+  },
+  {
+	"id": "55 - Mutant AA",
+	"drop_location": "Kingston [N] - Fallen Theatre Outpost",
+	"open_location": "Kingston [H] - Grand Square Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+	"rewards": [
+		{
+			"name": "Energy Activator Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Kyle Spiral Catalyst Blueprint",
+			"drop_rate": 0.10
+		},
+		{
+			"name": "Jayber Enhanced Cells Blueprint",
+			"drop_rate": 0.20
+		},
+		{
+			"name": "Executor Blueprint",
+			"drop_rate": 0.32
+		},
+		{
+			"name": "Ultimate Valby Stabilizer Blueprint",
+			"drop_rate": 0.32
+		}
+	]
+  },
+  {
+	"id": "68 - Mutant AA",
+	"drop_location": "Sterile Land [H] - Unknown Laboratory",
+	"open_location": "Dead Bride [H], Gluttony [H]",
+	"drop_location_type": "Dungeon",
+	"rewards": [
+		{
+			"name": "Ultimate Gley Code",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "The Final Masterpiece Synthetic Fiber Blueprint",
+			"drop_rate": 0.10
+		},
+		{
+			"name": "Crystallization Catalyst Blueprint",
+			"drop_rate": 0.20
+		},
+		{
+			"name": "Wave of Light Polymer Syncytium Blueprint",
+			"drop_rate": 0.32
+		},
+		{
+			"name": "Luna Stabilizer Blueprint",
+			"drop_rate": 0.32
+		}
+	]
+  },
+  {
+	"id": "71 - Mutant AA",
+	"drop_location": "Vespers [H] - The Lumber Yard Outpost",
+	"open_location": "Vespers [H] - The Ruins Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+	"rewards": [
+		{
+			"name": "Energy Activator Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Yujin Spiral Catalyst Blueprint",
+			"drop_rate": 0.10
+		},
+		{
+			"name": "Luna Spiral Catalyst Blueprint",
+			"drop_rate": 0.20
+		},
+		{
+			"name": "Afterglow Sword Synthetic Fiber Blueprint",
+			"drop_rate": 0.32
+		},
+		{
+			"name": "Python Blueprint",
+			"drop_rate": 0.32
+		}
+	]
+  },
+  {
+	"id": "73 - Mutant AA",
+	"drop_location": "Vespers [H] - Lost Supply Depot Outpost",
+	"open_location": "Vespers [H] - Lost Supply Depot Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+	"rewards": [
+		{
+			"name": "Energy Activator Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Ultimate Bunny Enhanced Cells Blueprint",
+			"drop_rate": 0.10
+		},
+		{
+			"name": "Ultimate Valby Spiral Catalyst Blueprint",
+			"drop_rate": 0.20
+		},
+		{
+			"name": "Divine Punishment Nano Tube Blueprint",
+			"drop_rate": 0.32
+		},
+		{
+			"name": "Perforator Nano Tube Blueprint",
+			"drop_rate": 0.32
+		}
+	]
+  },
+  {
+	"id": "81 - Mutant AA",
+	"drop_location": "Echo Swamp [H] - Muskeg Swamp Outpost",
+	"open_location": "Echo Swamp [H] - Muskeg Swamp Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+	"rewards": [
+		{
+			"name": "Energy Activator Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Luna Enhanced Cells Blueprint",
+			"drop_rate": 0.10
+		},
+		{
+			"name": "Afterglow Sword Nano Tube Blueprint",
+			"drop_rate": 0.20
+		},
+		{
+			"name": "Enzo Stabilizer Blueprint",
+			"drop_rate": 0.32
+		},
+		{
+			"name": "King's Guard Lance Polymer Syncytium Blueprint",
+			"drop_rate": 0.32
+		}
+	]
+  },
+  {
+	"id": "87 - Mutant AA",
+	"drop_location": "Echo Swamp [H] - The Chapel",
+	"open_location": "Pyromaniac [H]",
+	"drop_location_type": "Dungeon",
+	"rewards": [
+		{
+			"name": "Energy Activator Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Ultimate Valby Code",
+			"drop_rate": 0.10
+		},
+		{
+			"name": "Ultimate Bunny Spiral Catalyst Blueprint",
+			"drop_rate": 0.20
+		},
+		{
+			"name": "Wave of Light Blueprint",
+			"drop_rate": 0.32
+		},
+		{
+			"name": "Enduring Legacy Nano Tube Blueprint",
+			"drop_rate": 0.32
+		}
+	]
+  },
+  {
+	"id": "90 - Mutant AA",
+	"drop_location": "Agna Desert [H] - The Storage Outpost",
+	"open_location": "Agna Desert [H] - The Storage Void Reactor",
+	"drop_location_type": "Outpost",
+	"rewards": [
+		{
+			"name": "Esiemo Code",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Luna Code",
+			"drop_rate": 0.10
+		},
+		{
+			"name": "Crystallization Catalyst Blueprint",
+			"drop_rate": 0.20
+		},
+		{
+			"name": "Executor Nano Tube Blueprint",
+			"drop_rate": 0.32
+		},
+		{
+			"name": "King's Guard Lance Polymer Syncytium Blueprint",
+			"drop_rate": 0.32
+		}
+	]
+  },
+  {
+	"id": "94 - Mutant AA",
+	"drop_location": "Agna Desert [H] - The Asylum",
+	"open_location": "Swamp Walker [H], Gluttony [H]",
+	"drop_location_type": "Dungeon",
+	"rewards": [
+		{
+			"name": "Ultimate Ajax Spiral Catalyst Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Afterglow Sword Blueprint",
+			"drop_rate": 0.10
+		},
+		{
+			"name": "Crystallization Catalyst Blueprint",
+			"drop_rate": 0.20
+		},
+		{
+			"name": "Luna Code",
+			"drop_rate": 0.32
+		},
+		{
+			"name": "Blue Beetle Synthetic Fiber Blueprint",
+			"drop_rate": 0.32
+		}
+	]
+  },
+  {
+	"id": "98 - Mutant AA",
+	"drop_location": "White-night Gulch [H] - The Mountaintops Outpost",
+	"open_location": "White-night Gulch [H] - The Mountaintops Void Reactor",
+	"drop_location_type": "Outpost",
+	"rewards": [
+		{
+			"name": "Ultimate Ajax Spiral Catalyst Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Luna Stabilizer Blueprint",
+			"drop_rate": 0.10
+		},
+		{
+			"name": "Crystallization Catalyst Blueprint",
+			"drop_rate": 0.20
+		},
+		{
+			"name": "Wave of Light Nano Tube Blueprint",
+			"drop_rate": 0.32
+		},
+		{
+			"name": "King's Guard Lance Nano Tube Blueprint",
+			"drop_rate": 0.32
+		}
+	]
+  },
+  {
+	"id": "110 - Mutant AA",
+	"drop_location": "Hagios [H] - The Corrupted Zone Outpost",
+	"open_location": "Hagios [H] - The Corrupted Zone Void Reactor",
+	"drop_location_type": "Outpost",
+	"rewards": [
+		{
+			"name": "Ultimate Valby Code",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Enzo Spiral Catalyst Blueprint",
+			"drop_rate": 0.10
+		},
+		{
+			"name": "Crystallization Catalyst Blueprint",
+			"drop_rate": 0.20
+		},
+		{
+			"name": "Clairvoyance Nano Tube Blueprint",
+			"drop_rate": 0.32
+		},
+		{
+			"name": "Restored Relic Synthetic Fiber Blueprint",
+			"drop_rate": 0.32
+		}
+	]
+  },
+  {
+	"id": "113 - Mutant AA",
+	"drop_location": "Hagios [H] - Forward Base Outpost",
+	"open_location": "Hagios [H] - Fractured Monolith Void Reactor",
+	"drop_location_type": "Outpost Infiltration",
+	"rewards": [
+		{
+			"name": "Energy Activator Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Ultimate Bunny Enhanced Cells Blueprint",
+			"drop_rate": 0.10
+		},
+		{
+			"name": "Clairvoyance Blueprint",
+			"drop_rate": 0.20
+		},
+		{
+			"name": "Perforator Nano Tube Blueprint",
+			"drop_rate": 0.32
+		},
+		{
+			"name": "Ultimate Valby Stabilizer Blueprint",
+			"drop_rate": 0.32
+		}
+	]
+  },
+  {
+	"id": "115 - Mutant AA",
+	"drop_location": "Hagios [H] - The Haven",
+	"open_location": "Frost Walker [H], Gluttony [H]",
+	"drop_location_type": "Dungeon",
+	"rewards": [
+		{
+			"name": "Energy Activator Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Viessa Stabilizer Blueprint",
+			"drop_rate": 0.10
+		},
+		{
+			"name": "Enduring Legacy Polymer Syncytium Blueprint",
+			"drop_rate": 0.20
+		},
+		{
+			"name": "Ultimate Valby Enhanced Cells Blueprint",
+			"drop_rate": 0.32
+		},
+		{
+			"name": "Wave of Light Blueprint",
+			"drop_rate": 0.32
+		}
+	]
+  },
+  {
+	"id": "125 - Mutant AA",
+	"drop_location": "Fortress [H] - Quarantine Zone",
+	"open_location": "Molten Fortress [H], Gluttony [H]",
+	"drop_location_type": "Dungeon",
+	"rewards": [
+		{
+			"name": "Energy Activator Blueprint",
+			"drop_rate": 0.06
+		},
+		{
+			"name": "Ultimate Viessa Code",
+			"drop_rate": 0.10
+		},
+		{
+			"name": "Ultimate Valby Code",
+			"drop_rate": 0.20
+		},
+		{
+			"name": "Piercing Light Synthetic Fiber Blueprint",
+			"drop_rate": 0.32
+		},
+		{
+			"name": "Wave of Light Polymer Syncytium Blueprint",
+			"drop_rate": 0.32
+		}
+	]
   }
+
 ]

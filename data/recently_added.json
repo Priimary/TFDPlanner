@@ -3,13 +3,16 @@
 		"version": "1.0.5",
 		"news": [
 			{
-				"name": "Ultimate Valby"
+				"name": "Ultimate Valby",
+				"image_url": "/images/valby_ultimate.png"
 			},
 			{
-				"name": "Luna"
+				"name": "Luna",
+				"image_url": "/images/luna.png"
 			},
 			{
-				"name": "Peace Maker"
+				"name": "Peace Maker",
+				"image_url": "/images/peace_maker.png"
 			}
 		]
 	}

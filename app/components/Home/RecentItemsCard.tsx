@@ -37,12 +37,12 @@ const RecentItemsCard: React.FC<RecentItemsCardProps> = ({ recentlyAdded }) => {
 											style={{ cursor: 'pointer', display: 'flex', flexDirection: 'column', alignItems: 'center' }}
 											onClick={() => handleClick(newsItem.link_url || '')}
 										>
-											<Box className={styles.new_item_card_header} sx={{backgroundColor: '#2b2f38'}}>
+											<Box className={styles.new_item_card_header} sx={{backgroundColor: '#2b2f38', width: '100%'}}>
 												<CardMedia
 													component="img"
 													src={newsItem.image_url || '/images/default.png'}
 													alt={newsItem.name}
-													style={{width: '100%', height: 'auto'}}
+													style={{width: '100%', height: '100px'}}
 												/>
 											</Box>
 											<CardContent className={styles.new_item_card_content} style={{width: '100%',display: 'flex', alignItems: 'center', justifyContent: 'center', textAlign: 'center', backgroundColor: '#15171c', height: '40px', padding: '5px', boxSizing: 'border-box'}}>

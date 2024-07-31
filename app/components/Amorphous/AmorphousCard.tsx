@@ -23,7 +23,7 @@ const AmorphousCard: React.FC<AmorphousCardProps> = ({ amorphous, selectedPart})
                     <Typography color='tertiary.dark' sx={{fontSize:'20px', fontWeight: 'bold', position: 'relative', textTransform: 'uppercase'}}>
                         Amorphous {amorphous.id}
                         <Image
-                            src={`/images/consumables/amorphous_material_pattern__${typeof amorphous.id === 'string' ? amorphous.id.toLowerCase() : amorphous.id}.png`} 
+                            src={`/images/consumables/amorphous_material_pattern__${typeof amorphous.id === 'string' ? amorphous.id.toLowerCase().replace(/ /g, '_').replace(/-/g, '') : amorphous.id}.png`} 
                             alt={`amorphous ${amorphous.id}`}
 							width={45}
 							height={45}
