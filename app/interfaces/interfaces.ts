@@ -21,6 +21,7 @@ export interface Descendant{
 	descendant_id: string;
 	descendant_name: string;
 	descendant_element: string;
+	descendant_description: string;
 	descendant_image_url: string;
 	descendant_stat: DescendantStat[];
 	descendant_skill: Skill[];
