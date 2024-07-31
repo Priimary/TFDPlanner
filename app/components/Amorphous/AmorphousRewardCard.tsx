@@ -6,7 +6,7 @@ import Image from 'next/image';
 
 interface AmorphousRewardCardProps {
     reward: Reward;
-    isSelected: boolean;
+    isSelected?: boolean;
 }
 
 const AmorphousRewardCard: React.FC<AmorphousRewardCardProps> = ({ reward, isSelected }) => {
@@ -22,7 +22,7 @@ const AmorphousRewardCard: React.FC<AmorphousRewardCardProps> = ({ reward, isSel
                 </div>
                 <CardContent>
                     <Image
-                        src={`/images/core_material/${reward.name.replace(/ /g, '_').replace(/'/g, '_').toLowerCase()}.png`}
+                        src={`/images/consumables/${reward.name.replace(/ /g, '_').replace(/'/g, '_').toLowerCase()}.png`}
                         alt={reward.name}
                         className={styles.rewardImage}
 						width={60}

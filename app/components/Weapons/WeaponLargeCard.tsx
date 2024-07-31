@@ -38,7 +38,7 @@ const WeaponLargeCard: React.FC<WeaponLargeCardProps> = ({item}) => {
 			</Box>
             <CardContent className={styles.card_content}>
 				<CardMedia component='img' src={item.weapon_image_url} alt={item.name} className={styles.card_media} />
-                <Typography className={styles.weapon_name} sx={{ color: tierColor }}>
+                <Typography variant='h1' className={styles.weapon_name} sx={{ color: tierColor }}>
                     {item.name}
                 </Typography>
             </CardContent>

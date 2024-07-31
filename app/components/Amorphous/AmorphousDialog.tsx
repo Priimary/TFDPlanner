@@ -15,7 +15,7 @@ interface AmorphousDialogProps {
     onClose: () => void;
     drop_location?: string;
     open_location?: string;
-	selectedPart: string;
+	selectedPart?: string;
 }
 
 const AmorphousDialog: React.FC<AmorphousDialogProps> = ({ open, onClose, drop_location, open_location, selectedPart }) => {

@@ -1,0 +1,224 @@
+[
+	{
+		"name": "Energy Activators",
+		"craft": [
+			{
+				"name": "Low Carbon Activator",
+				"value": 55
+			},
+			{
+				"name": "Conductive Metallic Foil",
+				"value": 25
+			},
+			{
+				"name": "Heat Plasma Battery",
+				"value" : 55
+			},
+			{
+				"name": "Polyatomic Ion Particle",
+				"value": 72
+			},
+			{
+				"name": "Energy Activator Blueprint",
+				"value": 1
+			}
+		]
+	},
+	{
+		"name": "Crystallization Catalyst",
+		"craft": [
+			{
+				"name": "Murky Energy Residue",
+				"value": 8
+			},
+			{
+				"name": "Macromolecule Biogel",
+				"value": 22
+			},
+			{
+				"name": "Mixed Energy Residue",
+				"value": 8
+			},
+			{
+				"name": "Advanced Neural Circuit",
+				"value": 18
+			},
+			{
+				"name": "Crystallization Catalyst Blueprint",
+				"value": 1
+			}
+		]
+	},
+	{
+		"name": "Murky Energy Residue",
+		"drop_location": [
+			{
+				"location": "Sterile Land [N] [H] - The Forgottense",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "Sterile Land [N] [H] - Unknown Laboratory",
+				"type": "Mission Monster"
+			}
+		]
+	},
+	{
+		"name": "Macromolecule Biogel",
+		"drop_location": [
+			{
+				"location": "Echo Swamp [N] [H] - Muskeg Swamp Outpost",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "Echo Swamp [N] [H] - Derelict Covert Outpost",
+				"type": "Mission Monster"
+			}
+		]
+	},
+	{
+		"name": "Mixed Energy Residue",
+		"drop_location": [
+			{
+				"location": "Agna Desert [N] [H] - Encrypted Storage Box",
+				"type": "Enzo for more loot",
+				"recommended": true
+			},
+			{
+				"location": "Agna Desert [N] [H] - All except Outposts",
+				"type": "Mission Monster"
+			}
+		]
+	},
+	{
+		"name": "Advanced Neural Circuit",
+		"drop_location": [
+			{
+				"location": "White-night Gulch [N] [H] - Triumphal Arch",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "White-night Gulch [N] [H] - Border Line of Truth",
+				"type": "Mission Monster",
+				"recommended": true
+			},
+			{
+				"location": "White-night Gulch [N] [H] - Cave Rally Point",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "White-night Gulch [N] [H] - Forgotten Comms Device",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "White-night Gulch [N] [H] - Deployment Area of the Order's Forces",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "White-night Gulch [N] [H] - Order's Veil",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "White-night Gulch [N] [H] - Order's Occupied Facility",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "White-night Gulch [N] [H] - Order Supply Warehouse",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "White-night Gulch [N] [H] - Fortress Outskirts",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "White-night Gulch [N] [H] - Fortress Courtyard",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "White-night Gulch [N] [H] - Fortress Control Facility",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "White-night Gulch [N] [H] - Upper Hatchery",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "White-night Gulch [N] [H] - Lower Hatchery",
+				"type": "Mission Monster"
+			}
+		]
+	},
+	{
+		"name": "Low Carbon Activator",
+		"drop_location": [
+			{
+				"location": "Kingston [N] [H] - Fallen Theater Outpost",
+				"type": "Mission Monster"
+			}
+		]
+	},
+	{
+		"name": "Conductive Metallic Foil",
+		"drop_location": [
+			{
+				"location": "Vespers [N] [H] - Encrypted Storage Box",
+				"type": "Enzo for more loot",
+				"recommended": true
+			},
+			{
+				"location": "Verspers [N] [H] - All except Outposts",
+				"type": "Mission Monster"
+			}
+		]
+	},
+	{
+		"name": "Heat Plasma Battery",
+		"drop_location": [
+			{
+				"location": "Hagios [N] [H] - The Haven",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "Hagios [N] [H] - Old Mystery",
+				"type": "Mission Monster"
+			}
+		]
+	},
+	{
+		"name": "Polyatomic Ion Particle",
+		"drop_location": [
+			{
+				"location": "Fortress [N] [H] - Munitions Loading Dock",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "Fortress [N] [H] - Command Relay",
+				"type": "Mission Monster",
+				"recommended": true
+			},
+			{
+				"location": "Fortress [N] [H] - Ship Charging Facility",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "Fortress [N] [H] - Frozen Shipyard",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "Fortress [N] [H] - Giant Hangar",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "Fortress [N] [H] - High-thermal Source Detected Zone",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "Fortress [N] [H] - Destroyed Base",
+				"type": "Mission Monster"
+			},
+			{
+				"location": "Fortress [N] [H] - Fortress Command Entrance",
+				"type": "Mission Monster"
+			}
+		]
+	}
+]

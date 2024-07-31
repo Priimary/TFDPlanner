@@ -78,6 +78,7 @@ export interface Amorphous{
 	drop_location: string;
 	open_location: string;
 	drop_location_type: string;
+	vaulted?: boolean;
 	rewards: Reward[];
 }
 export interface Reward{
@@ -119,7 +120,22 @@ export interface Consumable{
 	name: string;
 	type: string;
 	tier: string;
+	description: string;
 	image_url?: string;
+}
+export interface ExtendedConsumable extends Consumable{
+	drop_location?: any[];
+	craft?: any[];
+}
+export interface ConsumableDrop{
+	location: string;
+	type: string;
+	recommended?: boolean;
+}
+export interface ConsumableDetail{
+	name: string;
+	craft?: any[];
+	drop_location?: ConsumableDrop[];
 }
 
 /* Maps */

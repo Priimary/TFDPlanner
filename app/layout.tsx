@@ -4,7 +4,6 @@ import './styles/globals.css';
 import theme from './theme';
 import { ThemeProvider } from '@mui/material';
 
-
 interface RootLayoutProps {
 	children: React.ReactNode;
 }

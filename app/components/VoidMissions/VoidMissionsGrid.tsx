@@ -69,6 +69,7 @@ const VoidMissionsGrid: React.FC<VoidMissionsGridProps> = ({ data }) => {
 		flex: 1,
 		suppressHeaderFilterButton: true,
 		suppressFloatingFilterButton: true,
+		suppressMovable: true,
 	}), []);
 
 	return (

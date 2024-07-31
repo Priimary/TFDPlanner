@@ -1,23 +1,21 @@
 import React from 'react';
-import { Card, CardContent, CardActions, Typography, Grid, Button } from '@mui/material';
-import { Reward, VoidMaterial } from '../../interfaces/interfaces';
+import { Card, CardContent, CardActions, Typography, Grid, Box } from '@mui/material';
+import { VoidMission, Amorphous } from '../../interfaces/interfaces';
+import voidMissionsData from '../../../data/void_missions.json';
+import { getMaterialsForAmorphous } from '../../utils/globalVariables';
 import AmorphousRewardCard from './AmorphousRewardCard';
 import Image from 'next/image';
 
 interface AmorphousCardProps {
-    amorphous: {
-        id: string | number;
-        drop_location_type: string;
-        drop_location: string;
-        open_location: string;
-        rewards: Reward[];
-    };
-    selectedPart: string;
-    onDialogOpen?: (drop_location?: string, open_location?: string) => void;
-	materials?: VoidMaterial[];
+    amorphous: Amorphous;
+    selectedPart?: string;
 }
 
-const AmorphousCard: React.FC<AmorphousCardProps> = ({ amorphous, selectedPart, onDialogOpen, materials = [] }) => {
+const AmorphousCard: React.FC<AmorphousCardProps> = ({ amorphous, selectedPart}) => {
+	const missionsData = voidMissionsData as VoidMission[];
+	const materials = getMaterialsForAmorphous(amorphous, missionsData);
+	const materialsString = materials.map(material => `${material.name}: ${material.value}`).join(', ');
+
     return (
         <Card sx={{backgroundColor: '#2b2f38'}}>
             <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', width:'100%', backgroundColor: '#15171c', padding: '10px 0'}}>
@@ -25,7 +23,7 @@ const AmorphousCard: React.FC<AmorphousCardProps> = ({ amorphous, selectedPart, 
                     <Typography color='tertiary.dark' sx={{fontSize:'20px', fontWeight: 'bold', position: 'relative', textTransform: 'uppercase'}}>
                         Amorphous {amorphous.id}
                         <Image
-                            src={`/images/amorphous_material/amorphous_material_pattern__${typeof amorphous.id === 'string' ? amorphous.id.toLowerCase() : amorphous.id}.png`} 
+                            src={`/images/consumables/amorphous_material_pattern__${typeof amorphous.id === 'string' ? amorphous.id.toLowerCase() : amorphous.id}.png`} 
                             alt={`amorphous ${amorphous.id}`}
 							width={45}
 							height={45}
@@ -48,43 +46,39 @@ const AmorphousCard: React.FC<AmorphousCardProps> = ({ amorphous, selectedPart, 
                         <AmorphousRewardCard
                             key={index}
                             reward={reward}
-                            isSelected={reward.name.toLowerCase() === selectedPart.toLowerCase()}
+                            isSelected={reward.name.toLowerCase() === selectedPart?.toLowerCase()}
                         />
                     ))}
                 </Grid>
             </CardContent>
-			{onDialogOpen && (
-				<CardActions sx={{display: 'flex', padding: 0, backgroundColor: '#15171c'}}>
-					<Button
-						sx={{flex: 1, gap: '5px', borderRadius: '0 0 0 5px'}}
-						onClick={() => onDialogOpen(amorphous.drop_location)}
-					>
-						<Typography color='primary.dark' style={{fontWeight: 'bold'}}>Drop in</Typography>
-						<Typography color='tertiary.main'>{amorphous.drop_location}</Typography>
-					</Button>
-					<Button
-						sx={{flex: 1, gap: '5px', borderRadius: '0 0 5px 0'}}
-						onClick={() => onDialogOpen(undefined, amorphous.open_location)}
-					>
-						<div style={{display: 'flex', flexDirection: 'column',alignItems: 'center'}}>
-							<div style={{ display: 'flex', gap: '10px'}}>
-								<Typography color='primary.dark' style={{fontWeight: 'bold'}}>Open in</Typography>
-								<Typography color='tertiary.main'>{amorphous.open_location}</Typography>
-							</div>
-							{materials.length > 0 && (
-								<div style={{ display: 'flex', gap:'10px'}}>
-									<Typography color='primary.dark' style={{fontWeight: 'bold'}}>COST</Typography>
-									<div style={{display: 'flex', justifyContent: 'center', gap: '10px'}}>
-										{materials.map((material, index) => (
-											<Typography color='tertiary.main' key={index}>{material.value} {material.name} </Typography>
-										))}
-									</div>
-								</div>
-							)}
+			
+			<CardActions sx={{display: 'flex', flexDirection: 'column', padding: 0, backgroundColor: '#15171c'}}>
+				<Box
+					sx={{display: 'flex', gap: '5px', borderRadius: '0 0 0 5px'}}
+				>
+					<Typography color='primary.dark' style={{fontWeight: 'bold'}}>Drop on</Typography>
+					<Typography color='tertiary.main'>{amorphous.drop_location}</Typography>
+				</Box>
+				<Box
+					sx={{display: 'flex', gap: '5px', borderRadius: '0 0 5px 0'}}
+				>
+					<div style={{display: 'flex', flexDirection: 'column',alignItems: 'center'}}>
+						<div style={{ display: 'flex', gap: '10px'}}>
+							<Typography color='primary.dark' style={{fontWeight: 'bold'}}>Open on</Typography>
+							<Typography color='tertiary.main'>{amorphous.open_location}</Typography>
 						</div>
-					</Button>
-            	</CardActions>
-			)}
+						{materialsString && (
+							<div style={{ display: 'flex', gap:'10px'}}>
+								<Typography color='primary.dark' style={{fontWeight: 'bold'}}>Material Cost</Typography>
+								<div style={{display: 'flex', justifyContent: 'center', gap: '10px'}}>
+									<Typography color='tertiary.main' sx={{textTransform: 'capitalize'}}>{materialsString}</Typography>
+								</div>
+							</div>
+						)}
+					</div>
+				</Box>
+			</CardActions>
+			
         </Card>
     );
 };

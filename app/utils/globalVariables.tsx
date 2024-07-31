@@ -93,3 +93,11 @@ export const getMaterialsPerAmorphous = (amorphousData: Amorphous[], voidMission
         return matchingMissions.map(mission => mission.materials).flat();
     });
 };
+
+export const getMaterialsForAmorphous = (amorphous: Amorphous, voidMissions: VoidMission[]): VoidMaterial[] => {
+	const {location, difficulty} = parseLocation(amorphous.open_location);
+	const matchingMissions = voidMissions
+		.filter(mission => mission.location === location && mission.difficulty === difficulty && mission.type === "Reactor");
+	const materials = matchingMissions.map(mission => mission.materials).flat();
+	return materials;
+}

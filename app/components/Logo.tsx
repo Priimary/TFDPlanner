@@ -9,7 +9,7 @@ const Logo: React.FC = () => {
     return (
         <Link href="/" style={{textDecoration: 'none', height: '100%', display: 'flex', width: '100%'}}>
 			<div className={styles.container}>
-				<Image src={logo} alt="Logo" width={30} height={30} />
+				<Image src={logo} alt="Logo" width={30} height={30} priority/>
 				<Typography variant="h6" className={styles.text}>FD PLANNER</Typography>
 			</div>
         </Link>

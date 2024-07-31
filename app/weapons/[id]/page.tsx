@@ -6,15 +6,15 @@ import styles from '../../styles/weapon[id].module.css';
 import weaponsData from '../../../data/weapons.json';
 import amorphousData from '../../../data/amorphous.json';
 import { Weapon, Amorphous } from '../../interfaces/interfaces';
-import PartObtentionCard from '../../components/PartObtentionCard';
 import WeaponStatsCard from '../../components/Weapons/WeaponStatsCard';
 import WeaponAbilityCard from '../../components/Weapons/WeaponAbilityCard';
 import WeaponLargeCard from '../../components/Weapons/WeaponLargeCard';
+import WeaponCraftDisplay from '../../components/Weapons/WeaponCraftDisplay';
 
 const WeaponPage: React.FC = () => {
     const [weapon, setWeapon] = useState<Weapon | null>(null);
     const [selectedLevel, setSelectedLevel] = useState<number>(1);
-    const [showWeaponPartCard, setShowWeaponPartCard] = useState<boolean>(false);
+    const [hasCraft, setHasCraft] = useState<boolean>(false);
     const { id } = useParams<{ id: string }>();
 
     useEffect(() => {
@@ -31,7 +31,7 @@ const WeaponPage: React.FC = () => {
             const hasBlueprint = amorphousData.some((amorphous: Amorphous) =>
                 amorphous.rewards.some(reward => reward.name.toLowerCase() === weaponBlueprint)
             );
-            setShowWeaponPartCard(hasBlueprint);
+            setHasCraft(hasBlueprint);
         }
     }, [weapon]);
 
@@ -63,11 +63,6 @@ const WeaponPage: React.FC = () => {
 
     return (
         <Box className={styles.main}>
-            {showWeaponPartCard && (
-                <Box className={styles.parts_container}>
-                    <PartObtentionCard name={weapon.weapon_name} type={"weapon"}/>
-                </Box>
-            )}
             <Box className={styles.weapon_stats_container}>
 				<Box className={styles.weapon_info_container}>
 					<Box className={styles.weapon_container}>
@@ -84,6 +79,11 @@ const WeaponPage: React.FC = () => {
 							</Box>
 						)}
                 	</Box>
+					{hasCraft && (
+						<Box>
+							<WeaponCraftDisplay name={weapon.weapon_name} type={"weapon"}/>
+						</Box>
+					)}
 				</Box>
                 <Box className={styles.stats_container}>
 					<Box>

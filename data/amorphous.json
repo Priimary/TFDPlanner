@@ -308,6 +308,7 @@
     "drop_location": "Sterile Land - Block Kuiper Mining",
     "open_location": "Stunning Beauty",
 	"drop_location_type": "Special Ops",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Perforator Polymer Syncytium Blueprint",
@@ -420,6 +421,7 @@
     "drop_location": "Vespers [N] - Moonlight Lake Outpost",
     "open_location": "Vespers [N] - Moonlight Lake Void Reactor",
 	"drop_location_type": "Outpost",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Esiemo Spiral Catalyst Blueprint",
@@ -476,6 +478,7 @@
     "drop_location": "Vespers [N] - The Shelter",
     "open_location": "Executioner [N]",
 	"drop_location_type": "Dungeon",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Ultimate Bunny Spiral Catalyst Blueprint",
@@ -560,6 +563,7 @@
     "drop_location": "Echo Swamp [N] - Muskeg Swamp Outpost",
     "open_location": "Echo Swamp [N] - Muskeg Swamp Void Reactor",
 	"drop_location_type": "Outpost",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Energy Activator Blueprint",
@@ -644,6 +648,7 @@
     "drop_location": "Echo Swamp [N] - The Chapel",
     "open_location": "Dead Bride",
 	"drop_location_type": "Dungeon",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Blue Beetle Blueprint",
@@ -756,6 +761,7 @@
     "drop_location": "Agna Desert [N] - The Storage Outpost",
     "open_location": "Agna Desert [N] - The Storage Void Reactor",
 	"drop_location_type": "Outpost",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Perforator Synthetic Fiber Blueprint",
@@ -840,6 +846,7 @@
     "drop_location": "Agna Desert [N] - Caligo Ossuary",
     "open_location": "Devourer [N]",
 	"drop_location_type": "Dungeon",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Energy Activator Blueprint",
@@ -1064,6 +1071,7 @@
     "drop_location": "White-night Gulch - Block Kuiper Mining",
     "open_location": "Pyromaniac [N]",
 	"drop_location_type": "Special Ops",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Ultimate Viessa Code",
@@ -1145,8 +1153,8 @@
   },
   {
     "id": 41,
-    "drop_location": "Hagios [N] - Corrupted Zone Outpost",
-    "open_location": "Hagios [N] - Corrupted Zone Void Reactor",
+    "drop_location": "Hagios [N] - The Corrupted Zone Outpost",
+    "open_location": "Hagios [N] - The Corrupted Zone Void Reactor",
 	"drop_location_type": "Outpost",
     "rewards": [
       {
@@ -1232,6 +1240,7 @@
     "drop_location": "Hagios [N] - Old Mystery",
     "open_location": "Swamp Walker [N]",	
 	"drop_location_type": "Dungeon",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Energy Activator Blueprint",
@@ -1372,6 +1381,7 @@
     "drop_location": "Fortress [N] - Defense Line Outpost",
     "open_location": "Fortress [N] - Defense Line Void Reactor",
 	"drop_location_type": "Outpost",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Perforator Polymer Syncytium Blueprint",
@@ -1456,6 +1466,7 @@
     "drop_location": "Fortress - Defend Albion Resources",
     "open_location": "Hanged Man",
 	"drop_location_type": "Special Ops",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Ultimate Bunny Code",
@@ -1540,6 +1551,7 @@
     "drop_location": "Kingston [H] - Fallen Theatre Outpost",
     "open_location": "Kingston [H] - Grand Square Void Reactor",
 	"drop_location_type": "Outpost Infiltration",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Energy Activator Blueprint",
@@ -1904,6 +1916,7 @@
     "drop_location": "Sterile Land [H] - Unknown Laboratory",
     "open_location": "Dead Bride [H]",
 	"drop_location_type": "Dungeon",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Ultimate Gley Code",
@@ -1988,6 +2001,7 @@
     "drop_location": "Vespers [H] - The Lumber Yard Outpost",
     "open_location": "Vespers [H] - The Ruins Void Reactor",
 	"drop_location_type": "Outpost Infiltration",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Energy Activator Blueprint",
@@ -2044,6 +2058,7 @@
     "drop_location": "Vespers [H] - Lost Supply Depot Outpost",
     "open_location": "Vespers [H] - Lost Supply Depot Void Reactor",
 	"drop_location_type": "Outpost Infiltration",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Energy Activator Blueprint",
@@ -2268,6 +2283,7 @@
     "drop_location": "Echo Swamp [H] - Muskeg Swamp Outpost",
     "open_location": "Echo Swamp [H] - Muskeg Swamp Void Reactor",
 	"drop_location_type": "Outpost Infiltration",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Energy Activator Blueprint",
@@ -2436,6 +2452,7 @@
     "drop_location": "Echo Swamp [H] - The Chapel",
     "open_location": "Pyromaniac [H]",
 	"drop_location_type": "Dungeon",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Energy Activator Blueprint",
@@ -2520,6 +2537,7 @@
     "drop_location": "Agna Desert [H] - The Storage Outpost",
     "open_location": "Agna Desert [H] - The Storage Void Reactor",
 	"drop_location_type": "Outpost",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Esiemo Code",
@@ -2632,6 +2650,7 @@
     "drop_location": "Agna Desert [H] - The Asylum",
     "open_location": "Swamp Walker [H]",
 	"drop_location_type": "Dungeon",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Ultimate Ajax Spiral Catalyst Blueprint",
@@ -2744,6 +2763,7 @@
     "drop_location": "White-night Gulch [H] - The Mountaintops Outpost",
     "open_location": "White-night Gulch [H] - The Mountaintops Void Reactor",
 	"drop_location_type": "Outpost",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Ultimate Ajax Spiral Catalyst Blueprint",
@@ -3077,9 +3097,10 @@
   },
   {
     "id": 110,
-    "drop_location": "Hagios [H] - Corrupted Zone Outpost",
-    "open_location": "Hagios [H] - Corrupted Zone Void Reactor",
+    "drop_location": "Hagios [H] - The Corrupted Zone Outpost",
+    "open_location": "Hagios [H] - The Corrupted Zone Void Reactor",
 	"drop_location_type": "Outpost",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Esiemo Code",
@@ -3105,8 +3126,8 @@
   },
   {
     "id": 111,
-    "drop_location": "Hagios [H] - Corrupted Zone Outpost",
-    "open_location": "Hagios [H] - Corrupted Zone Void Reactor",
+    "drop_location": "Hagios [H] - The Corrupted Zone Outpost",
+    "open_location": "Hagios [H] - The Corrupted Zone Void Reactor",
 	"drop_location_type": "Outpost Infiltration",
     "rewards": [
       {
@@ -3164,6 +3185,7 @@
     "drop_location": "Hagios [H] - Forward Base Outpost",
     "open_location": "Hagios [H] - Fractured Monolith Void Reactor",
 	"drop_location_type": "Outpost Infiltration",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Energy Activator Blueprint",
@@ -3220,6 +3242,7 @@
     "drop_location": "White-night Gulch [H] - Mystery's End",
     "open_location": "Frost Walker [H]",
 	"drop_location_type": "Dungeon",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Energy Activator Blueprint",
@@ -3342,7 +3365,7 @@
         "drop_rate": 0.1
       },
       {
-        "name": "Jabyer Enhanced Cells Blueprint",
+        "name": "Jayber Enhanced Cells Blueprint",
         "drop_rate": 0.2
       },
       {
@@ -3500,6 +3523,7 @@
     "drop_location": "Fortress [H] - Quarantine Zone",
     "open_location": "Molten Fortress [H]",
 	"drop_location_type": "Dungeon",
+	"vaulted": true,
     "rewards": [
       {
         "name": "Energy Activator Blueprint",
@@ -3530,7 +3554,7 @@
 	"drop_location_type": "Dungeon",
     "rewards": [
       {
-        "name": "Ultimat Gley Code",
+        "name": "Ultimate Gley Code",
         "drop_rate": 0.06
       },
       {

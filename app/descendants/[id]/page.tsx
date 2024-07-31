@@ -3,18 +3,18 @@ import React, { useState, useEffect } from 'react';
 import styles from '../../styles/descendant[id].module.css';
 import descendantsData from '../../../data/descendants.json';
 import amorphousData from '../../../data/amorphous.json';
+import { descendantParts } from '../../utils/globalVariables';
 import { useParams } from 'next/navigation';
 import { Typography, Box } from '@mui/material';
 import { Descendant, Amorphous } from '../../interfaces/interfaces';
-import PartObtentionCard from '../../components/PartObtentionCard';
-import DescendantStatsCard from '../../components/Descendants/DescendantStatsCard';
-import DescendantSkillCard from '../../components/Descendants/DescendantSkillCard';
+import DescendantFullCard from '../../components/Descendants/DescendantFullCard';
+import CraftDisplay from '../../components/CraftDisplay';
 
 const DescendantPage: React.FC = () => {
 	const [descendant, setDescendant] = useState<Descendant | null>(null);
     const [selectedLevel, setSelectedLevel] = useState<number>(1);
     const [currentStats, setCurrentStats] = useState<any>([]);
-	const [showDescendantPartCard, setShowDescendantPartCard] = useState<boolean>(false);
+	const [hasPart, setHasPart] = useState<boolean>(false);
 	const {id} = useParams<{id: string}>();
 
     useEffect(() => {
@@ -33,7 +33,7 @@ const DescendantPage: React.FC = () => {
             const hasCode = amorphousData.some((amorphous: Amorphous) =>
                 amorphous.rewards.some(reward => reward.name.toLowerCase() === descendantCode)
             );
-            setShowDescendantPartCard(hasCode);
+            setHasPart(hasCode);
         }
     }, [descendant]);
 
@@ -52,30 +52,25 @@ const DescendantPage: React.FC = () => {
         setSelectedLevel(newValue as number);
     };
 
+	const partOptions = descendantParts.map(part => ({
+		name: `${descendant.descendant_name} ${part}`,
+		value: 1
+	}));
+
     return (
 		<Box className={styles.main}>
-			{showDescendantPartCard && (
-				<Box className={styles.parts_container}>
-					<PartObtentionCard name={descendant.descendant_name} type={"descendant"}/>
-				</Box>
-			)}
-			<Box className={styles.character_container}>
-				<Box className={styles.skills_container}>
-					<DescendantSkillCard skills={descendant.descendant_skill}/>
-				</Box>
-				<Box className={styles.stats_container}>
-					<DescendantStatsCard
-						imageUrl={descendant.descendant_image_url}
-						name={descendant.descendant_name}
-						stats={currentStats}
-						onLevelChange={handleLevelChange}
-						selectedLevel={selectedLevel}
-					/>
-				</Box>
+			<Box className={styles.descendant_card}>
+				<DescendantFullCard header={descendant.descendant_name} image_url={descendant.descendant_image_url} skills={descendant.descendant_skill} stats={currentStats} selectedLevel={selectedLevel} onLevelChange={handleLevelChange}>
+					{hasPart && (
+						<Box sx={{display: 'flex', flexDirection: 'column', gap: '20px'}}>
+							<Typography variant="h2" sx={{fontSize: '20px', fontWeight: 'bold', color: 'primary.dark', width: '10%', borderBottom: '1px solid #42a5f5'}}>CRAFT</Typography>
+							<CraftDisplay craft={partOptions}/>
+						</Box>
+					)}
+				</DescendantFullCard>
 			</Box>
 			
 		</Box>
-        
     );
 };
 
