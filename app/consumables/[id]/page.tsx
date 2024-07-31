@@ -122,8 +122,8 @@ const ConsumablePage: React.FC = () => {
 								<Box sx={{display: 'flex', flexDirection: 'column', gap: '20px'}}>
 									<Typography variant="h2" sx={{fontSize: '20px', fontWeight: 'bold', color: 'primary.dark', width: '15%', borderBottom: '1px solid #42a5f5'}}>REWARDS</Typography>
 									<Grid container spacing={2} sx={{ justifyContent: 'center' }}>
-										{amorphous.rewards.map((reward) => (
-											<AmorphousRewardCard reward={reward}/>
+										{amorphous.rewards.map((reward, index) => (
+											<AmorphousRewardCard reward={reward} key={index}/>
 										))}
 									</Grid>
 								</Box>

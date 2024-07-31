@@ -1,6 +1,6 @@
 import { ConsumableDrop } from "../interfaces/interfaces";
 import {Box, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, Badge} from '@mui/material';
-import StarIcon from '@mui/icons-material/star';
+import StarIcon from '@mui/icons-material/Star';
 
 
 interface ObtentionDisplayProps{
