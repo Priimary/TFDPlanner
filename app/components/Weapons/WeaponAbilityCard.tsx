@@ -1,6 +1,8 @@
-import React from 'react';
-import {Typography, Card, CardContent } from '@mui/material';
-import styles from '../../styles/WeaponAbilityCard.module.css';  // Ensure this file exists and styles are updated
+import React, {useState} from 'react';
+import {Typography, Card, CardContent, Box, Slider, List, ListItem, ListItemText } from '@mui/material';
+import { WeaponAbility } from '../../interfaces/interfaces';
+import weaponUniqueAbilityData from '../../../data/weapons_unique_ability.json';
+import styles from '../../styles/WeaponAbilityCard.module.css';
 import Image from 'next/image';
 
 interface WeaponAbilityCardProps {
@@ -8,13 +10,36 @@ interface WeaponAbilityCardProps {
         weapon_perk_ability_name: string | null;
         weapon_perk_ability_image_url: string | null;
         weapon_perk_ability_description: string | null;
-    };
+    },
+	weapon_id: string;
 }
 
-const WeaponAbilityCard: React.FC<WeaponAbilityCardProps> = ({ ability }) => {
+const WeaponAbilityCard: React.FC<WeaponAbilityCardProps> = ({ ability, weapon_id }) => {
+	const [selectedLevel, setSelectedLevel] = useState<number>(1);
+	const abilityDetails = (weaponUniqueAbilityData as WeaponAbility[]).find((item) => item.weapon_id === weapon_id);
+
     if (!ability.weapon_perk_ability_name) {
         return null;
     }
+	const handleLevelChange = (event: Event, newValue: number | number[]) => {
+        setSelectedLevel(newValue as number);
+    };
+
+	const renderAbilityDetails = (details: { [key: string]: string }) => {
+        return (
+            <List>
+                {Object.entries(details).map(([key, value], index) => (
+                    <ListItem key={index} sx={{padding: '0 20px'}}>
+                        <ListItemText
+                            primary={<Typography sx={{textTransform: 'capitalize', color: 'primary.dark', fontWeight: 'bold'}}>{key.replace(/_/g, ' ')} :</Typography>}
+                            secondary={<Typography sx={{color: 'tertiary.dark'}}>{value}</Typography>}
+							sx={{display: 'flex', gap: '5px'}}
+                        />
+                    </ListItem>
+                ))}
+            </List>
+        );
+    };
 
     return (
 		<Card className={styles.card}>
@@ -49,9 +74,39 @@ const WeaponAbilityCard: React.FC<WeaponAbilityCardProps> = ({ ability }) => {
 				</div>
 			</div>
 			<CardContent className={styles.card_content}>
-				<Typography paragraph className={styles.ability_description} sx={{color: 'tertiary.dark'}}>
-					{ability.weapon_perk_ability_description}
-				</Typography>
+				<Box>
+					<Typography paragraph className={styles.ability_description} sx={{color: 'tertiary.dark'}}>
+						{ability.weapon_perk_ability_description}
+					</Typography>
+				</Box>
+				{abilityDetails && (
+					<Box sx={{display: 'flex', flexDirection: 'column', gap: '10px'}}>
+						<Box sx={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
+							<Slider
+								value={selectedLevel}
+								min={1}
+								max={5}
+								step={1}
+								onChange={handleLevelChange}
+								valueLabelDisplay="auto"
+								aria-labelledby="level-slider"
+								sx={{color: 'tertiary.dark',width: '70%'}}
+							/>
+							{/* DELETE LATER */}
+							<Typography sx={{textAlign: 'center', color: 'red', fontWeight: '600'}}>Values still need to be checked, send a DM to priimary. on Discord with a screenshot if you have an upgraded weapon.</Typography>
+						</Box>
+						<Box sx={{overflowY: 'auto', maxHeight: '300px'}}>
+							{abilityDetails.ability_effects?.map((effect, index) => (
+								<Box key={index}>
+									<Typography variant="h4" className={styles.dynamic_border_container} sx={{ color: 'primary.dark'}}>
+										{effect.name}
+									</Typography>
+									{renderAbilityDetails(effect.levels[selectedLevel] || {})}
+								</Box>
+							))}
+						</Box>
+					</Box>
+				)}
 			</CardContent>
 		</Card>
     );

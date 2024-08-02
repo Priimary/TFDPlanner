@@ -8,7 +8,7 @@ interface DescendantsFiltersProps {
     onFilterChange: (filters: any) => void;
 }
 
-const elements = ['fire', 'none', 'toxic', 'chill', 'electric'];
+const elements = ['fire', 'non-attribute', 'toxic', 'chill', 'electric'];
 const rarities = ['all', 'standard', 'ultimate'];
 
 const DescendantsFilters: React.FC<DescendantsFiltersProps> = ({ onFilterChange }) => {

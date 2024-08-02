@@ -63,6 +63,21 @@ export interface Weapon{
 	weapon_perk_ability_description?: string | null;
 	weapon_perk_ability_image_url?: string |null;
 }
+
+export interface WeaponAbilityEffect {
+    name: string;
+    levels: any;
+}
+
+export interface WeaponAbility {
+    weapon_id: string;
+    weapon_name: string;
+    weapon_perk_ability_name: string;
+    weapon_perk_ability_description: string;
+    weapon_perk_ability_image_url: string;
+    ability_effects: WeaponAbilityEffect[];
+}
+
 export interface WeaponPart{
 	name: string;
 	amorphous?: number | string;

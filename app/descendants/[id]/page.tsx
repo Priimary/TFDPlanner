@@ -60,7 +60,7 @@ const DescendantPage: React.FC = () => {
     return (
 		<Box className={styles.main}>
 			<Box className={styles.descendant_card}>
-				<DescendantFullCard header={descendant.descendant_name} image_url={descendant.descendant_image_url} skills={descendant.descendant_skill} stats={currentStats} selectedLevel={selectedLevel} onLevelChange={handleLevelChange}>
+				<DescendantFullCard header={descendant.descendant_name} image_url={descendant.descendant_image_url} skills={descendant.descendant_skill} stats={currentStats} selectedLevel={selectedLevel} onLevelChange={handleLevelChange} description={descendant.descendant_description}>
 					{hasPart && (
 						<Box sx={{display: 'flex', flexDirection: 'column', gap: '20px'}}>
 							<Typography variant="h2" sx={{fontSize: '20px', fontWeight: 'bold', color: 'primary.dark', width: '10%', borderBottom: '1px solid #42a5f5'}}>CRAFT</Typography>

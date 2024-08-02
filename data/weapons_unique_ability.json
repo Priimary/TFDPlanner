@@ -1,0 +1,2244 @@
+[
+	{
+		"weapon_id": "211023001",
+        "weapon_name": "Nazeistra's Devotion",
+		"weapon_perk_ability_name": "Fanaticism",
+        "weapon_perk_ability_description": "On hitting an enemy's Weak Point, inflicts the unique ability Devotion Mark on the target enemy.\nOn hitting an ally, that ally's shield is restored at the cost of your MP. If your current MP is less than the MP cost, this effect is not triggered.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/fc696e75845165a7067618561991a080",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"aim_recovery_speed": "10%"
+					},
+					"2": {
+						"aim_recovery_speed": "7.5%"
+					},
+					"3": {
+						"aim_recovery_speed": "5%"
+					},
+					"4": {
+						"aim_recovery_speed": "2.5%"
+					},
+					"5": {
+						"aim_recovery_speed": "0%"
+					}
+				}
+			},
+            {
+                "name": "Devotion Mark",
+                "levels": {
+                    "1": {
+                        "duration": "3s",
+                        "defense_reduction": "-10%"
+                    },
+                    "2": {
+                        "duration": "3s",
+                        "defense_reduction": "-15%"
+                    },
+                    "3": {
+                        "duration": "3s",
+                        "defense_reduction": "-20%"
+                    },
+                    "4": {
+                        "duration": "3s",
+                        "defense_reduction": "-25%"
+                    },
+                    "5": {
+                        "duration": "3s",
+                        "defense_reduction": "-30%"
+                    }
+                }
+            },
+            {
+                "name": "On hitting an ally",
+                "levels": {
+                    "1": {
+                        "mp_cost": "-85 MP",
+                        "shield_recovery": "10%"
+                    },
+                    "2": {
+                        "mp_cost": "-80 MP",
+                        "shield_recovery": "15%"
+                    },
+                    "3": {
+                        "mp_cost": "-75 MP",
+                        "shield_recovery": "20%"
+                    },
+                    "4": {
+                        "mp_cost": "-70 MP",
+                        "shield_recovery": "25%"
+                    },
+                    "5": {
+                        "mp_cost": "-65 MP",
+                        "shield_recovery": "30%"
+                    }
+                }
+            }
+        ]
+	},
+	{	
+		"weapon_id": "211013001",
+        "weapon_name": "The Last Dagger",
+		"weapon_perk_ability_name": "Ultimatum",
+        "weapon_perk_ability_description": "Defeating an enemy grants the Unique Ability Patience. \nOn hitting an enemy while at Max Stacks, fires Enhanced Rounds.\nOn hitting an enemy with Enhanced Rounds, Patience is reset, and inflicts Stun on the enemies.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/1cf19f1d2b23f3c46d7a22ad771d6ea2",
+		"ability_effects": [
+            {
+                "name": "Basic Information",
+                "levels": {
+                    "1": {
+                        "Recoil": "20%"
+                    },
+					"2": {
+                        "Recoil": "15%"
+                    },
+					"3": {
+                        "Recoil": "10%"
+                    },
+					"4": {
+                        "Recoil": "5%"
+                    },
+					"5": {
+                        "Recoil": "0%"
+                    }
+                }
+            },
+            {
+                "name": "Patience",
+                "levels": {
+                    "1": {
+                        "duration": "10s",
+                        "max_stacks": "5",
+						"firearm_critical_hit_rate": "4%",
+						"firearm_critical_hit_rate_per_stack": "4%",
+						"firearm_critical_hit_rate_at_max_stacks": "12%",
+						"firearm_atk_at_max_stacks": "30%"
+                    },
+					"2": {
+                        "duration": "10s",
+                        "max_stacks": "5",
+						"firearm_critical_hit_rate": "5%",
+						"firearm_critical_hit_rate_per_stack": "5%",
+						"firearm_critical_hit_rate_at_max_stacks": "16%",
+						"firearm_atk_at_max_stacks": "60%"
+                    },
+					"3": {
+                        "duration": "10s",
+                        "max_stacks": "5",
+						"firearm_critical_hit_rate": "6%",
+						"firearm_critical_hit_rate_per_stack": "6%",
+						"firearm_critical_hit_rate_at_max_stacks": "20%",
+						"firearm_atk_at_max_stacks": "90%"
+                    },
+					"4": {
+                        "duration": "10s",
+                        "max_stacks": "5",
+						"firearm_critical_hit_rate": "7%",
+						"firearm_critical_hit_rate_per_stack": "7%",
+						"firearm_critical_hit_rate_at_max_stacks": "24%",
+						"firearm_atk_at_max_stacks": "120%"
+                    },
+					"5": {
+                        "duration": "10s",
+                        "max_stacks": "5",
+						"firearm_critical_hit_rate": "8%",
+						"firearm_critical_hit_rate_per_stack": "8%",
+						"firearm_critical_hit_rate_at_max_stacks": "28%",
+						"firearm_atk_at_max_stacks": "150%"
+                    }
+                }
+            },
+			{
+				"name": "Stun",
+				"levels": {
+					"1": {
+						"duration": "3s"
+					},
+					"2": {
+						"duration": "3s"
+					},
+					"3": {
+						"duration": "3s"
+					},
+					"4": {
+						"duration": "3s"
+					},
+					"5": {
+						"duration": "3s"
+					}
+				}
+			}
+        ]
+	},
+	{
+		"weapon_id": "211013002",
+        "weapon_name": "The Final Masterpiece",
+		"weapon_perk_ability_name": "Masterpiece",
+        "weapon_perk_ability_description": "After reloading, grants one of three unique abilities at random.\nIf the granted effect is the same as the existing effect, the effect stage is increased. If a different effect is granted, the effect stage is reset to Stage 1.\nSuperb Performance\nBeautiful Appearance\nAwesome Feature",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/9cff283e47007294a85af165bc8c20ca",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"reload_time_modifier": "20%"
+					},
+					"2": {
+						"reload_time_modifier": "15%"
+					},
+					"3": {
+						"reload_time_modifier": "10%"
+					},
+					"4": {
+						"reload_time_modifier": "5%"
+					},
+					"5": {
+						"reload_time_modifier": "0%"
+					}
+				}
+			},
+			{
+				"name": "Super Performance",
+				"levels": {
+					"1": {
+						"duration": "5s",
+						"stage_1_weak_point_damage": "9%",
+						"stage_2_weak_point_damage": "13%",
+						"stage_3_weak_point_damage": "18%"
+					},
+					"2": {
+						"duration": "6s",
+						"stage_1_weak_point_damage": "9%",
+						"stage_2_weak_point_damage": "16.5%",
+						"stage_3_weak_point_damage": "34%"
+					},
+					"3": {
+						"duration": "7s",
+						"stage_1_weak_point_damage": "9%",
+						"stage_2_weak_point_damage": "20%",
+						"stage_3_weak_point_damage": "50%"
+					},
+					"4": {
+						"duration": "8s",
+						"stage_1_weak_point_damage": "9%",
+						"stage_2_weak_point_damage": "23.5%",
+						"stage_3_weak_point_damage": "66%"
+					},
+					"5": {
+						"duration": "9s",
+						"stage_1_weak_point_damage": "9%",
+						"stage_2_weak_point_damage": "27%",
+						"stage_3_weak_point_damage": "82%"
+					}
+				}
+			},
+			{
+				"name": "Beautiful Appearance",
+				"levels": {
+					"1": {
+						"duration": "5s",
+						"stage_1_firearm_critical_hit_rate": "17%",
+						"stage_2_firearm_critical_hit_rate": "24%",
+						"stage_3_firearm_critical_hit_rate": "34%"
+					},
+					"2": {
+						"duration": "6s",
+						"stage_1_firearm_critical_hit_rate": "17%",
+						"stage_2_firearm_critical_hit_rate": "27.5%",
+						"stage_3_firearm_critical_hit_rate": "46.25%"
+					},
+					"3": {
+						"duration": "7s",
+						"stage_1_firearm_critical_hit_rate": "17%",
+						"stage_2_firearm_critical_hit_rate": "31%",
+						"stage_3_firearm_critical_hit_rate": "58.5%"
+					},
+					"4": {
+						"duration": "8s",
+						"stage_1_firearm_critical_hit_rate": "17%",
+						"stage_2_firearm_critical_hit_rate": "34.5%",
+						"stage_3_firearm_critical_hit_rate": "70.75%"
+					},
+					"5": {
+						"duration": "9s",
+						"stage_1_firearm_critical_hit_rate": "17%",
+						"stage_2_firearm_critical_hit_rate": "38%",
+						"stage_3_firearm_critical_hit_rate": "83%"
+					}
+				}
+			},
+			{
+				"name": "Awesome Feature",
+				"levels": {
+					"1": {
+						"duration": "5s",
+						"stage_1_fire_rate": "3%",
+						"stage_2_fire_rate": "4%",
+						"stage_3_fire_rate": "6%"
+					},
+					"2": {
+						"duration": "6s",
+						"stage_1_fire_rate": "3%",
+						"stage_2_fire_rate": "5%",
+						"stage_3_fire_rate": "10.75%"
+					},
+					"3": {
+						"duration": "7s",
+						"stage_1_fire_rate": "3%",
+						"stage_2_fire_rate": "6%",
+						"stage_3_fire_rate": "15.5%"
+					},
+					"4": {
+						"duration": "8s",
+						"stage_1_fire_rate": "3%",
+						"stage_2_fire_rate": "7%",
+						"stage_3_fire_rate": "20.25%"
+					},
+					"5": {
+						"duration": "9s",
+						"stage_1_fire_rate": "3%",
+						"stage_2_fire_rate": "8%",
+						"stage_3_fire_rate": "25%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211023003",
+        "weapon_name": "Peace Maker",
+		"weapon_perk_ability_name": "Surging Peace",
+        "weapon_perk_ability_description": "When using a Dimension skill grants the unique ability Single Reload for Peace.\nWhen Single Reload for Peace is at Max Stacks, shooting while aiming rapidly fires all loaded rounds.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/0bc3e83f3065ecfa1f0a6618024f69b1",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"reload_time_modifier": "-20%",
+						"recoil": "30%"
+					},
+					"2": {
+						"reload_time_modifier": "-20%",
+						"recoil": "30%"
+					},
+					"3": {
+						"reload_time_modifier": "-20%",
+						"recoil": "30%"
+					},
+					"4": {
+						"reload_time_modifier": "-20%",
+						"recoil": "30%"
+					},
+					"5": {
+						"reload_time_modifier": "-20%",
+						"recoil": "30%"
+					}
+				}
+			},
+			{
+				"name": "Single Reload for Peace",
+				"levels": {
+					"1": {
+						"trigger_rate": "100%",
+						"duration": "15s",
+						"max_stacks": "5",
+						"skill_cost": "30%",
+						"non_attribute_skill_power": "6%",
+						"non_attribute_skill_power_per_stack": "2%"
+					},
+					"2": {
+						"trigger_rate": "100%",
+						"duration": "15s",
+						"max_stacks": "5",
+						"skill_cost": "30%",
+						"non_attribute_skill_power": "6%",
+						"non_attribute_skill_power_per_stack": "2%"
+					},
+					"3": {
+						"trigger_rate": "100%",
+						"duration": "15s",
+						"max_stacks": "5",
+						"skill_cost": "30%",
+						"non_attribute_skill_power": "6%",
+						"non_attribute_skill_power_per_stack": "2%"
+					},
+					"4": {
+						"trigger_rate": "100%",
+						"duration": "15s",
+						"max_stacks": "5",
+						"skill_cost": "30%",
+						"non_attribute_skill_power": "6%",
+						"non_attribute_skill_power_per_stack": "2%"
+					},
+					"5": {
+						"trigger_rate": "100%",
+						"duration": "15s",
+						"max_stacks": "5",
+						"skill_cost": "30%",
+						"non_attribute_skill_power": "6%",
+						"non_attribute_skill_power_per_stack": "2%"
+					}
+				}
+			},
+			{
+				"name": "When aiming while at max stacks",
+				"levels": {
+					"1": {
+						"fire_rate": "545"
+					},
+					"2": {
+						"fire_rate": "545"
+					},
+					"3": {
+						"fire_rate": "545"
+					},
+					"4": {
+						"fire_rate": "545"
+					},
+					"5": {
+						"fire_rate": "545"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211033001",
+        "weapon_name": "Smithereens",
+		"weapon_perk_ability_name": "Fearlessness",
+        "weapon_perk_ability_description": "On hitting the enemy with all fired bullets, increases the Firearm Critical Hit Rate and Firearm Critical Hit Damage of the attack.\nUpon landing a Critical Hit on an enemy, grants the Firearm's unique ability Amplification.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/6190dfe520105c96d4fe727cad68d544",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"fire_rate": "-40%",
+						"aim_recovery_speed": "-70%"
+					},
+					"2": {
+						"fire_rate": "-35%",
+						"aim_recovery_speed": "-62%"
+					},
+					"3": {
+						"fire_rate": "-22.5%",
+						"aim_recovery_speed": "-55%"
+					},
+					"4": {
+						"fire_rate": "-13.75%",
+						"aim_recovery_speed": "-47.5%"
+					},
+					"5": {
+						"fire_rate": "-5%",
+						"aim_recovery_speed": "-40%"
+					}
+				}
+			},
+			{
+				"name": "On landing all bullets",
+				"levels": {
+					"1": {
+						"firearm_critical_hit_rate": "100%",
+						"firearm_critical_hit_damage": "5%"
+					},
+					"2": {
+						"firearm_critical_hit_rate": "100%",
+						"firearm_critical_hit_damage": "5%"
+					},
+					"3": {
+						"firearm_critical_hit_rate": "100%",
+						"firearm_critical_hit_damage": "5%"
+					},
+					"4": {
+						"firearm_critical_hit_rate": "100%",
+						"firearm_critical_hit_damage": "5%"
+					},
+					"5": {
+						"firearm_critical_hit_rate": "100%",
+						"firearm_critical_hit_damage": "5%"
+					}
+				}
+			},
+			{
+				"name": "Amplification",
+				"levels": {
+					"1": {
+						"duration": "1.0s",
+						"shell_capacity": "2"
+					},
+					"2": {
+						"duration": "1.25s",
+						"shell_capacity": "2"
+					},
+					"3": {
+						"duration": "1.5s",
+						"shell_capacity": "2"
+					},
+					"4": {
+						"duration": "1.75s",
+						"shell_capacity": "2"
+					},
+					"5": {
+						"duration": "2.0s",
+						"shell_capacity": "2"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211033002",
+        "weapon_name": "Executor",
+		"weapon_perk_ability_name": "Impending Judgement",
+        "weapon_perk_ability_description": "On hitting the enemy with all fired bullets, grants the unique ability Executor's Exaltation.\nIf all of the fired bullets do not hit enemies while this effect is active, decreases the effect stage by -1.\nAt the highest stage, firing a shot removes this effect, regardless of whether it hits a target or not.\nAt the highest stage, increases Firearm ATK on hit and inflicts Electrocution on the target enemy.\nOn hitting an Electrocuted enemy, increases Firearm ATK and applies this buff to the attack.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/7a200ed97bc9b3559dfd5a4de11a0b69",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"hip_fire_accuracy": "-20%",
+						"aimed_shot_accuracy": "-20%"
+					},
+					"2": {
+						"hip_fire_accuracy": "-15%",
+						"aimed_shot_accuracy": "-15%"
+					},
+					"3": {
+						"hip_fire_accuracy": "-10%",
+						"aimed_shot_accuracy": "-10%"
+					},
+					"4": {
+						"hip_fire_accuracy": "-5%",
+						"aimed_shot_accuracy": "-5%"
+					},
+					"5": {
+						"hip_fire_accuracy": "-0%",
+						"aimed_shot_accuracy": "-0%"
+					}
+				}
+			},
+			{
+				"name": "Executor's Exaltation",
+				"levels": {
+					"1": {
+						"duration": "5s",
+						"max_stacks": "5",
+						"accuracy": "10%",
+						"firearm_critical_hit_rate": "6%",
+						"accuracy_per_stack": "5%",
+						"firearm_critical_hit_rate_per_stack": "8%",
+						"firearm_atk_at_max_stacks": "30%"
+					},
+					"2": {
+						"duration": "5s",
+						"max_stacks": "5",
+						"accuracy": "32.5%",
+						"firearm_critical_hit_rate": "7%",
+						"accuracy_per_stack": "5%",
+						"firearm_critical_hit_rate_per_stack": "9%",
+						"firearm_atk_at_max_stacks": "30%"
+					},
+					"3": {
+						"duration": "5s",
+						"max_stacks": "5",
+						"accuracy": "55%",
+						"firearm_critical_hit_rate": "8%",
+						"accuracy_per_stack": "5%",
+						"firearm_critical_hit_rate_per_stack": "10%",
+						"firearm_atk_at_max_stacks": "30%"
+					},
+					"4": {
+						"duration": "5s",
+						"max_stacks": "5",
+						"accuracy": "100%",
+						"firearm_critical_hit_rate": "9%",
+						"accuracy_per_stack": "5%",
+						"firearm_critical_hit_rate_per_stack": "11%",
+						"firearm_atk_at_max_stacks": "30%"
+					},
+					"5": {
+						"duration": "5s",
+						"max_stacks": "5",
+						"accuracy": "100%",
+						"firearm_critical_hit_rate": "10%",
+						"accuracy_per_stack": "5%",
+						"firearm_critical_hit_rate_per_stack": "12%",
+						"firearm_atk_at_max_stacks": "30%"
+					}
+				}
+			},
+			{
+				"name": "Electrocution",
+				"levels": {
+					"1": {
+						"duration": "2.0s",
+						"damage_interval": "0.5s",
+						"additional_damage": "Firearm Damage x 60%",
+						"def": "3%"
+					},
+					"2": {
+						"duration": "2.5s",
+						"damage_interval": "0.5s",
+						"additional_damage": "Firearm Damage x 70%",
+						"def": "3%"
+					},
+					"3": {
+						"duration": "3.0s",
+						"damage_interval": "0.5s",
+						"additional_damage": "Firearm Damage x 80%",
+						"def": "3%"
+					},
+					"4": {
+						"duration": "3.5s",
+						"damage_interval": "0.5s",
+						"additional_damage": "Firearm Damage x 90%",
+						"def": "3%"
+					},
+					"5": {
+						"duration": "4.0s",
+						"damage_interval": "0.5s",
+						"additional_damage": "Firearm Damage x 100%",
+						"def": "3%"
+					}
+				}
+			},
+			{
+				"name": "On hitting an Electrocuted enemy",
+				"levels": {
+					"1": {
+						"firearm_atk": "5%"
+					},
+					"2": {
+						"firearm_atk": "5%"
+					},
+					"3": {
+						"firearm_atk": "5%"
+					},
+					"4": {
+						"firearm_atk": "5%"
+					},
+					"5": {
+						"firearm_atk": "5%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211043002",
+        "weapon_name": "Python",
+		"weapon_perk_ability_name": "Python Instinct",
+        "weapon_perk_ability_description": "On hitting a Weak Point, inflicts the unique ability Prey on the target enemy.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/11b4b336e4d557b0498a21714f4376a8",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"recoil": "30%"
+					},
+					"2": {
+						"recoil": "22.5%"
+					},
+					"3": {
+						"recoil": "15%"
+					},
+					"4": {
+						"recoil": "7.5%"
+					},
+					"5": {
+						"recoil": "0%"
+					}
+				}
+			},
+			{
+				"name": "Prey",
+				"levels": {
+					"1": {
+						"duration": "1.0s",
+						"max_stacks": "20",
+						"non_attribute_resistance": "-2%",
+						"toxin_resistance": "-1%",
+						"non_attribute_resistance_per_stack": "-3.6%",
+						"toxin_resistance_per_stack": "-1.3%"
+					},
+					"2": {
+						"duration": "1.2s",
+						"max_stacks": "22",
+						"non_attribute_resistance": "-2%",
+						"toxin_resistance": "-1%",
+						"non_attribute_resistance_per_stack": "-3.6%",
+						"toxin_resistance_per_stack": "-1.3%"
+					},
+					"3": {
+						"duration": "1.4s",
+						"max_stacks": "24",
+						"non_attribute_resistance": "-2%",
+						"toxin_resistance": "-1%",
+						"non_attribute_resistance_per_stack": "-3.6%",
+						"toxin_resistance_per_stack": "-1.3%"
+					},
+					"4": {
+						"duration": "1.6s",
+						"max_stacks": "26",
+						"non_attribute_resistance": "-2%",
+						"toxin_resistance": "-1%",
+						"non_attribute_resistance_per_stack": "-3.6%",
+						"toxin_resistance_per_stack": "-1.3%"
+					},
+					"5": {
+						"duration": "2.0s",
+						"max_stacks": "28",
+						"non_attribute_resistance": "-2%",
+						"toxin_resistance": "-1%",
+						"non_attribute_resistance_per_stack": "-3.6%",
+						"toxin_resistance_per_stack": "-1.3%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211053001",
+        "weapon_name": "Enduring Legacy",
+		"weapon_perk_ability_name": "Craftsmanship",
+        "weapon_perk_ability_description": "On hitting an enemy, increase Status Effect Trigger Rate corresponding to the element (Fire/Chill/Electric/Toxic) and inflicts the unique ability Quenching to the target enemy. \nOn hitting a Burned enemy, increase Firearm ATK and apply this buff to the attack.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/dccfe9158c24b771f488ed4762036af7",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"effective_range_(drop_off_start)": "-12.5%",
+						"effective_range_(drop_off_end)": "-7.0%"
+					},
+					"2": {
+						"effective_range_(drop_off_start)": "-10.0%",
+						"effective_range_(drop_off_end)": "-5.6%"
+					},
+					"3": {
+						"effective_range_(drop_off_start)": "-7%",
+						"effective_range_(drop_off_end)": "-3.5%"
+					},
+					"4": {
+						"effective_range_(drop_off_start)": "-3.75%",
+						"effective_range_(drop_off_end)": "-1.75%"
+					},
+					"5": {
+						"effective_range_(drop_off_start)": "0%",
+						"effective_range_(drop_off_end)": "0%"
+					}
+				}
+			},
+			{
+				"name": "On hit",
+				"levels": {
+					"1": {
+						"attribute_status_effect_trigger_rate": "6%"
+					},
+					"2": {
+						"attribute_status_effect_trigger_rate": "6%"
+					},
+					"3": {
+						"attribute_status_effect_trigger_rate": "6%"
+					},
+					"4": {
+						"attribute_status_effect_trigger_rate": "6%"
+					},
+					"5": {
+						"attribute_status_effect_trigger_rate": "6%"
+					}
+				}
+			},
+			{
+				"name": "Quenching",
+				"levels": {
+					"1": {
+						"duration": "0.4s",
+						"max_stacks": "30",
+						"fire_resistance": "-5%",
+						"fire_resistance_per_stack": "-0.8%"
+					},
+					"2": {
+						"duration": "0.4s",
+						"max_stacks": "35",
+						"fire_resistance": "-5%",
+						"fire_resistance_per_stack": "-0.8%"
+					},
+					"3": {
+						"duration": "0.4s",
+						"max_stacks": "40",
+						"fire_resistance": "-5%",
+						"fire_resistance_per_stack": "-0.8%"
+					},
+					"4": {
+						"duration": "0.4s",
+						"max_stacks": "45",
+						"fire_resistance": "-5%",
+						"fire_resistance_per_stack": "-0.8%"
+					},
+					"5": {
+						"duration": "0.4s",
+						"max_stacks": "50",
+						"fire_resistance": "-5%",
+						"fire_resistance_per_stack": "-0.8%"
+					}
+				}
+			},
+			{
+				"name": "On hitting an enemy inflited with Burn",
+				"levels": {
+					"1": {
+						"firearm_atk": "7%"
+					},
+					"2": {
+						"firearm_atk": "8%"
+					},
+					"3": {
+						"firearm_atk": "9%"
+					},
+					"4": {
+						"firearm_atk": "10%"
+					},
+					"5": {
+						"firearm_atk": "11%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211063001",
+        "weapon_name": "Fallen Hope",
+		"weapon_perk_ability_name": "Prayer",
+        "weapon_perk_ability_description": "Granting a buff to allies excluding yourself will grant the unique effectMeditation to yourself.\nRecovering an ally's (HP/Shield/MP/Custom Resources), excluding yourself, will grant the unique effectPraise to yourself.\nInflicting a debuff on an enemy will grant the unique effectGlory to yourself.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/5993577c74ddc84df2f7e1b100abceac",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"hip_fire_accuracy": "-40%",
+						"aimed_shot_accuracy": "-40%"
+					},
+					"2": {
+						"hip_fire_accuracy": "-35%",
+						"aimed_shot_accuracy": "-35%"
+					},
+					"3": {
+						"hip_fire_accuracy": "-30%",
+						"aimed_shot_accuracy": "-30%"
+					},
+					"4": {
+						"hip_fire_accuracy": "-25%",
+						"aimed_shot_accuracy": "-25%"
+					},
+					"5": {
+						"hip_fire_accuracy": "-20%",
+						"aimed_shot_accuracy": "-20%"
+					}
+				}
+			},
+			{
+				"name": "On hitting a Poisoned enemy",
+				"levels": {
+					"1": {
+						"firearm_atk": "10%"
+					},
+					"2": {
+						"firearm_atk": "10%"
+					},
+					"3": {
+						"firearm_atk": "10%"
+					},
+					"4": {
+						"firearm_atk": "10%"
+					},
+					"5": {
+						"firearm_atk": "10%"
+					}
+				}
+			},
+			{
+				"name": "Explosion",
+				"levels": {
+					"1": {
+						"trigger_rate": "30%",
+						"damage_range": "Radius 4.0m",
+						"additional_damage": "55%"
+					},
+					"2": {
+						"trigger_rate": "32.5%",
+						"damage_range": "Radius 4.5m",
+						"additional_damage": "60%"
+					},
+					"3": {
+						"trigger_rate": "35%",
+						"damage_range": "Radius 5m",
+						"additional_damage": "65%"
+					},
+					"4": {
+						"trigger_rate": "37.5%",
+						"damage_range": "Radius 5.5m",
+						"additional_damage": "70%"
+					},
+					"5": {
+						"trigger_rate": "40%",
+						"damage_range": "Radius 6.0m",
+						"additional_damage": "75%"
+					}
+				}
+			},
+			{
+				"name": "Poison",
+				"levels": {
+					"1": {
+						"duration": "5s",
+						"damage_interval": "2.5s",
+						"additional_damage": "15%"
+					},
+					"2": {
+						"duration": "5s",
+						"damage_interval": "2.5s",
+						"additional_damage": "15%"
+					},
+					"3": {
+						"duration": "5s",
+						"damage_interval": "2.5s",
+						"additional_damage": "15%"
+					},
+					"4": {
+						"duration": "5s",
+						"damage_interval": "2.5s",
+						"additional_damage": "15%"
+					},
+					"5": {
+						"duration": "5s",
+						"damage_interval": "2.5s",
+						"additional_damage": "15%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211063002",
+        "weapon_name": "Divine Punishment",
+		"weapon_perk_ability_name": "Prayer",
+        "weapon_perk_ability_description": "Granting a buff to allies excluding yourself will grant the unique effectMeditation to yourself.\nRecovering an ally's (HP/Shield/MP/Custom Resources), excluding yourself, will grant the unique effectPraise to yourself.\nInflicting a debuff on an enemy will grant the unique effectGlory to yourself.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/5993577c74ddc84df2f7e1b100abceac",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"hip_fire_accuracy": "-40%",
+						"aimed_shot_accuracy": "-40%"
+					},
+					"2": {
+						"hip_fire_accuracy": "-30%",
+						"aimed_shot_accuracy": "-30%"
+					},
+					"3": {
+						"hip_fire_accuracy": "-20%",
+						"aimed_shot_accuracy": "-20%"
+					},
+					"4": {
+						"hip_fire_accuracy": "-10%",
+						"aimed_shot_accuracy": "-10%"
+					},
+					"5": {
+						"hip_fire_accuracy": "-0%",
+						"aimed_shot_accuracy": "-0%"
+					}
+				}
+			},
+			{
+				"name": "Meditation",
+				"levels": {
+					"1": {
+						"duration": "15s",
+						"max_stacks": "3",
+						"def": "5%",
+						"def_per_stack": "5%"
+					},
+					"2": {
+						"duration": "15s",
+						"max_stacks": "4",
+						"def": "5%",
+						"def_per_stack": "5%"
+					},
+					"3": {
+						"duration": "15s",
+						"max_stacks": "5",
+						"def": "5%",
+						"def_per_stack": "5%"
+					},
+					"4": {
+						"duration": "15s",
+						"max_stacks": "6",
+						"def": "5%",
+						"def_per_stack": "5%"
+					},
+					"5": {
+						"duration": "15s",
+						"max_stacks": "7",
+						"def": "5%",
+						"def_per_stack": "5%"
+					}
+				}
+			},
+			{
+				"name": "Praise",
+				"levels": {
+					"1": {
+						"duration": "15s",
+						"max_stacks": "4",
+						"skill_cooldown_modifier": "-1%",
+						"skill_cooldown_modifier_per_stack": "-1%"
+					},
+					"2": {
+						"duration": "15s",
+						"max_stacks": "6",
+						"skill_cooldown_modifier": "-1%",
+						"skill_cooldown_modifier_per_stack": "-1%"
+					},
+					"3": {
+						"duration": "15s",
+						"max_stacks": "8",
+						"skill_cooldown_modifier": "-1%",
+						"skill_cooldown_modifier_per_stack": "-1%"
+					},
+					"4": {
+						"duration": "15s",
+						"max_stacks": "10",
+						"skill_cooldown_modifier": "-1%",
+						"skill_cooldown_modifier_per_stack": "-1%"
+					},
+					"5": {
+						"duration": "15s",
+						"max_stacks": "12",
+						"skill_cooldown_modifier": "-1%",
+						"skill_cooldown_modifier_per_stack": "-1%"
+					}
+				}
+			},
+			{
+				"name": "Glory",
+				"levels": {
+					"1": {
+						"duration": "30s",
+						"max_stacks": "5",
+						"firearm_atk": "0.4%",
+						"firearm_atk_per_stack": "0.4%"
+					},
+					"2": {
+						"duration": "30s",
+						"max_stacks": "10",
+						"firearm_atk": "0.4%",
+						"firearm_atk_per_stack": "0.4%"
+					},
+					"3": {
+						"duration": "30s",
+						"max_stacks": "15",
+						"firearm_atk": "0.4%",
+						"firearm_atk_per_stack": "0.4%"
+					},
+					"4": {
+						"duration": "30s",
+						"max_stacks": "20",
+						"firearm_atk": "0.4%",
+						"firearm_atk_per_stack": "0.4%"
+					},
+					"5": {
+						"duration": "30s",
+						"max_stacks": "25",
+						"firearm_atk": "0.4%",
+						"firearm_atk_per_stack": "0.4%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211073001",
+        "weapon_name": "Secret Garden",
+		"weapon_perk_ability_name": "Gardener",
+        "weapon_perk_ability_description": "When using a Dimension skill, recovers Custom Resource with a set chance.\nWhen using a Tech skill, grants the unique ability Pest Control with a set chance.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/7d2cc260ba530ac3ad1fd0eb68fbd75f",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"skill_cost": "20%"
+					},
+					"2": {
+						"skill_cost": "15%"
+					},
+					"3": {
+						"skill_cost": "10%"
+					},
+					"4": {
+						"skill_cost": "5%"
+					},
+					"5": {
+						"skill_cost": "0%"
+					}
+				}
+			},
+			{
+				"name": "Upon using a Dimension skill",
+				"levels": {
+					"1": {
+						"trigger_rate": "23.4%",
+						"custom_resource_recovery": "10%"
+					},
+					"2": {
+						"trigger_rate": "27.3%",
+						"custom_resource_recovery": "10%"
+					},
+					"3": {
+						"trigger_rate": "31.2%",
+						"custom_resource_recovery": "10%"
+					},
+					"4": {
+						"trigger_rate": "35.1",
+						"custom_resource_recovery": "10%"
+					},
+					"5": {
+						"trigger_rate": "39%",
+						"custom_resource_recovery": "10%"
+					}
+				}
+			},
+			{
+				"name": "Pest Control",
+				"levels": {
+					"1": {
+						"trigger_rate": "30%",
+						"duration": "5s",
+						"max_stacks": "3",
+						"firearm_atk": "5%",
+						"skill_power": "5%",
+						"firearm_atk_per_stack": "12%",
+						"skill_power_per_stack": "12%"
+					},
+					"2": {
+						"trigger_rate": "35%",
+						"duration": "6.25s",
+						"max_stacks": "3",
+						"firearm_atk": "5%",
+						"skill_power": "5%",
+						"firearm_atk_per_stack": "13%",
+						"skill_power_per_stack": "13%"
+					},
+					"3": {
+						"trigger_rate": "40%",
+						"duration": "7.5s",
+						"max_stacks": "3",
+						"firearm_atk": "5%",
+						"skill_power": "5%",
+						"firearm_atk_per_stack": "14%",
+						"skill_power_per_stack": "14%"
+					},
+					"4": {
+						"trigger_rate": "45%",
+						"duration": "8.75s",
+						"max_stacks": "3",
+						"firearm_atk": "5%",
+						"skill_power": "5%",
+						"firearm_atk_per_stack": "15%",
+						"skill_power_per_stack": "15%"
+					},
+					"5": {
+						"trigger_rate": "50%",
+						"duration": "10s",
+						"max_stacks": "3",
+						"firearm_atk": "5%",
+						"skill_power": "5%",
+						"firearm_atk_per_stack": "16%",
+						"skill_power_per_stack": "16%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211083001",
+        "weapon_name": "Wave of Light",
+		"weapon_perk_ability_name": "Splendor",
+        "weapon_perk_ability_description": "After reloading, grants the unique ability Solar Halo.\nOn hitting an enemy while Solar Halo is active, inflict Lunar Halo on the target enemy with a set chance.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/0002502f394f7b5c1d27da365d074788",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"reload_time_modifier": "-12%"
+					},
+					"2": {
+						"reload_time_modifier": "-9%"
+					},
+					"3": {
+						"reload_time_modifier": "-6%"
+					},
+					"4": {
+						"reload_time_modifier": "-3%"
+					},
+					"5": {
+						"reload_time_modifier": "-0%"
+					}
+				}
+			},
+			{
+				"name": "Solar Halo",
+				"levels": {
+					"1": {
+						"duration": "1.0s",
+						"recoil": "-50%",
+						"firearm_critical_hit_rate": "45%"
+					},
+					"2": {
+						"duration": "1.1s",
+						"recoil": "-50%",
+						"firearm_critical_hit_rate": "45%"
+					},
+					"3": {
+						"duration": "1.2s",
+						"recoil": "-50%",
+						"firearm_critical_hit_rate": "45%"
+					},
+					"4": {
+						"duration": "1.3s",
+						"recoil": "-50%",
+						"firearm_critical_hit_rate": "45%"
+					},
+					"5": {
+						"duration": "1.4s",
+						"recoil": "-50%",
+						"firearm_critical_hit_rate": "45%"
+					}
+				}
+			},
+			{
+				"name": "Lunar Halo",
+				"levels": {
+					"1": {
+						"trigger_rate": "100%",
+						"duration": "6s",
+						"weaken_regeneration": "-50%"
+					},
+					"2": {
+						"trigger_rate": "100%",
+						"duration": "7s",
+						"weaken_regeneration": "-50%"
+					},
+					"3": {
+						"trigger_rate": "100%",
+						"duration": "8s",
+						"weaken_regeneration": "-50%"
+					},
+					"4": {
+						"trigger_rate": "100%",
+						"duration": "9s",
+						"weaken_regeneration": "-50%"
+					},
+					"5": {
+						"trigger_rate": "100%",
+						"duration": "10s",
+						"weaken_regeneration": "-50%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211083002",
+        "weapon_name": "Blue Beetle",
+		"weapon_perk_ability_name": "Arcane Wave",
+        "weapon_perk_ability_description": "When using a Fusion skill, grants self the unique ability Arcane Energy with a set chance.\nWhen using a Singular skill, grants self the unique ability Purification with a set chance.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/5ab2658512f9fc9342a07b79ffc20eb7",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"skill_cost": "20%"
+					},
+					"2": {
+						"skill_cost": "15%"
+					},
+					"3": {
+						"skill_cost": "10%"
+					},
+					"4": {
+						"skill_cost": "5%"
+					},
+					"5": {
+						"skill_cost": "0%"
+					}
+				}
+			},
+			{
+				"name": "Arcane Energy",
+				"levels": {
+					"1": {
+						"trigger_rate": "50%",
+						"duration": "10s",
+						"skill_critical_hit_rate": "10%"
+					},
+					"2": {
+						"trigger_rate": "62.5%",
+						"duration": "10s",
+						"skill_critical_hit_rate": "15%"
+					},
+					"3": {
+						"trigger_rate": "75%",
+						"duration": "10s",
+						"skill_critical_hit_rate": "20%"
+					},
+					"4": {
+						"trigger_rate": "87.5%",
+						"duration": "10s",
+						"skill_critical_hit_rate": "25%"
+					},
+					"5": {
+						"trigger_rate": "100%",
+						"duration": "10s",
+						"skill_critical_hit_rate": "30%"
+					}
+				}
+			},
+			{
+				"name": "Purification",
+				"levels": {
+					"1": {
+						"trigger_rate": "50%",
+						"duration": "1s",
+						"remove_debuff": "100%"
+					},
+					"2": {
+						"trigger_rate": "62.5%",
+						"duration": "1s",
+						"remove_debuff": "100%"
+					},
+					"3": {
+						"trigger_rate": "75%",
+						"duration": "1s",
+						"remove_debuff": "100%"
+					},
+					"4": {
+						"trigger_rate": "87.5%",
+						"duration": "1s",
+						"remove_debuff": "100%"
+					},
+					"5": {
+						"trigger_rate": "100%",
+						"duration": "1s",
+						"remove_debuff": "100%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211093001",
+        "weapon_name": "Afterglow Sword",
+		"weapon_perk_ability_name": "Nightmare Reaper",
+        "weapon_perk_ability_description": "On hitting a Weak Point, inflicts the unique effect, Death Propagation. \nOn hitting an enemy Commander or Colossus, increases Firearm Critical Hit Rate and applies the effect to the attack.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/bc8654d365d8efc12b303b3cfc03f8f8",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"fire_rate": "-30%",
+						"effective_range_(drop_off_start)": "10%"
+					},
+					"2": {
+						"fire_rate": "-25%",
+						"effective_range_(drop_off_start)": "12%"
+					},
+					"3": {
+						"fire_rate": "-20%",
+						"effective_range_(drop_off_start)": "14%"
+					},
+					"4": {
+						"fire_rate": "-15%",
+						"effective_range_(drop_off_start)": "16%"
+					},
+					"5": {
+						"fire_rate": "-10%",
+						"effective_range_(drop_off_start)": "20%"
+					}
+				}
+			},
+			{
+				"name": "Death Propagation",
+				"levels": {
+					"1": {
+						"duration": "5s",
+						"max_stacks": "6",
+						"reload_time_modifier": "2%",
+						"weak_point_damage": "9%",
+						"reload_time_modifier_per_stack": "3%",
+						"weak_point_damage_per_stack": "3%"
+					},
+					"2": {
+						"duration": "5s",
+						"max_stacks": "6",
+						"reload_time_modifier": "2%",
+						"weak_point_damage": "9%",
+						"reload_time_modifier_per_stack": "3%",
+						"weak_point_damage_per_stack": "3%"
+					},
+					"3": {
+						"duration": "5s",
+						"max_stacks": "6",
+						"reload_time_modifier": "2%",
+						"weak_point_damage": "9%",
+						"reload_time_modifier_per_stack": "3%",
+						"weak_point_damage_per_stack": "3%"
+					},
+					"4": {
+						"duration": "5s",
+						"max_stacks": "6",
+						"reload_time_modifier": "2%",
+						"weak_point_damage": "9%",
+						"reload_time_modifier_per_stack": "3%",
+						"weak_point_damage_per_stack": "3%"
+					},
+					"5": {
+						"duration": "5s",
+						"max_stacks": "6",
+						"reload_time_modifier": "2%",
+						"weak_point_damage": "9%",
+						"reload_time_modifier_per_stack": "3%",
+						"weak_point_damage_per_stack": "3%"
+					}
+				}
+			},
+			{
+				"name": "On hitting an enemy Commander",
+				"levels": {
+					"1": {
+						"firearm_critical_hit_rate": "12.5%"
+					},
+					"2": {
+						"firearm_critical_hit_rate": "15%"
+					},
+					"3": {
+						"firearm_critical_hit_rate": "17.5%"
+					},
+					"4": {
+						"firearm_critical_hit_rate": "20%"
+					},
+					"5": {
+						"firearm_critical_hit_rate": "22.5%"
+					}
+				}
+			},
+			{
+				"name": "On hitting a Colossus",
+				"levels": {
+					"1": {
+						"firearm_critical_hit_rate": "12.5%"
+					},
+					"2": {
+						"firearm_critical_hit_rate": "15%"
+					},
+					"3": {
+						"firearm_critical_hit_rate": "17.5%"
+					},
+					"4": {
+						"firearm_critical_hit_rate": "20%"
+					},
+					"5": {
+						"firearm_critical_hit_rate": "22.5%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211123001",
+        "weapon_name": "King's Guard Lance",
+		"weapon_perk_ability_name": "Guardian",
+        "weapon_perk_ability_description": "Aiming activates Preview Mode.\nWhen canceling the aim, deactivates Preview Mode.\nWhen firing while aiming, deploys the unique ability Guardian Lance on the terrain and consumes a set amount of ammo upon deployment.\nThe deployed Guardian Lance lasts for a set amount of time, and hitting the Guardian Lance deals damage to nearby enemies.\nEach time the deployed Guardian Lance is hit, its duration and range are slightly increased.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/bbc579a51eb8c5bd636032cd943ba90b",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"rounds_per_magazine": "-10"
+					},
+					"2": {
+						"rounds_per_magazine": "-8"
+					},
+					"3": {
+						"rounds_per_magazine": "-6"
+					},
+					"4": {
+						"rounds_per_magazine": "-4"
+					},
+					"5": {
+						"rounds_per_magazine": "-2"
+					}
+				}
+			},
+			{
+				"name": "Guardian Lance",
+				"levels": {
+					"1": {
+						"ammo_cost_upon_installation": "-6",
+						"duration": "3s",
+						"duration_increase_upon_hit": "0.1s",
+						"max_duration": "6.0s",
+						"additional_damage": "Firearm Damage x 6%",
+						"damage_interval": "0.11s",
+						"damage_range": "Radius 3.0m",
+						"damage_range_increase_upon_hit": "Radius 0.1m"
+					},
+					"2": {
+						"ammo_cost_upon_installation": "-5",
+						"duration": "3s",
+						"duration_increase_upon_hit": "0.1s",
+						"max_duration": "6.5s",
+						"additional_damage": "Firearm Damage x 7%",
+						"damage_interval": "0.11s",
+						"damage_range": "Radius 3.5m",
+						"damage_range_increase_upon_hit": "Radius 0.1m"
+					},
+					"3": {
+						"ammo_cost_upon_installation": "-4",
+						"duration": "3s",
+						"duration_increase_upon_hit": "0.1s",
+						"max_duration": "7.0s",
+						"additional_damage": "Firearm Damage x 8%",
+						"damage_interval": "0.11s",
+						"damage_range": "Radius 4.0m",
+						"damage_range_increase_upon_hit": "Radius 0.1m"
+					},
+					"4": {
+						"ammo_cost_upon_installation": "-3",
+						"duration": "3s",
+						"duration_increase_upon_hit": "0.1s",
+						"max_duration": "7.5s",
+						"additional_damage": "Firearm Damage x 9%",
+						"damage_interval": "0.11s",
+						"damage_range": "Radius 4.5m",
+						"damage_range_increase_upon_hit": "Radius 0.1m"
+					},
+					"5": {
+						"ammo_cost_upon_installation": "-2",
+						"duration": "3s",
+						"duration_increase_upon_hit": "0.1s",
+						"max_duration": "8s",
+						"additional_damage": "Firearm Damage x 10%",
+						"damage_interval": "0.11s",
+						"damage_range": "Radius 5.0m",
+						"damage_range_increase_upon_hit": "Radius 0.1m"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211043001",
+        "weapon_name": "Thunder Cage",
+		"weapon_perk_ability_name": "Overcharge",
+        "weapon_perk_ability_description": "When defeating an enemy, the defeated enemy has a set chance to discharge Electric Shockwave which deals Additional Damage to nearby enemies.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/dd3ec1ec140eaf0a130abcf8fc5d6354",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"reload_time_modifier": "-20%"
+					},
+					"2": {
+						"reload_time_modifier": "-15%"
+					},
+					"3": {
+						"reload_time_modifier": "-10%"
+					},
+					"4": {
+						"reload_time_modifier": "-5%"
+					},
+					"5": {
+						"reload_time_modifier": "0%"
+					}
+				}
+			},
+			{
+				"name": "Electric Shockwave",
+				"levels": {
+					"1": {
+						"trigger_rate": "60%",
+						"damage_range": "Radius 3.0m",
+						"additional_damage": "Firearm Damage x 200%"
+					},
+					"2": {
+						"trigger_rate": "70%",
+						"damage_range": "Radius 3.5m",
+						"additional_damage": "Firearm Damage x 200%"
+					},
+					"3": {
+						"trigger_rate": "80%",
+						"damage_range": "Radius 4.0m",
+						"additional_damage": "Firearm Damage x 200%"
+					},
+					"4": {
+						"trigger_rate": "90%",
+						"damage_range": "Radius 4.5m",
+						"additional_damage": "Firearm Damage x 200%"
+					},
+					"5": {
+						"trigger_rate": "100%",
+						"damage_range": "Radius 5.0m",
+						"additional_damage": "Firearm Damage x 200%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211023002",
+        "weapon_name": "Perforator",
+		"weapon_perk_ability_name": "Detect",
+        "weapon_perk_ability_description": "On hitting a Weak Point, inflicts damage to the enemy's Shield in proportion to their Max Shield at a set chance. The higher the Firearm Level, the closer this damage reaches the Max Limit.\nWhen damage dealt to the enemy completely depletes the target enemy's Shield, inflict Stun with a set chance.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/6bd939c1eb038615f335210e62caea55",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"hip_fire_accuracy": "-20%",
+						"aimed_shot_accuracy": "-20%"
+					},
+					"2": {
+						"hip_fire_accuracy": "-15%",
+						"aimed_shot_accuracy": "-15%"
+					},
+					"3": {
+						"hip_fire_accuracy": "-10%",
+						"aimed_shot_accuracy": "-10%"
+					},
+					"4": {
+						"hip_fire_accuracy": "-5%",
+						"aimed_shot_accuracy": "-5%"
+					},
+					"5": {
+						"hip_fire_accuracy": "0%",
+						"aimed_shot_accuracy": "0%"
+					}
+				}
+			},
+			{
+				"name": "On Weak Point hit",
+				"levels": {
+					"1": {
+						"shield_damage_trigger_rate_(standard)": "50%",
+						"max_damage_(standard)": "60%",
+						"shield_damage_trigger_rate_(elite)": "35%",
+						"max_damage_(elite)": "10%",
+						"shield_damage_trigger_rate_(commander)": "20%",
+						"max_damage_(commander)": "1%",
+						"shield_damage_trigger_rate_(colossus)": "1.5%",
+						"max_damage_(colossus)": "0.5%"
+					},
+					"2": {
+						"shield_damage_trigger_rate_(standard)": "50%",
+						"max_damage_(standard)": "70%",
+						"shield_damage_trigger_rate_(elite)": "35%",
+						"max_damage_(elite)": "11%",
+						"shield_damage_trigger_rate_(commander)": "20%",
+						"max_damage_(commander)": "2%",
+						"shield_damage_trigger_rate_(colossus)": "1.5%",
+						"max_damage_(colossus)": "1.0%"
+					},
+					"3": {
+						"shield_damage_trigger_rate_(standard)": "50%",
+						"max_damage_(standard)": "80%",
+						"shield_damage_trigger_rate_(elite)": "35%",
+						"max_damage_(elite)": "12%",
+						"shield_damage_trigger_rate_(commander)": "20%",
+						"max_damage_(commander)": "3%",
+						"shield_damage_trigger_rate_(colossus)": "1.5%",
+						"max_damage_(colossus)": "1.5%"
+					},
+					"4": {
+						"shield_damage_trigger_rate_(standard)": "50%",
+						"max_damage_(standard)": "90%",
+						"shield_damage_trigger_rate_(elite)": "35%",
+						"max_damage_(elite)": "13%",
+						"shield_damage_trigger_rate_(commander)": "20%",
+						"max_damage_(commander)": "4%",
+						"shield_damage_trigger_rate_(colossus)": "1.5%",
+						"max_damage_(colossus)": "2.0%"
+					},
+					"5": {
+						"shield_damage_trigger_rate_(standard)": "50%",
+						"max_damage_(standard)": "100%",
+						"shield_damage_trigger_rate_(elite)": "35%",
+						"max_damage_(elite)": "14%",
+						"shield_damage_trigger_rate_(commander)": "20%",
+						"max_damage_(commander)": "5%",
+						"shield_damage_trigger_rate_(colossus)": "1.5%",
+						"max_damage_(colossus)": "2.5%"
+					}
+				}
+			},
+			{
+				"name": "Stun",
+				"levels": {
+					"1": {
+						"trigger_rate": "60%",
+						"duration": "1.0s"
+					},
+					"2": {
+						"trigger_rate": "70%",
+						"duration": "1.25s"
+					},
+					"3": {
+						"trigger_rate": "80%",
+						"duration": "1.5s"
+					},
+					"4": {
+						"trigger_rate": "90%",
+						"duration": "1.75s"
+					},
+					"5": {
+						"trigger_rate": "100%",
+						"duration": "2.0s"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211053002",
+        "weapon_name": "Albion Cavalry Gun",
+		"weapon_perk_ability_name": "Cavalry",
+        "weapon_perk_ability_description": "On hitting a Stunned enemy, increase ATK and apply the effect to the attack.\nWhen achieving a Critical Hit on a Stunned enemy, there is a set chance to inflict Stun on the enemy.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/40988b97a45915b457b75636ad4593a2",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"recoil": "20%"
+					},
+					"2": {
+						"recoil": "15%"
+					},
+					"3": {
+						"recoil": "10%"
+					},
+					"4": {
+						"recoil": "5%"
+					},
+					"5": {
+						"recoil": "0%"
+					}
+				}
+			},
+			{
+				"name": "On hitting a Stunned enemy",
+				"levels": {
+					"1": {
+						"firearm_atk": "25%"
+					},
+					"2": {
+						"firearm_atk": "28.75%"
+					},
+					"3": {
+						"firearm_atk": "33%"
+					},
+					"4": {
+						"firearm_atk": "36.25%"
+					},
+					"5": {
+						"firearm_atk": "40%"
+					}
+				}
+			},
+			{
+				"name": "Stun",
+				"levels": {
+					"1": {
+						"trigger_rate": "100%",
+						"duration": "2.0s"
+					},
+					"2": {
+						"trigger_rate": "100%",
+						"duration": "2.5s"
+					},
+					"3": {
+						"trigger_rate": "100%",
+						"duration": "3.0s"
+					},
+					"4": {
+						"trigger_rate": "100%",
+						"duration": "3.5s"
+					},
+					"5": {
+						"trigger_rate": "100%",
+						"duration": "4.0s"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211073002",
+        "weapon_name": "Greg's Reversed Fate",
+		"weapon_perk_ability_name": "Shaping Destiny",
+        "weapon_perk_ability_description": "On hitting an enemy, proc Bombardment on the enemy's location with a set chance.\nInflict Burn on enemies hit by Bombardment.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/01a4ab6c8af8836af8e8b95d1a9dc495",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"hip_fire_accuracy": "-20%",
+						"aimed_shot_accuracy": "-20%"
+					},
+					"2": {
+						"hip_fire_accuracy": "-15%",
+						"aimed_shot_accuracy": "-15%"
+					},
+					"3": {
+						"hip_fire_accuracy": "-10%",
+						"aimed_shot_accuracy": "-10%"
+					},
+					"4": {
+						"hip_fire_accuracy": "-5%",
+						"aimed_shot_accuracy": "-5%"
+					},
+					"5": {
+						"hip_fire_accuracy": "0%",
+						"aimed_shot_accuracy": "0%"
+					}
+				}
+			},
+			{
+				"name": "Bombardment",
+				"levels": {
+					"1": {
+						"trigger_rate": "10.0%",
+						"damage_range": "Radius 3.0m",
+						"bombardment_count": "3",
+						"additional_damage": "Firearm Damage x 100%"
+					},
+					"2": {
+						"trigger_rate": "12.5%",
+						"damage_range": "Radius 3.5m",
+						"bombardment_count": "3",
+						"additional_damage": "Firearm Damage x 100%"
+					},
+					"3": {
+						"trigger_rate": "15.0%",
+						"damage_range": "Radius 4.0m",
+						"bombardment_count": "3",
+						"additional_damage": "Firearm Damage x 100%"
+					},
+					"4": {
+						"trigger_rate": "17.5%",
+						"damage_range": "Radius 4.5m",
+						"bombardment_count": "3",
+						"additional_damage": "Firearm Damage x 100%"
+					},
+					"5": {
+						"trigger_rate": "20.0%",
+						"damage_range": "Radius 5.0m",
+						"bombardment_count": "3",
+						"additional_damage": "Firearm Damage x 100%"
+					}
+				}
+			},
+			{
+				"name": "Burn",
+				"levels": {
+					"1": {
+						"duration": "3s",
+						"damage_interval": "1s",
+						"additional_damage": "Firearm Damage x 10%"
+					},
+					"2": {
+						"duration": "3s",
+						"damage_interval": "1s",
+						"additional_damage": "Firearm Damage x 12.5%"
+					},
+					"3": {
+						"duration": "3s",
+						"damage_interval": "1s",
+						"additional_damage": "Firearm Damage x 15%"
+					},
+					"4": {
+						"duration": "3s",
+						"damage_interval": "1s",
+						"additional_damage": "Firearm Damage x 17.5%"
+					},
+					"5": {
+						"duration": "3s",
+						"damage_interval": "1s",
+						"additional_damage": "Firearm Damage x 20%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211093002",
+        "weapon_name": "Piercing Light",
+		"weapon_perk_ability_name": "Purification of Light",
+        "weapon_perk_ability_description": "On hitting a Weak Point, inflicts Dispel on the enemy with a set chance.\nWhen two or more enemies are hit by a single shot, there is a high chance to land a Critical Hit on the enemies while also increasing Critical Hit Damage and applying this buff to the attack.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/1597099c1483d6dcde741fa1b1c7c94e",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"recoil": "40%",
+						"penetration": "180%"
+					},
+					"2": {
+						"recoil": "30%",
+						"penetration": "220%"
+					},
+					"3": {
+						"recoil": "20%",
+						"penetration": "260%"
+					},
+					"4": {
+						"recoil": "10%",
+						"penetration": "300%"
+					},
+					"5": {
+						"recoil": "0%",
+						"penetration": "340%"
+					}
+				}
+			},
+			{
+				"name": "Dispel",
+				"levels": {
+					"1": {
+						"trigger_rate": "50%",
+						"duration": "1s",
+						"remove_debuff": "100%"
+					},
+					"2": {
+						"trigger_rate": "62.5%",
+						"duration": "1s",
+						"remove_debuff": "100%"
+					},
+					"3": {
+						"trigger_rate": "75%",
+						"duration": "1s",
+						"remove_debuff": "100%"
+					},
+					"4": {
+						"trigger_rate": "87.5%",
+						"duration": "1s",
+						"remove_debuff": "100%"
+					},
+					"5": {
+						"trigger_rate": "100%",
+						"duration": "1s",
+						"remove_debuff": "100%"
+					}
+				}
+			},
+			{
+				"name": "Upon piercing two or more targets",
+				"levels": {
+					"1": {
+						"firearm_critical_hit_rate": "100%",
+						"firearm_critical_hit_damage": "6%"
+					},
+					"2": {
+						"firearm_critical_hit_rate": "100%",
+						"firearm_critical_hit_damage": "6%"
+					},
+					"3": {
+						"firearm_critical_hit_rate": "100%",
+						"firearm_critical_hit_damage": "6%"
+					},
+					"4": {
+						"firearm_critical_hit_rate": "100%",
+						"firearm_critical_hit_damage": "6%"
+					},
+					"5": {
+						"firearm_critical_hit_rate": "100%",
+						"firearm_critical_hit_damage": "6%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211103001",
+        "weapon_name": "Sigvore's Proof",
+		"weapon_perk_ability_name": "Mad Bomber",
+        "weapon_perk_ability_description": "Fires a Sticky Bomb when shooting while aiming.\nThe launched bomb will automatically detonate after a certain period of time after sticking to an enemy. When aim is canceled, all attached bombs will detonate at the same time, regardless of whether the countdown has been completed.\nUpon detonation, Sticky Bombs will inflict Burn on damaged enemies.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/bea1b2521d7eeeb98dd241be12b4a7d1",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"rounds_per_magazine": "-6"
+					},
+					"2": {
+						"rounds_per_magazine": "-5"
+					},
+					"3": {
+						"rounds_per_magazine": "-4"
+					},
+					"4": {
+						"rounds_per_magazine": "-3"
+					},
+					"5": {
+						"rounds_per_magazine": "-2"
+					}
+				}
+			},
+			{
+				"name": "Sticky Bomb",
+				"levels": {
+					"1": {
+						"detonation_time": "3s"
+					},
+					"2": {
+						"detonation_time": "4s"
+					},
+					"3": {
+						"detonation_time": "5s"
+					},
+					"4": {
+						"detonation_time": "6s"
+					},
+					"5": {
+						"detonation_time": "7s"
+					}
+				}
+			},
+			{
+				"name": "Burn",
+				"levels": {
+					"1": {
+						"duration": "3s",
+						"damage_interval": "1s",
+						"max_stacks": "4",
+						"additional_damage": "Firearm Damage x 10%",
+						"additional_damage_per_stack": "Firearm Damage x 13%"
+					},
+					"2": {
+						"duration": "3s",
+						"damage_interval": "1s",
+						"max_stacks": "5",
+						"additional_damage": "Firearm Damage x 10%",
+						"additional_damage_per_stack": "Firearm Damage x 13%"
+					},
+					"3": {
+						"duration": "3s",
+						"damage_interval": "1s",
+						"max_stacks": "6",
+						"additional_damage": "Firearm Damage x 10%",
+						"additional_damage_per_stack": "Firearm Damage x 13%"
+					},
+					"4": {
+						"duration": "3s",
+						"damage_interval": "1s",
+						"max_stacks": "7",
+						"additional_damage": "Firearm Damage x 10%",
+						"additional_damage_per_stack": "Firearm Damage x 13%"
+					},
+					"5": {
+						"duration": "3s",
+						"damage_interval": "1s",
+						"max_stacks": "8",
+						"additional_damage": "Firearm Damage x 10%",
+						"additional_damage_per_stack": "Firearm Damage x 13%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211103002",
+        "weapon_name": "Restored Relic",
+		"weapon_perk_ability_name": "Ancient Technique",
+        "weapon_perk_ability_description": "Fires a Guided Round with a set chance.\nOn hitting an enemy with a Guided Round, inflicts Ancient Fire to the target enemy with a set chance.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/9ef20419c2085959a375fd156bb9ded5",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"fire_rate": "-20%"
+					},
+					"2": {
+						"fire_rate": "-15%"
+					},
+					"3": {
+						"fire_rate": "-10%"
+					},
+					"4": {
+						"fire_rate": "-5%"
+					},
+					"5": {
+						"fire_rate": "0%"
+					}
+				}
+			},
+			{
+				"name": "Guided Round",
+				"levels": {
+					"1": {
+						"trigger_rate": "60%"
+					},
+					"2": {
+						"trigger_rate": "70%"
+					},
+					"3": {
+						"trigger_rate": "80%"
+					},
+					"4": {
+						"trigger_rate": "90%"
+					},
+					"5": {
+						"trigger_rate": "100%"
+					}
+				}
+			},
+			{
+				"name": "Ancient Fire",
+				"levels": {
+					"1": {
+						"trigger_rate": "25%",
+						"duration": "3s",
+						"damage_interval": "1s",
+						"additional_damage": "Firearm Damage x 20%"
+					},
+					"2": {
+						"trigger_rate": "25%",
+						"duration": "3s",
+						"damage_interval": "1s",
+						"additional_damage": "Firearm Damage x 20%"
+					},
+					"3": {
+						"trigger_rate": "25%",
+						"duration": "3s",
+						"damage_interval": "1s",
+						"additional_damage": "Firearm Damage x 20%"
+					},
+					"4": {
+						"trigger_rate": "25%",
+						"duration": "3s",
+						"damage_interval": "1s",
+						"additional_damage": "Firearm Damage x 20%"
+					},
+					"5": {
+						"trigger_rate": "25%",
+						"duration": "3s",
+						"damage_interval": "1s",
+						"additional_damage": "Firearm Damage x 20%"
+					}
+				}
+			}
+		]
+	},
+	{
+		"weapon_id": "211123002",
+        "weapon_name": "Clairvoyance",
+		"weapon_perk_ability_name": "The Thing Beyond",
+        "weapon_perk_ability_description": "Hitting an enemy with a Stage 2 Beam inflicts Void Gaze on the target.\nHitting an enemy with a Stage 3 Beam inflicts Appalled Calling on the target. This effect is considered to be the same effect as Frostbite in some modes.",
+        "weapon_perk_ability_image_url": "https://open.api.nexon.com/static/tfd/img/846a47df28752071bb920da2f9e454f9",
+		"ability_effects": [
+			{
+				"name": "Basic Information",
+				"levels": {
+					"1": {
+						"beam_rifle_charging_speed": "-20%"
+					},
+					"2": {
+						"beam_rifle_charging_speed": "-15%"
+					},
+					"3": {
+						"beam_rifle_charging_speed": "-10%"
+					},
+					"4": {
+						"beam_rifle_charging_speed": "-5%"
+					},
+					"5": {
+						"beam_rifle_charging_speed": "0%"
+					}
+				}
+			},
+			{
+				"name": "Void Gaze",
+				"levels": {
+					"1": {
+						"duration": "2s",
+						"chill_resistance": "-20%"
+					},
+					"2": {
+						"duration": "2s",
+						"chill_resistance": "-25%"
+					},
+					"3": {
+						"duration": "2s",
+						"chill_resistance": "-30%"
+					},
+					"4": {
+						"duration": "2s",
+						"chill_resistance": "-35%"
+					},
+					"5": {
+						"duration": "2s",
+						"chill_resistance": "-40%"
+					}
+				}
+			},
+			{
+				"name": "Appaled Calling",
+				"levels": {
+					"1": {
+						"duration": "2s",
+						"chill_resistance": "-20%",
+						"action_speed": "-70%"
+					},
+					"2": {
+						"duration": "2s",
+						"chill_resistance": "-25%",
+						"action_speed": "-75%"
+					},
+					"3": {
+						"duration": "2s",
+						"chill_resistance": "-30%",
+						"action_speed": "-80%"
+					},
+					"4": {
+						"duration": "2s",
+						"chill_resistance": "-35%",
+						"action_speed": "-85%"
+					},
+					"5": {
+						"duration": "2s",
+						"chill_resistance": "-40%",
+						"action_speed": "-90%"
+					}
+				}
+			}
+		]
+	}
+]

@@ -98,16 +98,16 @@ const ConsumablePage: React.FC = () => {
 				<ItemCard header={props.name} description={props.description} image_url={props.image_url} tier={consumable.tier} type={consumable.type}>
 					<Box>
 						{consumable.craft && (
-							<Box sx={{display: 'flex', flexDirection: 'column', gap: '20px'}}>
-								<Typography variant="h2" sx={{fontSize: '20px', fontWeight: 'bold', color: 'primary.dark', width: '10%', borderBottom: '1px solid #42a5f5'}}>CRAFT</Typography>
+							<Box>
+								<Typography variant="h2" className={styles.dynamic_border_container} sx={{fontSize: '20px', fontWeight: 'bold', color: 'primary.dark'}}>CRAFT</Typography>
 								<CraftDisplay 
 									craft={consumable.craft}
 								/>
 							</Box>
 						)}
 						{consumable.drop_location && (
-							<Box sx={{display: 'flex', flexDirection: 'column', gap: '20px'}}>
-								<Typography variant="h2" sx={{fontSize: '20px', fontWeight: 'bold', color: 'primary.dark', width: '20%', borderBottom: '1px solid #42a5f5'}}>OBTAINED FROM</Typography>
+							<Box>
+								<Typography variant="h2" className={styles.dynamic_border_container} sx={{fontSize: '20px', fontWeight: 'bold', color: 'primary.dark'}}>OBTAINED FROM</Typography>
 								<ObtentionDisplay 
 									obtention={consumable.drop_location}
 								/>
@@ -115,12 +115,12 @@ const ConsumablePage: React.FC = () => {
 						)}
 						{amorphous && (
 							<Box sx={{display: 'flex', flexDirection: 'column', gap:'20px'}}>
-								<Box sx={{display: 'flex', flexDirection: 'column', gap: '20px'}}>
-									<Typography variant="h2" sx={{fontSize: '20px', fontWeight: 'bold', color: 'primary.dark', width: '10%', borderBottom: '1px solid #42a5f5'}}>INFO</Typography>
+								<Box>
+									<Typography variant="h2" className={styles.dynamic_border_container} sx={{fontSize: '20px', fontWeight: 'bold', color: 'primary.dark'}}>INFO</Typography>
 									<AmorphousInfo amorphous={amorphous}/>
 								</Box>
-								<Box sx={{display: 'flex', flexDirection: 'column', gap: '20px'}}>
-									<Typography variant="h2" sx={{fontSize: '20px', fontWeight: 'bold', color: 'primary.dark', width: '15%', borderBottom: '1px solid #42a5f5'}}>REWARDS</Typography>
+								<Box>
+									<Typography variant="h2" className={styles.dynamic_border_container} sx={{fontSize: '20px', fontWeight: 'bold', color: 'primary.dark'}}>REWARDS</Typography>
 									<Grid container spacing={2} sx={{ justifyContent: 'center' }}>
 										{amorphous.rewards.map((reward, index) => (
 											<AmorphousRewardCard reward={reward} key={index}/>
@@ -130,8 +130,8 @@ const ConsumablePage: React.FC = () => {
 							</Box>
 						)}
 						{amorphousDataForItemPart && (
-							<Box sx={{display: 'flex', flexDirection: 'column', gap: '20px'}}>
-								<Typography variant="h2" sx={{fontSize: '20px', fontWeight: 'bold', color: 'primary.dark', width: '20%', borderBottom: '1px solid #42a5f5'}}>OBTAINED FROM</Typography>
+							<Box>
+								<Typography variant="h2" className={styles.dynamic_border_container} sx={{fontSize: '20px', fontWeight: 'bold', color: 'primary.dark'}}>OBTAINED FROM</Typography>
 								{amorphousDataForItemPart.map((amorphous: Amorphous, index: number) => (
 									<AmorphousCard amorphous={amorphous} selectedPart={consumable.name} key={index}/>
 								))}

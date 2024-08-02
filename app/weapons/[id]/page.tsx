@@ -75,15 +75,12 @@ const WeaponPage: React.FC = () => {
 							<Box className={styles.ability_container}>
 								<WeaponAbilityCard
 									ability={ability}
+									weapon_id={weapon.weapon_id}
 								/>
 							</Box>
 						)}
                 	</Box>
-					{hasCraft && (
-						<Box>
-							<WeaponCraftDisplay name={weapon.weapon_name} type={"weapon"}/>
-						</Box>
-					)}
+					
 				</Box>
                 <Box className={styles.stats_container}>
 					<Box>
@@ -105,7 +102,11 @@ const WeaponPage: React.FC = () => {
 							selectedLevel={selectedLevel}
                     	/>
 					</Box>
-                    
+                    {hasCraft && (
+						<Box>
+							<WeaponCraftDisplay name={weapon.weapon_name} type={"weapon"}/>
+						</Box>
+					)}
                 </Box>
             </Box>
         </Box>

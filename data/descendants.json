@@ -4,6 +4,7 @@
         "descendant_name": "Lepic",
 		"descendant_description": "A dealer who uses grenades to attack. Clears the battlefield with his right arm and grenades which boast a powerful performance.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/6cecbb40acd1b4479a44caaf22817751",
+		"descendant_element": "fire",
         "descendant_stat": [
             {
                 "level": 1,
@@ -1214,6 +1215,7 @@
         "descendant_name": "Ajax",
 		"descendant_description": "A tanker who utilizes Void Energy. Coordinates his team with a forcefiel that protects allies while deflecting enemy attacks.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/74d88097b3547c406a36651c9378638c",
+		"descendant_element": "non-attribute",
         "descendant_stat": [
             {
                 "level": 1,
@@ -2424,6 +2426,7 @@
         "descendant_name": "Viessa",
 		"descendant_description": "A debuffer who uses Chill at will. She uses Chill to freeze enemies in place, unleashing Cold Snap-like attacks as she weaves her way between them.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/b2be3dc734d2fb10e694de951a5d1079",
+		"descendant_element": "chill",
         "descendant_stat": [
             {
                 "level": 1,
@@ -3634,6 +3637,7 @@
         "descendant_name": "Ultimate Lepic",
 		"descendant_description": "Through the Ultimate Project, Lepic has gained immense strength. With Ultimate Equipment boasting powerful performance and the use of grenades, Lepic dominates the battlefield.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/e2f1ec94648d91eede78f377c3b7aa19",
+		"descendant_element": "fire",
         "descendant_stat": [
             {
                 "level": 1,
@@ -4844,6 +4848,7 @@
         "descendant_name": "Jayber",
 		"descendant_description": "A utility-type dealer who uses turrets. Summons turrets for assault and recovery respectively. When the turrets are enhanced by multi-purpose guns, he can fight more efficiently.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/79c5cbb60e2e06209a0a515775cfa3b6",
+		"descendant_element": "non-attribute",
         "descendant_stat": [
             {
                 "level": 1,
@@ -6054,6 +6059,7 @@
         "descendant_name": "Bunny",
 		"descendant_description": "A dealer of continuous damage who sprints while discharging electricity. The more she runs, the greater the electrical energy she accumulates.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/eaffb014c98c36d8b30d90d7778bb840",
+		"descendant_element": "electric",
         "descendant_stat": [
             {
                 "level": 1,
@@ -7264,6 +7270,7 @@
         "descendant_name": "Ultimate Ajax",
 		"descendant_description": "Through the Ultimate Project, Ajax has gained immense strength. He leads the team with a Forcefield that protects allies while deflecting enemy attacks.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/118d86964484b25593b9a4dfe62e96c1",
+		"descendant_element":"non-attribute",
         "descendant_stat": [
             {
                 "level": 1,
@@ -8474,6 +8481,7 @@
         "descendant_name": "Freyna",
 		"descendant_description": "A dealer of continuous damage who freely manipulates venom. Utilizes the venomous substances produced by her body to trap enemies in swamps of toxins.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/6737a4c79a8a2fe617cb458031e11358",
+		"descendant_element": "toxic",
         "descendant_stat": [
             {
                 "level": 1,
@@ -9684,6 +9692,7 @@
         "descendant_name": "Gley",
 		"descendant_description": "A dealer who becomes stronger the more she damages herself. Unleashes the rage inside her to quickly subdue her enemies.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/d72fa90551e23916f18a81dbd4030d8f",
+		"descendant_element":"non-attribute",
         "descendant_stat": [
             {
                 "level": 1,
@@ -10734,6 +10743,7 @@
         "descendant_name": "Ultimate Viessa",
 		"descendant_description": "Viessa, who has gained incredible power through the Ultimate Project. As a debuffer, she uses Chill to freeze enemies in place, unleashing Cold Snap-like attacks as she weaves her way betwen them.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/665a53a9b478437b13f7d6ae5f5322db",
+		"descendant_element":"chill",
         "descendant_stat": [
             {
                 "level": 1,
@@ -11944,6 +11954,7 @@
         "descendant_name": "Sharen",
 		"descendant_description": "An assassin-type melee dealer with Electric Arche. Using camouflage, she can close the distance to her enemies whenever she desires, and ambush enemies anytime, anywhere.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/f14fdb3a55fc96e409a10b5dfa2b31b0",
+		"descendant_element":"electric",
         "descendant_stat": [
             {
                 "level": 1,
@@ -13154,6 +13165,7 @@
         "descendant_name": "Blair",
 		"descendant_description": "A chef who deals continuous damage and who manipulates fire. Gains energy by adjusting firepower. The hot dishes he throws traps enemies eternally in a flame zone.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/1a5ae4f83650ec541226f55c06deef64",
+		"descendant_element":"fire",
         "descendant_stat": [
             {
                 "level": 1,
@@ -14364,6 +14376,7 @@
         "descendant_name": "Valby",
 		"descendant_description": "A dealer of continuous damage who moves around freely through her Water Arche. A terrifying torrent to her enemies, she's always a refreshing ocean wave to her teammates.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/f1236f2af539bd14c431b5befdd120f4",
+		"descendant_element":"non-attribute",
         "descendant_stat": [
             {
                 "level": 1,
@@ -15574,6 +15587,7 @@
         "descendant_name": "Kyle",
 		"descendant_description": "A tanker-type dealer who generates and manipulates magnetic fields. Creates a barrier or radiates magnetic force to push enemies back and serves as a strong shield for his teammates.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/2ae6db799a211e64aa6a0cd1494c1b0d",
+		"descendant_element":"non-attribute",
         "descendant_stat": [
             {
                 "level": 1,
@@ -16784,6 +16798,7 @@
         "descendant_name": "Esiemo",
 		"descendant_description": "A nuker who handles explosives. Attaches bombs to enemies and denoates them at the right opportunity.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/4f2cbea689b4118dc58895e5e0771270",
+		"descendant_element":"fire",
         "descendant_stat": [
             {
                 "level": 1,
@@ -17994,6 +18009,7 @@
         "descendant_name": "Enzo",
 		"descendant_description": "A supporter who uses drones and supply ships. Commands the battlefield by supplying ammo to allies while launching long-range attacks with drones at the same time.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/dd903ca869faef90ddbe9a64127c8ca1",
+		"descendant_element":"non-attribute",
         "descendant_stat": [
             {
                 "level": 1,
@@ -19204,6 +19220,7 @@
         "descendant_name": "Yujin",
 		"descendant_description": "A supporter who uses his select drones to heal allies. He heals allies and grants them buffs after determining the distance between the allies and him.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/2bb766e96b8aa777faf6ef1b5afcbc3f",
+		"descendant_element":"non-attribute",
         "descendant_stat": [
             {
                 "level": 1,
@@ -20414,6 +20431,7 @@
         "descendant_name": "Luna",
 		"descendant_description": "A supporter who grants buffs to allies using her own music. Betows a variety of music and buffs to allies within a radius around her.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/c07d494b9cb1d8285fee1f1752ff41c0",
+		"descendant_element":"non-attribute",
         "descendant_stat": [
             {
                 "level": 1,
@@ -21624,6 +21642,7 @@
         "descendant_name": "Ultimate Bunny",
 		"descendant_description": "Through the Ultimate Projectn Bunny has gained immense strength. The more she runs, the greater the electrical energy she accumulates, allowing her to release this energy in a powerful shockwave.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/d4e6462f87513fe6652633620b7f8d19",
+		"descendant_element":"electric",
         "descendant_stat": [
             {
                 "level": 1,
@@ -22834,6 +22853,7 @@
         "descendant_name": "Ultimate Gley",
 		"descendant_description": "Through the Ultimate Project, Gley has gained immense strength. She becomes stronger the more shes damages herself. She unleashes the rage inside her to quickly subdue her enemies.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/c4c10b88e178305521d044f5a969583d",
+		"descendant_element":"non-attribute",
         "descendant_stat": [
             {
                 "level": 1,
@@ -24044,6 +24064,7 @@
         "descendant_name": "Ultimate Valby",
 		"descendant_description": "Through the Ultimate Project, Valby gained immense strength. With the Water Arche, she swims freely, maintaining guard against surrounding enemies. To foes, she is a fearsome torrent, yet to her teammates, she always resembles a refreshing tide.",
         "descendant_image_url": "https://open.api.nexon.com/static/tfd/img/8ae81e3d05a981d5da24c26c09106330",
+		"descendant_element":"non-attribute",
         "descendant_stat": [
             {
                 "level": 1,

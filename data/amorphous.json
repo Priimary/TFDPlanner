@@ -25,7 +25,7 @@
   },
   {
     "id": 1,
-    "drop_location": "Kingston [N] - Fallen Theatre Outpost",
+    "drop_location": "Kingston [N] - Fallen Theater Outpost",
     "open_location": "Kingston [N] - Grand Square Void Reactor",
 	"drop_location_type": "Outpost",
     "rewards": [
@@ -54,7 +54,7 @@
   {
     "id": 2,
     "drop_location": "Kingston [N] - Magister Lab",
-    "open_location": "Grave Walker",
+    "open_location": "Grave Walker [N]",
 	"drop_location_type": "Dungeon",
     "rewards": [
       {
@@ -82,7 +82,7 @@
   {
     "id": 3,
     "drop_location": "Kingston [N] - Slumber Valley",
-    "open_location": "Grave Walker",
+    "open_location": "Grave Walker [N]",
 	"drop_location_type": "Dungeon",
     "rewards": [
       {
@@ -109,8 +109,8 @@
   },
   {
     "id": 4,
-    "drop_location": "Kingston Defense",
-    "open_location": "Grave Walker",
+    "drop_location": "Kingston - Defense",
+    "open_location": "Grave Walker [N]",
 	"drop_location_type": "Special Ops",
     "rewards": [
       {
@@ -137,8 +137,8 @@
   },
   {
     "id": 5,
-    "drop_location": "Kingston Defense",
-    "open_location": "Grave Walker",
+    "drop_location": "Kingston - Defense",
+    "open_location": "Grave Walker [N]",
 	"drop_location_type": "Special Ops",
     "rewards": [
       {
@@ -250,7 +250,7 @@
   {
     "id": 9,
     "drop_location": "Sterile Land [N] - The Forgottense",
-    "open_location": "Stunning Beauty",
+    "open_location": "Stunning Beauty [N]",
 	"drop_location_type": "Dungeon",
     "rewards": [
       {
@@ -278,7 +278,7 @@
   {
     "id": 10,
     "drop_location": "Sterile Land [N] - Unknown Laboratory",
-    "open_location": "Stunning Beauty",
+    "open_location": "Stunning Beauty [N]",
 	"drop_location_type": "Dungeon",
     "rewards": [
       {
@@ -306,7 +306,7 @@
   {
     "id": 11,
     "drop_location": "Sterile Land - Block Kuiper Mining",
-    "open_location": "Stunning Beauty",
+    "open_location": "Stunning Beauty [N]",
 	"drop_location_type": "Special Ops",
 	"vaulted": true,
     "rewards": [
@@ -335,7 +335,7 @@
   {
     "id": 12,
     "drop_location": "Sterile Land - Block Kuiper Mining",
-    "open_location": "Stunning Beauty",
+    "open_location": "Stunning Beauty [N]",
 	"drop_location_type": "Special Ops",
     "rewards": [
       {
@@ -1520,7 +1520,7 @@
   },
   {
     "id": 54,
-    "drop_location": "Kingston [H] - Fallen Theatre Outpost",
+    "drop_location": "Kingston [H] - Fallen Theater Outpost",
     "open_location": "Kingston [H] - Grand Square Void Reactor",
 	"drop_location_type": "Outpost",
     "rewards": [
@@ -1548,7 +1548,7 @@
   },
   {
     "id": 55,
-    "drop_location": "Kingston [H] - Fallen Theatre Outpost",
+    "drop_location": "Kingston [H] - Fallen Theater Outpost",
     "open_location": "Kingston [H] - Grand Square Void Reactor",
 	"drop_location_type": "Outpost Infiltration",
 	"vaulted": true,
@@ -2929,7 +2929,7 @@
   },
   {
     "id": 104,
-    "drop_location": "Hagios [H] - The Haven",
+    "drop_location": "White-night Gulch [H] - Mystery's End",
     "open_location": "Obstructer [H]",
 	"drop_location_type": "Dungeon",
     "rewards": [
@@ -2957,7 +2957,7 @@
   },
   {
     "id": 105,
-    "drop_location": "Hagios [H] - The Haven",
+    "drop_location": "White-night Gulch [H] - Mystery's End",
     "open_location": "Obstructer [H]",
 	"drop_location_type": "Dungeon",
     "rewards": [
@@ -2985,7 +2985,7 @@
   },
   {
     "id": 106,
-    "drop_location": "Hagios [H] - Old Mystery",
+    "drop_location": "White-night Gulch [H] - Bio-Lab",
     "open_location": "Obstructer [H]",
 	"drop_location_type": "Dungeon",
     "rewards": [
@@ -3013,7 +3013,7 @@
   },
   {
     "id": 107,
-    "drop_location": "Hagios [H] - Old Mystery",
+    "drop_location": "White-night Gulch [H] - Bio-Lab",
     "open_location": "Obstructer [H]",
 	"drop_location_type": "Dungeon",
     "rewards": [
@@ -3211,7 +3211,7 @@
   },
   {
     "id": 114,
-    "drop_location": "White-night Gulch [H] - Mystery's End",
+    "drop_location": "Hagios [H] - The Haven",
     "open_location": "Frost Walker [H]",
 	"drop_location_type": "Dungeon",
     "rewards": [
@@ -3239,7 +3239,7 @@
   },
   {
     "id": 115,
-    "drop_location": "White-night Gulch [H] - Mystery's End",
+    "drop_location": "Hagios [H] - The Haven",
     "open_location": "Frost Walker [H]",
 	"drop_location_type": "Dungeon",
 	"vaulted": true,
@@ -3268,7 +3268,7 @@
   },
   {
     "id": 116,
-    "drop_location": "White-night Gulch [H] - Bio-Lab",
+    "drop_location": "Hagios [H] - Old Mystery",
     "open_location": "Frost Walker [H]",
 	"drop_location_type": "Dungeon",
     "rewards": [
@@ -3296,7 +3296,7 @@
   },
   {
     "id": 117,
-    "drop_location": "White-night Gulch [H] - Bio-Lab",
+    "drop_location": "Hagios [H] - Old Mystery",
     "open_location": "Frost Walker [H]",
 	"drop_location_type": "Dungeon",
     "rewards": [
@@ -3913,7 +3913,7 @@
   },
   {
 	"id": "55 - Mutant AA",
-	"drop_location": "Kingston [N] - Fallen Theatre Outpost",
+	"drop_location": "Kingston [N] - Fallen Theater Outpost",
 	"open_location": "Kingston [H] - Grand Square Void Reactor",
 	"drop_location_type": "Outpost Infiltration",
 	"rewards": [

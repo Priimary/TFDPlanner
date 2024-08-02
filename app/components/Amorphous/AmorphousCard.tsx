@@ -17,7 +17,7 @@ const AmorphousCard: React.FC<AmorphousCardProps> = ({ amorphous, selectedPart})
 	const materialsString = materials.map(material => `${material.name}: ${material.value}`).join(', ');
 
     return (
-        <Card sx={{backgroundColor: '#2b2f38'}}>
+        <Card sx={{backgroundColor: '#2b2f38', marginBottom: '20px'}}>
             <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', width:'100%', backgroundColor: '#15171c', padding: '10px 0'}}>
                 <div>
                     <Typography color='tertiary.dark' sx={{fontSize:'20px', fontWeight: 'bold', position: 'relative', textTransform: 'uppercase'}}>
