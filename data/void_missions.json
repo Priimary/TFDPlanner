@@ -760,7 +760,7 @@
     ]
   },
   {
-    "location": "Echo Swamp - Derelict Cover",
+    "location": "Echo Swamp - Derelict Covert",
     "type": "Fragment",
     "element": "Toxic",
     "difficulty": "Normal",
@@ -809,7 +809,7 @@
     ]
   },
   {
-    "location": "Echo Swamp - Derelict Cover",
+    "location": "Echo Swamp - Derelict Covert",
     "type": "Reactor",
     "element": "Boss",
     "difficulty": "Normal",
@@ -843,7 +843,7 @@
     ]
   },
   {
-    "location": "Echo Swamp - Derelict Cover",
+    "location": "Echo Swamp - Derelict Covert",
     "type": "Fragment",
     "element": "Toxic",
     "difficulty": "Hard",
@@ -892,7 +892,7 @@
     ]
   },
   {
-    "location": "Echo Swamp - Derelict Cover",
+    "location": "Echo Swamp - Derelict Covert",
     "type": "Reactor",
     "element": "Boss",
     "difficulty": "Hard",

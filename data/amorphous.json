@@ -1745,8 +1745,8 @@
   },
   {
     "id": 62,
-    "drop_location": "Sterile Land [H] - The Repository Outpost",
-    "open_location": "Sterile Land [H] - The Repository Void Reactor",
+    "drop_location": "Sterile Land [H] - Repository Outpost",
+    "open_location": "Sterile Land [H] - Repository Void Reactor",
 	"drop_location_type": "Outpost",
     "rewards": [
       {
@@ -1773,8 +1773,8 @@
   },
   {
     "id": 63,
-    "drop_location": "Sterile Land [H] - The Repository Outpost",
-    "open_location": "Sterile Land [H] - The Repository Void Reactor",
+    "drop_location": "Sterile Land [H] - Repository Outpost",
+    "open_location": "Sterile Land [H] - Repository Void Reactor",
 	"drop_location_type": "Outpost Infiltration",
     "rewards": [
       {
