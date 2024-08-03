@@ -321,20 +321,20 @@
 						"recoil": "30%"
 					},
 					"2": {
-						"reload_time_modifier": "-20%",
-						"recoil": "30%"
+						"reload_time_modifier": "-15%",
+						"recoil": "25%"
 					},
 					"3": {
-						"reload_time_modifier": "-20%",
-						"recoil": "30%"
+						"reload_time_modifier": "-10%",
+						"recoil": "20%"
 					},
 					"4": {
-						"reload_time_modifier": "-20%",
-						"recoil": "30%"
+						"reload_time_modifier": "-5%",
+						"recoil": "15%"
 					},
 					"5": {
-						"reload_time_modifier": "-20%",
-						"recoil": "30%"
+						"reload_time_modifier": "0%",
+						"recoil": "10%"
 					}
 				}
 			},
@@ -354,32 +354,32 @@
 						"duration": "15s",
 						"max_stacks": "5",
 						"skill_cost": "30%",
-						"non_attribute_skill_power": "6%",
-						"non_attribute_skill_power_per_stack": "2%"
+						"non_attribute_skill_power": "7%",
+						"non_attribute_skill_power_per_stack": "2.5%"
 					},
 					"3": {
 						"trigger_rate": "100%",
 						"duration": "15s",
 						"max_stacks": "5",
 						"skill_cost": "30%",
-						"non_attribute_skill_power": "6%",
-						"non_attribute_skill_power_per_stack": "2%"
+						"non_attribute_skill_power": "8%",
+						"non_attribute_skill_power_per_stack": "3%"
 					},
 					"4": {
 						"trigger_rate": "100%",
 						"duration": "15s",
 						"max_stacks": "5",
 						"skill_cost": "30%",
-						"non_attribute_skill_power": "6%",
-						"non_attribute_skill_power_per_stack": "2%"
+						"non_attribute_skill_power": "9%",
+						"non_attribute_skill_power_per_stack": "3.5%"
 					},
 					"5": {
 						"trigger_rate": "100%",
 						"duration": "15s",
 						"max_stacks": "5",
 						"skill_cost": "30%",
-						"non_attribute_skill_power": "6%",
-						"non_attribute_skill_power_per_stack": "2%"
+						"non_attribute_skill_power": "10%",
+						"non_attribute_skill_power_per_stack": "4%"
 					}
 				}
 			},
@@ -721,12 +721,12 @@
 						"effective_range_(drop_off_end)": "-5.6%"
 					},
 					"3": {
-						"effective_range_(drop_off_start)": "-7%",
-						"effective_range_(drop_off_end)": "-3.5%"
+						"effective_range_(drop_off_start)": "-7.5%",
+						"effective_range_(drop_off_end)": "-4.2%"
 					},
 					"4": {
-						"effective_range_(drop_off_start)": "-3.75%",
-						"effective_range_(drop_off_end)": "-1.75%"
+						"effective_range_(drop_off_start)": "-5%",
+						"effective_range_(drop_off_end)": "-2.8%"
 					},
 					"5": {
 						"effective_range_(drop_off_start)": "0%",
@@ -1756,13 +1756,13 @@
 						"firearm_atk": "25%"
 					},
 					"2": {
-						"firearm_atk": "28.75%"
+						"firearm_atk": "29%"
 					},
 					"3": {
 						"firearm_atk": "33%"
 					},
 					"4": {
-						"firearm_atk": "36.25%"
+						"firearm_atk": "37%"
 					},
 					"5": {
 						"firearm_atk": "40%"
