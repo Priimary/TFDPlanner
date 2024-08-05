@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardContent, CardActions, Typography, Grid, Box } from '@mui/material';
+import { Card, CardContent, CardActions, Typography, Grid, Box} from '@mui/material';
 import { VoidMission, Amorphous } from '../../interfaces/interfaces';
 import voidMissionsData from '../../../data/void_missions.json';
 import { getMaterialsForAmorphous } from '../../utils/globalVariables';
@@ -18,20 +18,28 @@ const AmorphousCard: React.FC<AmorphousCardProps> = ({ amorphous, selectedPart})
 
     return (
         <Card sx={{backgroundColor: '#2b2f38', marginBottom: '20px'}}>
-            <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', width:'100%', backgroundColor: '#15171c', padding: '10px 0'}}>
-                <div>
-                    <Typography color='tertiary.dark' sx={{fontSize:'20px', fontWeight: 'bold', position: 'relative', textTransform: 'uppercase'}}>
-                        Amorphous {amorphous.id}
-                        <Image
-                            src={`/images/consumables/amorphous_material_pattern__${typeof amorphous.id === 'string' ? amorphous.id.toLowerCase().replace(/ /g, '_').replace(/-/g, '') : amorphous.id}.png`} 
-                            alt={`amorphous ${amorphous.id}`}
-							width={45}
-							height={45}
-							quality={100}
-                            style={{position: 'absolute', top: '-25%', left:'-30%'}}
-                        />
-                    </Typography>
-                </div>
+            <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', width:'100%', backgroundColor: '#15171c', padding: '5px 0', gap: '10px'}}>
+				<div style={{display: 'flex', flex: 1, justifyContent: 'flex-end'}}>
+					<Image
+						src={`/images/consumables/amorphous_material_pattern__${typeof amorphous.id === 'string' ? amorphous.id.toLowerCase().replace(/ /g, '_').replace(/-/g, '') : amorphous.id}.png`} 
+						alt={`amorphous ${amorphous.id}`}
+						width={45}
+						height={45}
+						quality={100}
+					/>
+				</div>
+				<div style={{display: 'flex'}}>
+					<Typography color='tertiary.dark' sx={{fontSize:'20px', fontWeight: 'bold', position: 'relative', textTransform: 'uppercase'}}>
+						Amorphous {amorphous.id}
+					</Typography>
+				</div>
+				<div style={{display: 'flex', flex: 1, justifyContent: 'flex-start'}}> 
+					{amorphous.vaulted && (
+						<div style={{border: '1px solid #f44336', borderRadius: '5px', padding: '5px 10px'}}>
+							<Typography sx={{color: 'error.main', fontWeight: 'bold', fontSize: '14px'}}>VAULT</Typography>
+						</div>
+					)}
+				</div>
             </div>
             <div style={{ display: 'flex', justifyContent: 'center' }}>
                 <div style={{ backgroundColor: '#15171C', display: 'flex', justifyContent: 'center', borderRadius: '0 0 10px 10px', padding: '0 10px' }}>

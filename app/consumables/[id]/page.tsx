@@ -41,10 +41,9 @@ const ConsumablePage: React.FC = () => {
 				}
 				if(['Amorphous Material'].includes(fetchedConsumable.type)){
 					if(!fetchedConsumable.name.includes('Shape Stabilizer Form')){
-						const idMatch = id.match(/\d+/);
-						const numericId = idMatch ? idMatch[0] : '';
+						const formattedName = fetchedConsumable.name.replace('Amorphous Material Pattern: ', '');
 						const amorphousDetails = amorphousData.find((a: Amorphous) => 
-							a.id == numericId
+							a.id == formattedName
 						);
 						if(amorphousDetails){
 							setAmorphous(amorphousDetails);
@@ -87,7 +86,7 @@ const ConsumablePage: React.FC = () => {
 	const props = {
 		name: consumable.name,
 		description: consumable.description,
-		image_url: `/images/consumables/${consumable.name.toLowerCase().replace(/ /g, '_').replace(/'/g, '_').replace(/:/g, '_')}.png`,
+		image_url: `/images/consumables/${consumable.name.toLowerCase().replace(/ /g, '_').replace(/'/g, '_').replace(/:/g, '_').replace(/-/g, '')}.png`,
 		type: consumable.type,
 		tier: consumable.tier
 	}
@@ -117,6 +116,9 @@ const ConsumablePage: React.FC = () => {
 							<Box sx={{display: 'flex', flexDirection: 'column', gap:'20px'}}>
 								<Box>
 									<Typography variant="h2" className={styles.dynamic_border_container} sx={{fontSize: '20px', fontWeight: 'bold', color: 'primary.dark'}}>INFO</Typography>
+									{amorphous.vaulted && (
+										<Typography variant="subtitle1" sx={{color: 'error.main', fontWeight: 'bold', marginBottom: '5px'}}>This amorphous is not obtainable anymore.</Typography>
+									)}
 									<AmorphousInfo amorphous={amorphous}/>
 								</Box>
 								<Box>

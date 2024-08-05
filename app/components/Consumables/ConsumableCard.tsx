@@ -17,7 +17,7 @@ const ConsumableCard: React.FC<ConsumableCardProps> = ({index, item}) => {
 		inset rgba(60, 70, 85, 0.5) 0px 0px 40px 0px,
 		inset rgba(0, 0, 0, 1) 0px 0px 10px 0px`
     };
-	const image_url = `/images/consumables/${item.name.toLowerCase().replace(/ /g, '_').replace(/'/g, '_').replace(/:/g, '_')}.png`;
+	const image_url = `/images/consumables/${item.name.toLowerCase().replace(/ /g, '_').replace(/'/g, '_').replace(/:/g, '_').replace(/-/g, '')}.png`;
 	
     return (
 		<Card key={index} className={styles.card}>

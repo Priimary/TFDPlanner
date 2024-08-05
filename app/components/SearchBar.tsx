@@ -34,7 +34,7 @@ const HeaderSearchbar: React.FC = () => {
             setShowDropdown(false);
             return;
         }
-        if(debouncedSearchTerm.trim().length > 2){
+        if(debouncedSearchTerm.trim().length > 1){
             applySearch(debouncedSearchTerm);
         }
     }, [debouncedSearchTerm]);
@@ -42,7 +42,7 @@ const HeaderSearchbar: React.FC = () => {
     const handleSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
         const value = event.target.value;
         setSearchTerm(value);
-        if(value.trim() === '' || value.trim().length < 3){
+        if(value.trim() === '' || value.trim().length < 2){
             setShowDropdown(false);
         } 
 		else{
@@ -51,37 +51,42 @@ const HeaderSearchbar: React.FC = () => {
     };
 
     const handleSearchFocus = () => {
-        if(searchTerm.trim().length > 2){
+        if(searchTerm.trim().length > 1){
             setShowDropdown(true);
         }
     };
 
-    const applySearch = (searchTerm: string) => {
-        const lowerCaseSearchTerm = searchTerm.toLowerCase();
-        const results: { [key: string]: SearchResult[] } = {};
-
-        const searchInCategory = (data: any[], category: string) => {
-            const categoryResults = data.filter(item => {
-                const itemValues = Object.values(item);
-                return itemValues.some(val =>
-                    val && val.toString().toLowerCase().includes(lowerCaseSearchTerm)
-                );
-            }).map(item => ({ category, item }));
-
-            if(categoryResults.length > 0){
-                results[category] = categoryResults;
-            }
-        };
-
-        searchInCategory(weapons, 'Weapons');
-        searchInCategory(descendants, 'Descendants');
-        searchInCategory(consumables, 'Consumables');
-
-        setGroupedResults(results);
-        if(Object.keys(results).length > 0){
-            setShowDropdown(true);
-        }
-    };
+    const normalizeText = (text: string) => {
+		return text
+			.toLowerCase() // Convert to lowercase for case-insensitive comparison
+			.replace(/[^a-z0-9\s]/g, '') // Remove special characters except spaces
+			.trim(); // Remove leading and trailing spaces
+	};
+	
+	const applySearch = (searchTerm: string) => {
+		const normalizedSearchTerm = normalizeText(searchTerm);
+		const results: { [key: string]: SearchResult[] } = {};
+	
+		const searchInCategory = (data: any[], category: string) => {
+			const categoryResults = data.filter(item => {
+				const normalizedItemName = normalizeText(getItemName(item, category));
+				return normalizedItemName.includes(normalizedSearchTerm);
+			}).map(item => ({ category, item }));
+	
+			if (categoryResults.length > 0) {
+				results[category] = categoryResults;
+			}
+		};
+	
+		searchInCategory(weapons, 'Weapons');
+		searchInCategory(descendants, 'Descendants');
+		searchInCategory(consumables, 'Consumables');
+	
+		setGroupedResults(results);
+		if (Object.keys(results).length > 0) {
+			setShowDropdown(true);
+		}
+	};
 
     const getItemName = (item: any, category: string) => {
         switch (category) {

@@ -31,17 +31,17 @@ const DescendantsPage: React.FC = () => {
     const applyFiltersAndSearch = (searchTerm: string = '', filters: any = {}) => {
         let result = descendants;
 
-        if (filters.element) {
+        if(filters.element){
             result = result.filter(descendant => descendant.descendant_element === filters.element);
         }
-        if (filters.rarity && filters.rarity !== 'all') {
+        if(filters.rarity && filters.rarity !== 'all'){
             const isUltimate = filters.rarity === 'ultimate';
             result = result.filter(descendant =>
                 isUltimate ? descendant.descendant_name.toLowerCase().includes('ultimate') : !descendant.descendant_name.toLowerCase().includes('ultimate')
             );
         }
 
-        if (searchTerm) {
+        if(searchTerm){
             result = result.filter(descendant =>
                 Object.values(descendant).some(val =>
                     val && val.toString().toLowerCase().includes(searchTerm.toLowerCase())
