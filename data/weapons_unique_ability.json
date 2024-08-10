@@ -211,20 +211,20 @@
 					"2": {
 						"duration": "6s",
 						"stage_1_weak_point_damage": "9%",
-						"stage_2_weak_point_damage": "16.5%",
-						"stage_3_weak_point_damage": "34%"
+						"stage_2_weak_point_damage": "15%",
+						"stage_3_weak_point_damage": "23%"
 					},
 					"3": {
 						"duration": "7s",
 						"stage_1_weak_point_damage": "9%",
-						"stage_2_weak_point_damage": "20%",
-						"stage_3_weak_point_damage": "50%"
+						"stage_2_weak_point_damage": "16%",
+						"stage_3_weak_point_damage": "29%"
 					},
 					"4": {
 						"duration": "8s",
 						"stage_1_weak_point_damage": "9%",
-						"stage_2_weak_point_damage": "23.5%",
-						"stage_3_weak_point_damage": "66%"
+						"stage_2_weak_point_damage": "18%",
+						"stage_3_weak_point_damage": "36%"
 					},
 					"5": {
 						"duration": "9s",
@@ -246,20 +246,20 @@
 					"2": {
 						"duration": "6s",
 						"stage_1_firearm_critical_hit_rate": "17%",
-						"stage_2_firearm_critical_hit_rate": "27.5%",
-						"stage_3_firearm_critical_hit_rate": "46.25%"
+						"stage_2_firearm_critical_hit_rate": "28%",
+						"stage_3_firearm_critical_hit_rate": "44%"
 					},
 					"3": {
 						"duration": "7s",
 						"stage_1_firearm_critical_hit_rate": "17%",
 						"stage_2_firearm_critical_hit_rate": "31%",
-						"stage_3_firearm_critical_hit_rate": "58.5%"
+						"stage_3_firearm_critical_hit_rate": "56%"
 					},
 					"4": {
 						"duration": "8s",
 						"stage_1_firearm_critical_hit_rate": "17%",
-						"stage_2_firearm_critical_hit_rate": "34.5%",
-						"stage_3_firearm_critical_hit_rate": "70.75%"
+						"stage_2_firearm_critical_hit_rate": "34%",
+						"stage_3_firearm_critical_hit_rate": "68%"
 					},
 					"5": {
 						"duration": "9s",
@@ -282,19 +282,19 @@
 						"duration": "6s",
 						"stage_1_fire_rate": "3%",
 						"stage_2_fire_rate": "5%",
-						"stage_3_fire_rate": "10.75%"
+						"stage_3_fire_rate": "8%"
 					},
 					"3": {
 						"duration": "7s",
 						"stage_1_fire_rate": "3%",
-						"stage_2_fire_rate": "6%",
-						"stage_3_fire_rate": "15.5%"
+						"stage_2_fire_rate": "5%",
+						"stage_3_fire_rate": "10%"
 					},
 					"4": {
 						"duration": "8s",
 						"stage_1_fire_rate": "3%",
-						"stage_2_fire_rate": "7%",
-						"stage_3_fire_rate": "20.25%"
+						"stage_2_fire_rate": "6%",
+						"stage_3_fire_rate": "12%"
 					},
 					"5": {
 						"duration": "9s",
@@ -424,12 +424,12 @@
 						"aim_recovery_speed": "-62%"
 					},
 					"3": {
-						"fire_rate": "-22.5%",
-						"aim_recovery_speed": "-55%"
+						"fire_rate": "-30%",
+						"aim_recovery_speed": "-54%"
 					},
 					"4": {
-						"fire_rate": "-13.75%",
-						"aim_recovery_speed": "-47.5%"
+						"fire_rate": "-25%",
+						"aim_recovery_speed": "-48%"
 					},
 					"5": {
 						"fire_rate": "-5%",
@@ -470,7 +470,7 @@
 						"shell_capacity": "2"
 					},
 					"2": {
-						"duration": "1.25s",
+						"duration": "1.2s",
 						"shell_capacity": "2"
 					},
 					"3": {
@@ -478,7 +478,7 @@
 						"shell_capacity": "2"
 					},
 					"4": {
-						"duration": "1.75s",
+						"duration": "1.8s",
 						"shell_capacity": "2"
 					},
 					"5": {
@@ -536,7 +536,7 @@
 					"2": {
 						"duration": "5s",
 						"max_stacks": "5",
-						"accuracy": "32.5%",
+						"accuracy": "100%",
 						"firearm_critical_hit_rate": "7%",
 						"accuracy_per_stack": "5%",
 						"firearm_critical_hit_rate_per_stack": "9%",
@@ -545,7 +545,7 @@
 					"3": {
 						"duration": "5s",
 						"max_stacks": "5",
-						"accuracy": "55%",
+						"accuracy": "100%",
 						"firearm_critical_hit_rate": "8%",
 						"accuracy_per_stack": "5%",
 						"firearm_critical_hit_rate_per_stack": "10%",
@@ -1936,17 +1936,17 @@
 						"remove_debuff": "100%"
 					},
 					"2": {
-						"trigger_rate": "62.5%",
+						"trigger_rate": "60%",
 						"duration": "1s",
 						"remove_debuff": "100%"
 					},
 					"3": {
-						"trigger_rate": "75%",
+						"trigger_rate": "70%",
 						"duration": "1s",
 						"remove_debuff": "100%"
 					},
 					"4": {
-						"trigger_rate": "87.5%",
+						"trigger_rate": "80%",
 						"duration": "1s",
 						"remove_debuff": "100%"
 					},

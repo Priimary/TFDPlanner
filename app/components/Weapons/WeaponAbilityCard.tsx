@@ -92,8 +92,6 @@ const WeaponAbilityCard: React.FC<WeaponAbilityCardProps> = ({ ability, weapon_i
 								aria-labelledby="level-slider"
 								sx={{color: 'tertiary.dark',width: '70%'}}
 							/>
-							{/* DELETE LATER */}
-							<Typography sx={{textAlign: 'center', color: 'red', fontWeight: '600'}}>Values still need to be checked, send a DM to priimary. on Discord with a screenshot if you have an upgraded weapon.</Typography>
 						</Box>
 						<Box sx={{overflowY: 'auto', maxHeight: '300px'}}>
 							{abilityDetails.ability_effects?.map((effect, index) => (
